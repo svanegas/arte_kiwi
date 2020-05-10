@@ -47,7 +47,7 @@ export default {
       },
       {
         id: 'kits-timoteo',
-        text: "Kits dde letra Timoteo",
+        text: "Kits de letra Timoteo",
         link: "https://wa.link/p1yjc2"
       },
       {
