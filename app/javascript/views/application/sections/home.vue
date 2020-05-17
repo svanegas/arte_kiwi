@@ -24,15 +24,19 @@
     <div class="w-full relative z-0">
       <img class='w-48 md:w-56 lg:w-64 absolute z-0 left-0 sm:ml-8' src='img/macha_verde.png'>
     </div>
-    <!-- Write us -->
-    <div class="w-full my-2 mt-4 z-10">
-      Escríbenos: <a href="mailto:contacto@artekiwi.com">contacto@artekiwi.com</a>
-    </div>
     <!-- Social -->
-    <div class="w-full flex justify-center mb-4 z-10">
-      <img class="w-6 mx-2" src="img/social/instagram.svg">
-      <img class="w-6 mx-2" src="img/social/whatsapp.svg">
-      <img class="w-6 mx-2" src="img/social/facebook.svg">
+    <div class="w-full flex justify-center mt-4 mb-2 z-10">
+      <a href="https://www.instagram.com/arte_kiwi/" target="_blank"><img class="w-8 mx-2" src="img/social/instagram.svg" /></a>
+      <a href="https://wa.link/btnclx" target="_blank"><img class="w-8 mx-2" src="img/social/whatsapp.svg" /></a>
+      <a href="https://www.facebook.com/artekiwioficial" target="_blank"><img class="w-8 mx-2" src="img/social/facebook.svg" /></a>
+    </div>
+    <!-- Write us -->
+    <div class="w-full my-2 z-10">
+      Escríbenos: <a class="text-ak-red font-bold" href="mailto:contacto@artekiwi.com">contacto@artekiwi.com</a>
+    </div>
+    <!-- Text -->
+    <div class="w-full my-2 mb-4 z-10">
+      &copy; Copyright 2020, Arte Kiwi – Hecho con ❤️
     </div>
   </footer>
 </section>
