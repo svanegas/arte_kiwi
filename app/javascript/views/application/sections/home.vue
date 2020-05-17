@@ -7,7 +7,7 @@
   <!-- Buttons -->
   <div class="flex flex-wrap pb-8 relative text-center">
     <div v-for='product in products' class="w-full my-1 flex justify-center z-10">
-      <a :id="product.id" class="w-full max-w-xs sm:max-w-lg btn btn-primary sm:py-4 text-xl focus:outline-none outline-none" :href="product.link" target='_blank'>
+      <a :id="product.id" class="btn btn-primary w-full max-w-xs sm:max-w-lg sm:py-4 text-xl" :href="product.link" target='_blank'>
         {{ product.text }}
       </a>
     </div>
@@ -22,7 +22,7 @@
   <footer class='w-full flex flex-col text-center justify-center border-t border-grey pin-b'>
     <!-- Texture -->
     <div class="w-full relative z-0">
-      <img class='w-48 md:w-56 lg:w-64 absolute z-0' src='img/macha_verde.png'>
+      <img class='w-48 md:w-56 lg:w-64 absolute z-0 left-0 sm:ml-8' src='img/macha_verde.png'>
     </div>
     <!-- Write us -->
     <div class="w-full my-2 mt-4 z-10">
