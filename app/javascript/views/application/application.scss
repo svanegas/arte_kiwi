@@ -1,3 +1,28 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+/* Colors */
+$color: (
+  primary:      #DEECB1,
+  primaryLight: #E7F1C8,
+  red:          #F0CACE,
+  yellow:       #FFF7BE,
+  skyBlue:      #CEEFE8,
+  orange:       #F1E2D8,
+  purple:       #E6E3FA,
+  gray:         #565F69
+);
+
+/* Buttons */
+.btn {
+  @apply font-bold py-2 px-4 rounded;
+}
+
+.btn-primary {
+  background-color: map-get($color, primary);
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: map-get($color, primaryLight);
+}
