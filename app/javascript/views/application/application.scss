@@ -1,6 +1,7 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
 /* Colors */
 $color: (
   primary:      #DEECB1,
@@ -25,4 +26,12 @@ $color: (
 
 .btn-primary:hover {
   background-color: map-get($color, primaryLight);
+}
+
+.text-red-kiwi {
+
+}
+
+html {
+  font-family: 'Handlee', sans-serif;
 }
