@@ -48,8 +48,8 @@ export default {
   data: () => ({
     products: [{
         id: 'caja-regalo',
-        text: 'Caja regalo día de las madres',
-        link: 'https://wa.link/tl3jh5'
+        text: 'Caja de regalo para toda ocasión',
+        link: 'https://wa.link/s689ed'
       },
       {
         id: 'cartilla-lettering',
