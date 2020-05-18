@@ -48,7 +48,7 @@ export default {
   data: () => ({
     products: [{
         id: 'caja-regalo',
-        text: 'Caja de regalo para toda ocasión',
+        text: 'Caja regalo para toda ocasión',
         link: 'https://wa.link/s689ed'
       },
       {
