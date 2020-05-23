@@ -4,8 +4,6 @@
     <img class='object-contain w-48 md:w-56 lg:w-64 sm:my-8' src='img/logo.png'>
   </nav>
 
-  <h1>Testing life music</h1>
-
   <!-- Buttons -->
   <div class="flex flex-wrap pb-8 relative text-center">
     <div v-for='product in products' class="w-full my-1 flex justify-center z-10">
