@@ -6,6 +6,9 @@
 
   <!-- Buttons -->
   <div class="flex flex-wrap pb-8 relative text-center">
+    <div class="w-full my-1 flex justify-center z-10">
+      <v-btn small color="primary">Primary</v-btn>
+    </div>
     <div v-for='product in products' class="w-full my-1 flex justify-center z-10">
       <a :id="product.id" class="btn btn-primary text-ak-green-dark w-full max-w-xs sm:max-w-lg sm:py-4 text-xl" :href="product.link" target='_blank'>
         {{ product.text }}
