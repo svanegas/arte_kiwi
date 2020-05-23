@@ -11,7 +11,6 @@ const colors = {
 }
 
 module.exports = {
-  important: true,
   theme: {
     fontFamily: {
       display: ['Handlee', 'sans-serif'],
