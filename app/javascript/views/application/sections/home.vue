@@ -46,45 +46,41 @@
 export default {
   name: 'Home',
   data: () => ({
-    products: [{
-        id: 'caja-regalo',
-        text: 'Caja regalo para toda ocasión',
-        link: 'https://wa.link/s689ed'
+    products: [
+      {
+        id: 'kits-marcadores',
+        text: 'Marcadores',
+        link: 'https://wa.link/zezn4r'
       },
       {
         id: 'cartilla-lettering',
         text: 'Cartilla de lettering',
-        link: 'https://wa.link/8yd3qd'
+        link: 'https://wa.link/ogt10m'
       },
       {
-        id: 'cartilla-dibujos',
-        text: 'Cartilla de dibujos Timoteo',
-        link: 'https://wa.link/xmuqln'
+        id: 'caja-regalo',
+        text: 'Caja regalo para toda ocasión',
+        link: 'https://wa.link/gmcm3d'
       },
       {
         id: 'cartilla-timoteo',
         text: 'Cartilla de letra Timoteo',
-        link: 'https://wa.link/gsljpo'
+        link: 'https://wa.link/a6rm9v'
+      },
+      {
+        id: 'cartilla-dibujos',
+        text: 'Cartilla de dibujos Timteo',
+        link: 'https://wa.link/1mumov'
       },
       {
         id: 'taller-virtual-timoteo',
         text: 'Taller virtual de letra Timoteo',
-        link: 'https://wa.link/tt2dc1'
+        link: 'https://wa.link/25jqu0'
       },
       {
-        id: 'kits-marcadores',
-        text: 'Kits de marcadores',
-        link: 'https://wa.link/tfja2b'
-      },
-      {
-        id: 'kits-timoteo',
-        text: 'Kits de letra Timoteo',
-        link: 'https://wa.link/p1yjc2'
-      },
-      {
-        id: 'marcados-personalizados',
-        text: 'Marcados personalizados',
-        link: 'https://wa.link/ygy7q3'
+        id: 'kits',
+        text: 'Kits',
+        link: 'https://wa.link/cosi9i'
       },
     ]
   })
