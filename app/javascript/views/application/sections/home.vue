@@ -49,7 +49,7 @@ export default {
     products: [
       {
         id: 'kits-marcadores',
-        text: 'Kits de marcadores',
+        text: 'Kits de Marcadores',
         link: 'https://wa.link/tfja2b'
       },
       {
