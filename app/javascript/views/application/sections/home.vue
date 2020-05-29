@@ -46,35 +46,16 @@
 export default {
   name: 'Home',
   data: () => ({
-    products: [{
-        id: 'caja-regalo',
-        text: 'Caja regalo para toda ocasión',
-        link: 'https://wa.link/s689ed'
+    products: [
+      {
+        id: 'kits-marcadores',
+        text: 'Kits de marcadores',
+        link: 'https://wa.link/tfja2b'
       },
       {
         id: 'cartilla-lettering',
         text: 'Cartilla de lettering',
         link: 'https://wa.link/8yd3qd'
-      },
-      {
-        id: 'cartilla-dibujos',
-        text: 'Cartilla de dibujos Timoteo',
-        link: 'https://wa.link/xmuqln'
-      },
-      {
-        id: 'cartilla-timoteo',
-        text: 'Cartilla de letra Timoteo',
-        link: 'https://wa.link/gsljpo'
-      },
-      {
-        id: 'taller-virtual-timoteo',
-        text: 'Taller virtual de letra Timoteo',
-        link: 'https://wa.link/tt2dc1'
-      },
-      {
-        id: 'kits-marcadores',
-        text: 'Kits de marcadores',
-        link: 'https://wa.link/tfja2b'
       },
       {
         id: 'kits-timoteo',
@@ -85,6 +66,26 @@ export default {
         id: 'marcados-personalizados',
         text: 'Marcados personalizados',
         link: 'https://wa.link/ygy7q3'
+      },
+      {
+        id: 'caja-regalo',
+        text: 'Caja regalo para toda ocasión',
+        link: 'https://wa.link/s689ed'
+      },
+      {
+        id: 'cartilla-timoteo',
+        text: 'Cartilla de letra Timoteo',
+        link: 'https://wa.link/gsljpo'
+      },
+      {
+        id: 'cartilla-dibujos',
+        text: 'Cartilla de dibujos Timoteo',
+        link: 'https://wa.link/xmuqln'
+      },
+      {
+        id: 'taller-virtual-timoteo',
+        text: 'Taller virtual de letra Timoteo',
+        link: 'https://wa.link/tt2dc1'
       },
     ]
   })
