@@ -1,5 +1,6 @@
 class HomeController < ApplicationController
-  layout "home", only: :new_home
+  layout "home", only: [:new_home]
+  layout "application", only: [:index]
 
   def index
   end
