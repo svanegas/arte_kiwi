@@ -1,0 +1,30 @@
+<div class="row no-gutters kiwi-bg-light-primary">
+  <div class="col-12">
+    Navbar
+  </div>
+</div>
+
+<!-- Banners section -->
+<div class="row no-gutters mx-3">
+  <% 3.times do |i| %>
+    <div class="col-12 kiwi-bg-light-primary my-3" style="height:150px;"> Product # <%= i %></div>
+  <% end %>
+</div>
+
+<div class="row no-gutters mx-3 my-3">
+  <div class="col-12">
+    <div class="row no-gutters">
+      <% 7.times do |i| %>
+        <div class="col-6 col-md-3 col-lg-2 kiwi-bg-light-primary mt-4" style="height:150px;">
+        </div>
+        <div class="col-6 col-md-3 col-lg-2 mt-4" style="height:150px;">
+          <div class="pl-2 d-flex flex-column" style="height:100%;">
+            <div class=""><span>Título del producto #<%= i %></span></div>
+            <div class="">$9,999 COP</div>
+            <div class="mb-2" style="margin-top: auto;"><a class="kiwi-bg-light-primary px-3 py-2">COMPRAR</a></div>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>
