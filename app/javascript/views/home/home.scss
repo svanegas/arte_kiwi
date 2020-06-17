@@ -1,1 +1,6 @@
 @import "./../../styles/kiwi_styles";
+@import "./sections/cards";
+
+$fa-font-path: "~@fortawesome/fontawesome-free/webfonts/";
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';

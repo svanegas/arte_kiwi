@@ -1,0 +1,97 @@
+.kiwi-btn {
+  border: 0 hidden transparent;
+  box-shadow: none;
+  cursor: pointer;
+  display: inline-block;
+  outline: none;
+  text-align: center;
+  text-decoration: none;
+  text-rendering: optimizeLegibility;
+  text-shadow: none;
+  transition: background 300ms ease-out;
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  @extend .border-radius-md;
+
+  &--xxs {
+    font-size: 12px;
+    padding: 5px 18px;
+
+    .icon {
+      font-size: 10px;
+    }
+  }
+
+  &--xs {
+    font-size: 14px;
+    padding: 5px 18px;
+
+    .icon {
+      font-size: 10px;
+    }
+  }
+
+  &--sm {
+    font-size: 16px;
+    padding: 8px 22px;
+    .icon {
+      font-size: 12px;
+    }
+  }
+
+  &--md {
+    font-size: 18px;
+    padding: 12px 27px;
+    .icon {
+      font-size: 14px;
+    }
+  }
+
+  &--lg {
+    font-size: 20px;
+    padding: 19px 33px;
+  }
+
+  &--block {
+    display: block;
+    white-space: normal;
+    width: 100%;
+  }
+
+  &--primary {
+    background-color: map-get($color, ak-green);
+    color: map-get($color, white);
+
+    &:hover {
+      background-color: map-get($color, ak-green-dark);
+      color: map-get($color, white);
+      text-decoration: none;
+    }
+
+    &:focus {
+      background-color: map-get($color, ak-green);
+      color: map-get($color, white);
+      outline: none;
+      text-decoration: none;
+    }
+  }
+
+  &--whatsapp {
+    background-color: map-get($color, ak-whatsapp);
+    color: map-get($color, white);
+
+    &:hover {
+      background-color: map-get($color, ak-whatsapp);
+      color: map-get($color, white);
+      text-decoration: none;
+    }
+
+    &:focus {
+      background-color: map-get($color, ak-whatsapp);
+      color: map-get($color, white);
+      outline: none;
+      text-decoration: none;
+    }
+  }
+}
