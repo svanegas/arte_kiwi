@@ -5,26 +5,101 @@
 </div>
 
 <!-- Banners section -->
-<div class="row no-gutters mx-3">
-  <% 3.times do |i| %>
-    <div class="col-12 kiwi-bg-light-primary my-3" style="height:150px;"> Product # <%= i %></div>
-  <% end %>
-</div>
+<%= render partial: "home/sections/product_banner" %>
+<!-- End Banners section -->
 
+<!-- Cards section -->
 <div class="row no-gutters mx-3 my-3">
+  <div class="col-12 my-3 text-center font-weight-6 font-size-xxl font-size-lt-md-xxl">
+    <span>Marcadores</span>
+  </div>
   <div class="col-12">
     <div class="row no-gutters">
-      <% 7.times do |i| %>
-        <div class="col-6 col-md-3 col-lg-2 kiwi-bg-light-primary mt-4" style="height:150px;">
-        </div>
-        <div class="col-6 col-md-3 col-lg-2 mt-4" style="height:150px;">
-          <div class="pl-2 d-flex flex-column" style="height:100%;">
-            <div class=""><span>Título del producto #<%= i %></span></div>
-            <div class="">$9,999 COP</div>
-            <div class="mb-2" style="margin-top: auto;"><a class="kiwi-bg-light-primary px-3 py-2">COMPRAR</a></div>
+      <% 10.times do |i| %>
+        <div class="col-12 col-md-6 col-lg-4 card">
+          <div class="row m-2 m-md-3 no-gutters box-shadow-raised">
+            <div class="col-6 mt-2 mb-3 card-height">
+              <%= image_tag "sample", class: "card-img" %>
+            </div>
+            <div class="col-6 mt-2 card-height">
+              <div class="pl-3 pr-2 d-flex flex-column height-100">
+                <div class="font-weight-6 font-size-xl font-size-lt-md-xl pt-1"><span>Título del producto #<%= i + 1 %></span></div>
+                <div class="mb-3 mt-auto font-family-helvetica font-size-lg"><span>$<%= rand(1..120) %>,<%= rand(100..999) %> COP</span></div>
+                <div class="">
+                  <a class="d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--whatsapp font-family-helvetica color-white max-width-btn">
+                    <i class="fab fa-whatsapp font-size-xl mr-3"></i>
+                    <span>COMPRAR</span>
+                  </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       <% end %>
     </div>
   </div>
 </div>
+<hr>
+<div class="row no-gutters mx-3 my-3">
+  <div class="col-12 my-3 text-center font-weight-6 font-size-xxl font-size-lt-md-xxl">
+    <span>Regalos</span>
+  </div>
+  <div class="col-12">
+    <div class="row no-gutters">
+      <% 3.times do |i| %>
+        <div class="col-12 col-md-6 col-lg-4 card">
+          <div class="row m-2 m-md-3 no-gutters box-shadow-raised">
+            <div class="col-6 mt-2 mb-3 card-height">
+              <%= image_tag "sample", class: "card-img" %>
+            </div>
+            <div class="col-6 mt-2 card-height">
+              <div class="pl-3 pr-2 d-flex flex-column height-100">
+                <div class="font-weight-6 font-size-xl font-size-lt-md-xl pt-1"><span>Título del producto #<%= i + 1 %></span></div>
+                <div class="mb-3 mt-auto font-family-helvetica font-size-lg"><span>$<%= rand(1..120) %>,<%= rand(100..999) %> COP</span></div>
+                <div class="">
+                  <a class="d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--whatsapp font-family-helvetica color-white max-width-btn">
+                    <i class="fab fa-whatsapp font-size-xl mr-3"></i>
+                    <span>COMPRAR</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>
+<hr>
+<div class="row no-gutters mx-3 my-3">
+  <div class="col-12 my-3 text-center font-weight-6 font-size-xxl font-size-lt-md-xxl">
+    <span>Kits</span>
+  </div>
+  <div class="col-12">
+    <div class="row no-gutters">
+      <% 3.times do |i| %>
+        <div class="col-12 col-md-6 col-lg-4 card">
+          <div class="row m-2 m-md-3 no-gutters box-shadow-raised">
+            <div class="col-6 mt-2 mb-3 card-height">
+              <%= image_tag "sample", class: "card-img" %>
+            </div>
+            <div class="col-6 mt-2 card-height">
+              <div class="pl-3 pr-2 d-flex flex-column height-100">
+                <div class="font-weight-6 font-size-xl font-size-lt-md-xl pt-1"><span>Título del producto #<%= i + 1 %></span></div>
+                <div class="mb-3 mt-auto font-family-helvetica font-size-lg"><span>$<%= rand(1..120) %>,<%= rand(100..999) %> COP</span></div>
+                <div class="">
+                  <a class="d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--whatsapp font-family-helvetica color-white max-width-btn">
+                    <i class="fab fa-whatsapp font-size-xl mr-3"></i>
+                    <span>COMPRAR</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>
+<hr>
+<!-- End Cards section -->
