@@ -1,5 +1,11 @@
-<div class="row no-gutters mx-3">
-  <% 3.times do |i| %>
-    <div class="col-12 kiwi-bg-light-primary my-3" style="height:150px;"> Product # <%= i %></div>
+<div class="row no-gutters pt-1 mx-3">
+  <% 4.times do |i| %>
+    <div class="col-12 col-md-6 col-lg-6 mt-1">
+      <a href="#product-<%= i + 1 %>">
+        <div class="row m-2 m-md-3 no-gutters">
+          <div class="col-12 kiwi-bg-light-primary" style="height:150px;"> Product # <%= i %></div>
+        </div>
+      </a>
+    </div>
   <% end %>
 </div>
