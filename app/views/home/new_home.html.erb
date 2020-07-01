@@ -16,40 +16,26 @@
 <%= render partial: "home/sections/product_banner" %>
 <!-- End Banners section -->
 
+<!--
+<div class="">
+  <h1>InstantSearch.js e-commerce demo</h1>
+
+  <div class="right-panel">
+    <div id="searchbox"></div>
+    <div id="pagination"></div>
+  </div>
+</div> -->
+
+<div id="menu"></div>
+
 <!-- Cards section -->
-<% @sections.each do |section| %>
-  <div id="<%= section.dig(:banner_id) %>" class="row no-gutters mx-3 my-3">
-    <div class="col-12 my-3 text-center font-weight-6 font-size-xxl font-size-lt-md-xxl">
-      <span><%= section.dig(:title) %></span>
-    </div>
-    <div class="col-12">
-      <div class="row no-gutters">
-        <% section.dig(:products).each do |product| %>
-          <div class="col-12 col-md-6 col-lg-4 card">
-            <div class="row m-2 m-md-3 no-gutters box-shadow-raised">
-              <div class="col-6 mt-2 mb-3 card-height">
-                <%= image_tag product.dig(:image), class: "card-img" %>
-              </div>
-              <div class="col-6 mt-2 mb-3 card-height">
-                <div class="pl-3 pr-2 d-flex flex-column height-100">
-                  <div class="font-weight-6 font-size-lg font-size-lt-md-xl pt-1"><span><%= product.dig(:name) %></span></div>
-                  <div class="mb-3 mt-auto font-family-helvetica font-size-lg"><span><%= product.dig(:price) %></span></div>
-                  <div class="">
-                    <a href="https://api.whatsapp.com/send?phone=<%= "+573175987665" %>&text=<%= product.dig(:whatsapp_message) %>" class="d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--whatsapp font-family-helvetica color-white card-btn">
-                      <i class="fab fa-whatsapp font-size-xl mr-3"></i>
-                      <span>COMPRAR</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        <% end %>
-      </div>
+<div class="row no-gutters mx-3 my-3">
+  <div class="col-12">
+    <div class="row no-gutters">
+      <div id="hits" class="list-style-reset"></div>
     </div>
   </div>
-  <hr>
-<% end %>
+</div>
 <!-- End Cards section -->
 
 <!-- Footer section -->

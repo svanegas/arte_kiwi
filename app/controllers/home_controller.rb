@@ -39,70 +39,80 @@ class HomeController < ApplicationController
             image: "/img/sample.png",
             id: "marcadores-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Marcadores de vinilo"
+            whatsapp_message: "Marcadores de vinilo",
+            section: "Marcadores"
           },
           {
             name: "Window-ink 5.5mm vinilo",
             image: "/img/sample.png",
             id: "marcadores-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Marcadores de vinilo"
+            whatsapp_message: "Marcadores de vinilo",
+            section: "Marcadores"
           },
           {
             name: "Eterna neón",
             image: "/img/sample.png",
             id: "marcadores-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Marcadores de vinilo"
+            whatsapp_message: "Marcadores de vinilo",
+            section: "Marcadores"
           },
           {
             name: "Chalk marker de vinilo",
             image: "/img/sample.png",
             id: "marcadores-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Marcadores de vinilo"
+            whatsapp_message: "Marcadores de vinilo",
+            section: "Marcadores"
           },
           {
             name: "Marker",
             image: "/img/sample.png",
             id: "marcadores-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Marcadores de vinilo"
+            whatsapp_message: "Marcadores de vinilo",
+            section: "Marcadores"
           },
           {
             name: "Marcador gráfico Doricolor",
             image: "/img/sample.png",
             id: "marcadores-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Marcadores de vinilo"
+            whatsapp_message: "Marcadores de vinilo",
+            section: "Marcadores"
           },
           {
             name: "Marcador pegante 15mm",
             image: "/img/sample.png",
             id: "marcadores-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Marcadores de vinilo"
+            whatsapp_message: "Marcadores de vinilo",
+            section: "Marcadores"
           },
           {
             name: "Marcador pegante 5 mm",
             image: "/img/sample.png",
             id: "marcadores-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Marcadores de vinilo"
+            whatsapp_message: "Marcadores de vinilo",
+            section: "Marcadores"
           },
           {
             name: "Acrylic marker",
             image: "/img/sample.png",
             id: "marcadores-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Marcadores de vinilo"
+            whatsapp_message: "Marcadores de vinilo",
+            section: "Marcadores"
           },
           {
             name: "Eterna metal doble trazo",
             image: "/img/sample.png",
             id: "marcadores-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Marcadores de vinilo"
+            whatsapp_message: "Marcadores de vinilo",
+            section: "Marcadores"
           },
         ]
       },
@@ -115,28 +125,32 @@ class HomeController < ApplicationController
             image: "/img/sample.png",
             id: "lettering-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Lettering de vinilo"
+            whatsapp_message: "Lettering de vinilo",
+            section: "Lettering"
           },
           {
             name: "Cartilla de dibujos Timoteo 25 páginas",
             image: "/img/sample.png",
             id: "lettering-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Lettering de vinilo"
+            whatsapp_message: "Lettering de vinilo",
+            section: "Lettering"
           },
           {
             name: "Cartilla de lettering 38 páginas",
             image: "/img/sample.png",
             id: "lettering-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Lettering de vinilo"
+            whatsapp_message: "Lettering de vinilo",
+            section: "Lettering"
           },
           {
             name: "Bitácora de lettering \"My lettering book\" 50 hojas",
             image: "/img/sample.png",
             id: "lettering-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Lettering de vinilo"
+            whatsapp_message: "Lettering de vinilo",
+            section: "Lettering"
           },
         ]
       },
@@ -149,7 +163,8 @@ class HomeController < ApplicationController
             image: "/img/sample.png",
             id: "regalo-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Regalo de vinilo"
+            whatsapp_message: "Regalo de vinilo",
+            section: "Cajas Regalo"
           }
         ]
       },
@@ -162,7 +177,8 @@ class HomeController < ApplicationController
             image: "/img/sample.png",
             id: "talleres-card",
             price: "$#{rand(1..120)},#{rand(100..999)} COP",
-            whatsapp_message: "Talleres de vinilo"
+            whatsapp_message: "Talleres de vinilo",
+            section: "Talleres"
           }
         ]
       }

@@ -436,7 +436,7 @@ html {
  */
 
 .list-style-reset {
-  list-style: none;
+  list-style-type: none !important;
 }
 
 .list-style-decimal {
