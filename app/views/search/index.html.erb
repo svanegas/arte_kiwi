@@ -1,20 +1,40 @@
+<!-- Start Navbar section -->
 <nav class="kiwi-navbar">
   <div class="row align-items-center no-gutters box-shadow-raised pt-1 px-3">
     <div class="col-1 text-center">
       <a href="https://www.instagram.com/arte_kiwi/" target="_blank" class="color-black"><i class="fab fa-instagram font-size-xxl"></i></a>
     </div>
     <div class="col-10 text-center font-weight-6 font-size-xxl font-size-lt-md-xxl">
-      <%= image_tag "/img/logo.png", class: "kiwi-navbar-logo" %>
+      <%#= image_tag "/img/logo.png", class: "kiwi-navbar-logo" %>
+      <div id="searchbox" class="">
+
+      </div>
     </div>
     <div class="col-1 text-center">
       <a href="https://wa.link/btnclx" target="_blank" class="color-black"><i class="fab fa-whatsapp font-size-xxl"></i></a>
     </div>
+
+    <!-- SearhBox section -->
+    <div class="row">
+
+    </div>
+    <!-- End SearhBox section -->
   </div>
 </nav>
 
-<!-- Banners section -->
-<%= render partial: "home/sections/product_banner" %>
-<!-- End Banners section -->
+<!-- End Navbar section -->
+
+<div id="menuSelect"></div>
+
+<!-- Cards section -->
+<div class="row no-gutters mx-3 my-3">
+  <div class="col-12">
+    <div class="row no-gutters">
+      <div id="hits" class="list-style-reset"></div>
+    </div>
+  </div>
+</div>
+<!-- End Cards section -->
 
 <!-- Footer section -->
 <footer class="w-100 d-flex flex-column text-center justify-content-center border-top-1">

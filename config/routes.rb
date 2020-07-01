@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'buscar', to: 'search#index', as: :search
   root 'home#index'
   get '/whatsapp', to: 'redirect#show', social: :whatsapp
   get '/instagram', to: 'redirect#show', social: :instagram
