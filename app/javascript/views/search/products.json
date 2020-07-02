@@ -5,175 +5,196 @@
       "quantity": "Unidad",
       "price": 14000,
       "category": "vinyl-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores de vinilo"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores de vinilo",
+      "template": "marker"
     },
     {
       "name": "Window-ink 5.5mm vinilo",
       "quantity": "Unidad",
       "price": 8000,
       "category": "vinyl-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores de vinilo"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores de vinilo",
+      "template": "marker"
     },
     {
       "name": "Eterna neón",
       "quantity": "8",
       "price": 16000,
       "category": "vinyl-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores de vinilo"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores de vinilo",
+      "template": "marker"
     },
     {
       "name": "Chalk marker de vinilo",
       "quantity": "8",
       "price": 38000,
       "category": "vinyl-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores de vinilo"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores de vinilo",
+      "template": "marker"
     },
     {
       "name": "Marker",
       "quantity": "7",
       "price": 16000,
       "category": "vinyl-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores de vinilo"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores de vinilo",
+      "template": "marker"
     },
     {
       "name": "Marker",
       "quantity": "12",
       "price": 22000,
       "category": "vinyl-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores de vinilo"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores de vinilo",
+      "template": "marker"
     },
     {
       "name": "Marcador gráfico Doricolor",
       "quantity": "10",
       "price": 25000,
       "category": "vinyl-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores de vinilo"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores de vinilo",
+      "template": "marker"
     },
     {
       "name": "Marcador pegante 15mm",
       "quantity": "Unidad",
       "price": 26000,
       "category": "vinyl-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores de vinilo"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores de vinilo",
+      "template": "marker"
     },
     {
       "name": "Marcador pegante 5 mm",
       "quantity": "Unidad",
       "price": 18000,
       "category": "vinyl-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores de vinilo"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores de vinilo",
+      "template": "marker"
     },
     {
       "name": "Acrylic marker",
       "quantity": "Unidad",
       "price": 4000,
       "category": "vinyl-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores de vinilo"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores de vinilo",
+      "template": "marker"
     },
     {
       "name": "Eterna metal doble trazo",
       "quantity": "8",
       "price": 18000,
       "category": "vinyl-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores de vinilo"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores de vinilo",
+      "template": "marker"
     },
     {
       "name": "Offi-Esco permanentes doble punta",
       "quantity": "12",
       "price": 26000,
       "category": "permanent-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores parmanentes"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores parmanentes",
+      "template": "marker"
     },
     {
       "name": "Twins permanentes doble punta",
       "quantity": "12",
       "price": 26000,
       "category": "permanent-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores permanentes"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores permanentes",
+      "template": "marker"
     },
     {
       "name": "Marcadores gráficos Pelikan metálicos",
       "quantity": "10",
       "price": 22000,
       "category": "pelikan-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Pelikan"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Pelikan",
+      "template": "marker"
     },
     {
       "name": "Marcadores Pelikan Colorella pastel",
       "quantity": "8",
       "price": 18000,
       "category": "pelikan-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Pelikan"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Pelikan",
+      "template": "marker"
     },
     {
       "name": "Marcadores Pelikan Colorella triangular (próximamente)",
       "quantity": "12",
       "price": 28000,
       "category": "pelikan-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Pelikan"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Pelikan",
+      "template": "marker"
     },
     {
       "name": "Resaltadores Pelikan pastel",
       "quantity": "10",
       "price": 20000,
       "category": "pelikan-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Pelikan"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Pelikan",
+      "template": "marker"
     },
     {
       "name": "Micropuntas Pelikan",
       "quantity": "12",
       "price": 8500,
       "category": "pelikan-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Pelikan"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Pelikan",
+      "template": "marker"
     },
     {
       "name": "Témpera pastel Pelikan",
       "quantity": "6",
       "price": 8500,
       "category": "pelikan-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Pelikan"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Pelikan",
+      "template": "marker"
     },
     {
       "name": "Colores pastel Pelikan",
       "quantity": "12",
       "price": 18000,
       "category": "pelikan-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Pelikan"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Pelikan",
+      "template": "marker"
     },
     {
       "name": "Norma doble punta",
       "quantity": "10",
       "price": 14000,
       "category": "washable-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Lavables"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Lavables",
+      "template": "marker"
     },
     {
       "name": "Norma gigante",
       "quantity": "10",
       "price": 16000,
       "category": "washable-markers",
-      "imageUrl": "/img/sample.png",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
       "whatsappMessage": "Marcadores Lavables"
     },
     {
@@ -181,56 +202,166 @@
       "quantity": "12",
       "price": 18000,
       "category": "washable-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Lavables"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Lavables",
+      "template": "marker"
     },
     {
       "name": "Kiut Grafigel",
       "quantity": "8",
       "price": 18000,
       "category": "washable-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Lavables"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Lavables",
+      "template": "marker"
     },
     {
       "name": "Kiut glitter ",
       "quantity": "10",
       "price": 22000,
       "category": "washable-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Lavables"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Lavables",
+      "template": "marker"
     },
     {
       "name": "Plumones Artisan punta pincel",
       "quantity": "12",
       "price": 20000,
       "category": "lettering-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Lettering"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Lettering",
+      "template": "marker"
     },
     {
       "name": "Plumones Artisan punta pincel",
       "quantity": "24",
       "price": 40000,
       "category": "lettering-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Lettering"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Lettering",
+      "template": "marker"
     },
     {
       "name": "Plumones Artisan punta pincel",
       "quantity": "48",
       "price": 68000,
       "category": "lettering-markers",
-      "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Lettering"
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Lettering",
+      "template": "marker"
     },
     {
       "name": "Plumones Edding",
       "quantity": "10",
       "price": 46000,
       "category": "lettering-markers",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-IMG_1261.JPG",
+      "whatsappMessage": "Marcadores Lettering",
+      "template": "marker"
+    },
+    {
+      "name": "Cartilla de letra Timoteo 39 páginas",
+      "digital_price": 23000,
+      "physical_price": 38000,
+      "category": "books",
+      "template": "virtual-book",
       "imageUrl": "/img/sample.png",
-      "whatsappMessage": "Marcadores Lettering"
+      "whatsappMessage": "Cartillas"
+    },
+    {
+      "name": "Cartilla de dibujos Timoteo 25 páginas",
+      "digital_price": 18000,
+      "physical_price": 26000,
+      "category": "books",
+      "template": "virtual-book",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Cartillas"
+    },
+    {
+      "name": "Cartilla de lettering 38 páginas",
+      "digital_price": 22000,
+      "physical_price": 36000,
+      "category": "books",
+      "template": "virtual-book",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Cartillas"
+    },
+    {
+      "name": "Combo mandalas",
+      "price": 32000,
+      "category": "books",
+      "template": "book",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Cartillas"
+    },
+    {
+      "name": "Opalina (cartulina) x 50 hojas",
+      "price": 11000,
+      "category": "books",
+      "template": "book",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Cartillas"
+    },
+    {
+      "name": "Bitácora de lettering \"My lettering book\" 50 hojas",
+      "price": 40000,
+      "category": "books",
+      "template": "book",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Cartillas"
+    },
+    {
+      "name": "Bitácora de práctica media carta 50 hojas blancas BOND",
+      "price": 15000,
+      "category": "binnacles",
+      "template": "binnacle",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Bitácoras"
+    },
+    {
+      "name": "Bitácora de práctica tamaño carta 50 hojas blancas BOND",
+      "price": 22000,
+      "category": "binnacles",
+      "template": "binnacle",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Bitácoras"
+    },
+    {
+      "name": "Letra \"K\" o \"A\"",
+      "price": 120000,
+      "category": "organizers",
+      "template": "organizer",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Organizadores",
+      "size": "30x35cm"
+    },
+    {
+      "name": "Cuadrado grande",
+      "price": 85000,
+      "category": "organizers",
+      "template": "organizer",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Organizadores",
+      "size": "30x30cm"
+    },
+    {
+      "name": "Rectángulo",
+      "price": 65000,
+      "category": "organizers",
+      "template": "organizer",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Organizadores",
+      "size": "30x20cm"
+    },
+    {
+      "name": "Cuadrado pequeño",
+      "price": 50000,
+      "category": "organizers",
+      "template": "organizer",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Organizadores",
+      "size": "20x20cm"
     }
   ]
 }

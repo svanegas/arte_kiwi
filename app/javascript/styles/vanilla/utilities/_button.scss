@@ -94,4 +94,40 @@
       text-decoration: none;
     }
   }
+
+  &--red-light {
+    background-color: map-get($color, ak-red-light);
+    color: map-get($color, white);
+
+    &:hover {
+      background-color: map-get($color, ak-red-dark);
+      color: map-get($color, white);
+      text-decoration: none;
+    }
+
+    &:focus {
+      background-color: map-get($color, ak-red-light);
+      color: map-get($color, white);
+      outline: none;
+      text-decoration: none;
+    }
+  }
+
+  &--red {
+    background-color: map-get($color, ak-red);
+    color: map-get($color, white);
+
+    &:hover {
+      background-color: map-get($color, ak-red-dark);
+      color: map-get($color, white);
+      text-decoration: none;
+    }
+
+    &:focus {
+      background-color: map-get($color, ak-red);
+      color: map-get($color, white);
+      outline: none;
+      text-decoration: none;
+    }
+  }
 }
