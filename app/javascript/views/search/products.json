@@ -1,0 +1,28 @@
+{
+  "raw_products": [
+    {
+      "id": 1,
+      "name": "Marcadores 1",
+      "imageUrl": "/img/sample.png",
+      "category": "markers",
+      "price": 125000,
+      "whatsappMessage": "Marcadores de vinilo"
+    },
+    {
+      "id": 2,
+      "name": "Marcadores 2",
+      "imageUrl": "/img/sample.png",
+      "category": "markers",
+      "price": 125000,
+      "whatsappMessage": "Marcadores de vinilo"
+    },
+    {
+      "id": 3,
+      "name": "Lettering 3",
+      "imageUrl": "/img/sample.png",
+      "category": "lettering",
+      "price": 125000,
+      "whatsappMessage": "Marcadores de vinilo"
+    }
+  ]
+}
