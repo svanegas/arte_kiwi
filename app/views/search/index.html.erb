@@ -12,22 +12,43 @@
     </div>
   </div>
 </nav>
-
 <!-- End Navbar section -->
 
-<select id="selectCategory">
-   <option value="default">Categorías</option>
-   <option value="markers">Marcadores</option>
-   <option value="lettering">Lettering Timoteo</option>
-</select>
+<!-- Category section -->
+<section class="categories-filter kiwi-bg-light-red d-flex align-items-center justify-content-center font-size-md py-1">
+  <span class="pr-5">Categorias:</span>
+  <select id="selectCategory">
+     <!-- <option value="default">Categorías</option> -->
+     <option value="vinyl-markers">Marcadores de Vinilo</option>
+     <option value="permanent-markers">Marcadores Permanentes</option>
+     <option value="pelikan-markers">Marcadores Pelikan</option>
+     <option value="washable-markers">Marcadores Lavables</option>
+     <option value="lettering-markers">Marcadores Leterring</option>
+     <option value="lettering">Lettering Timoteo</option>
+  </select>
+</section>
+<!-- End Category section -->
+
+<!-- Sort section -->
+<section class="sort-section d-flex align-items-center justify-content-center font-size-md pt-3">
+  <select id="sortPrice">
+     <!-- <option value="default">Categorías</option> -->
+     <option disabled>Ordenar productos</option>
+     <option value="cheap">Menor a mayor precio</option>
+     <option value="expensive">Mayor a menor precio</option>
+  </select>
+</section>
+<!-- End Sort section -->
 
 <!-- Cards section -->
-<div class="row no-gutters mx-3 my-3">
-  <div class="col-12">
-    <div id="cards-container" class="row no-gutters">
+<section class="">
+  <div class="row no-gutters mx-3 py-3">
+    <div class="col-12">
+      <div id="cards-container" class="row no-gutters">
+      </div>
     </div>
   </div>
-</div>
+</section>
 <!-- End Cards section -->
 
 <!-- Footer section -->

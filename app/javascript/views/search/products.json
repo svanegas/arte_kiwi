@@ -1,28 +1,236 @@
 {
   "raw_products": [
     {
-      "id": 1,
-      "name": "Marcadores 1",
+      "name": "Window-ink 15mm vinilo",
+      "quantity": "Unidad",
+      "price": 14000,
+      "category": "vinyl-markers",
       "imageUrl": "/img/sample.png",
-      "category": "markers",
-      "price": 125000,
       "whatsappMessage": "Marcadores de vinilo"
     },
     {
-      "id": 2,
-      "name": "Marcadores 2",
+      "name": "Window-ink 5.5mm vinilo",
+      "quantity": "Unidad",
+      "price": 8000,
+      "category": "vinyl-markers",
       "imageUrl": "/img/sample.png",
-      "category": "markers",
-      "price": 125000,
       "whatsappMessage": "Marcadores de vinilo"
     },
     {
-      "id": 3,
-      "name": "Lettering 3",
+      "name": "Eterna neón",
+      "quantity": "8",
+      "price": 16000,
+      "category": "vinyl-markers",
       "imageUrl": "/img/sample.png",
-      "category": "lettering",
-      "price": 125000,
       "whatsappMessage": "Marcadores de vinilo"
+    },
+    {
+      "name": "Chalk marker de vinilo",
+      "quantity": "8",
+      "price": 38000,
+      "category": "vinyl-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores de vinilo"
+    },
+    {
+      "name": "Marker",
+      "quantity": "7",
+      "price": 16000,
+      "category": "vinyl-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores de vinilo"
+    },
+    {
+      "name": "Marker",
+      "quantity": "12",
+      "price": 22000,
+      "category": "vinyl-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores de vinilo"
+    },
+    {
+      "name": "Marcador gráfico Doricolor",
+      "quantity": "10",
+      "price": 25000,
+      "category": "vinyl-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores de vinilo"
+    },
+    {
+      "name": "Marcador pegante 15mm",
+      "quantity": "Unidad",
+      "price": 26000,
+      "category": "vinyl-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores de vinilo"
+    },
+    {
+      "name": "Marcador pegante 5 mm",
+      "quantity": "Unidad",
+      "price": 18000,
+      "category": "vinyl-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores de vinilo"
+    },
+    {
+      "name": "Acrylic marker",
+      "quantity": "Unidad",
+      "price": 4000,
+      "category": "vinyl-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores de vinilo"
+    },
+    {
+      "name": "Eterna metal doble trazo",
+      "quantity": "8",
+      "price": 18000,
+      "category": "vinyl-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores de vinilo"
+    },
+    {
+      "name": "Offi-Esco permanentes doble punta",
+      "quantity": "12",
+      "price": 26000,
+      "category": "permanent-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores parmanentes"
+    },
+    {
+      "name": "Twins permanentes doble punta",
+      "quantity": "12",
+      "price": 26000,
+      "category": "permanent-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores permanentes"
+    },
+    {
+      "name": "Marcadores gráficos Pelikan metálicos",
+      "quantity": "10",
+      "price": 22000,
+      "category": "pelikan-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Pelikan"
+    },
+    {
+      "name": "Marcadores Pelikan Colorella pastel",
+      "quantity": "8",
+      "price": 18000,
+      "category": "pelikan-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Pelikan"
+    },
+    {
+      "name": "Marcadores Pelikan Colorella triangular (próximamente)",
+      "quantity": "12",
+      "price": 28000,
+      "category": "pelikan-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Pelikan"
+    },
+    {
+      "name": "Resaltadores Pelikan pastel",
+      "quantity": "10",
+      "price": 20000,
+      "category": "pelikan-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Pelikan"
+    },
+    {
+      "name": "Micropuntas Pelikan",
+      "quantity": "12",
+      "price": 8500,
+      "category": "pelikan-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Pelikan"
+    },
+    {
+      "name": "Témpera pastel Pelikan",
+      "quantity": "6",
+      "price": 8500,
+      "category": "pelikan-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Pelikan"
+    },
+    {
+      "name": "Colores pastel Pelikan",
+      "quantity": "12",
+      "price": 18000,
+      "category": "pelikan-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Pelikan"
+    },
+    {
+      "name": "Norma doble punta",
+      "quantity": "10",
+      "price": 14000,
+      "category": "washable-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Lavables"
+    },
+    {
+      "name": "Norma gigante",
+      "quantity": "10",
+      "price": 16000,
+      "category": "washable-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Lavables"
+    },
+    {
+      "name": "Plumon kiut",
+      "quantity": "12",
+      "price": 18000,
+      "category": "washable-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Lavables"
+    },
+    {
+      "name": "Kiut Grafigel",
+      "quantity": "8",
+      "price": 18000,
+      "category": "washable-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Lavables"
+    },
+    {
+      "name": "Kiut glitter ",
+      "quantity": "10",
+      "price": 22000,
+      "category": "washable-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Lavables"
+    },
+    {
+      "name": "Plumones Artisan punta pincel",
+      "quantity": "12",
+      "price": 20000,
+      "category": "lettering-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Lettering"
+    },
+    {
+      "name": "Plumones Artisan punta pincel",
+      "quantity": "24",
+      "price": 40000,
+      "category": "lettering-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Lettering"
+    },
+    {
+      "name": "Plumones Artisan punta pincel",
+      "quantity": "48",
+      "price": 68000,
+      "category": "lettering-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Lettering"
+    },
+    {
+      "name": "Plumones Edding",
+      "quantity": "10",
+      "price": 46000,
+      "category": "lettering-markers",
+      "imageUrl": "/img/sample.png",
+      "whatsappMessage": "Marcadores Lettering"
     }
   ]
 }
