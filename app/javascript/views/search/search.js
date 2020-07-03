@@ -26,7 +26,8 @@ function init() {
 
 const categoryMapper = {
   marcadores: 'markers',
-  lettering: 'lettering'
+  binnacle: 'binnacles',
+  cartilla: 'books'
 }
 
 function selectTemplate(category) {
@@ -64,7 +65,7 @@ function fillCards(products) {
 }
 
 function filterProducts(filter, products) {
-  return products.filter(product => product.category == filter);
+  return products.filter(product => product.category.includes(filter));
 }
 
 function sortProducts(expensiveSort, products) {
