@@ -99,10 +99,12 @@ function sortProducts(expensiveSort, products) {
 function selectListener() {
   selectCategory.onchange = (event) => {
       let categorySelected = event.target.value;
-      if (categorySelected == 'default') {
-        return;
+      let productsFiltered = []
+      if (categorySelected == 'all') {
+        productsFiltered = raw_products;
+      } else {
+        productsFiltered = filterProducts(categorySelected, raw_products)
       }
-      const productsFiltered = filterProducts(categorySelected, raw_products)
       cardsContainer.innerHTML = '';
       fillCards(productsFiltered);
       cacheProducts = productsFiltered;
