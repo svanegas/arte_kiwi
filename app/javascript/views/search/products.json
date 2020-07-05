@@ -175,7 +175,7 @@
       "name": "Micropuntas Pelikan",
       "id": "micropuntas-pelikan-kiwi-gtm",
       "quantity": "12",
-      "price": 8500,
+      "price": 18000,
       "category": "pelikan-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.micropuntas2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Micropuntas Pelikan*, muchas gracias. 😊",
@@ -506,6 +506,15 @@
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo #10*, muchas gracias. 😊"
     },
     {
+      "name": "Kit Timoteo #11",
+      "id": "kit-timoteo-11-kiwi-gtm",
+      "price": 125000,
+      "category": "kits-timoteo",
+      "template": "kit",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_11.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo #11*, muchas gracias. 😊"
+    },
+    {
       "name": "Kit Timoteo #12",
       "id": "kit-timoteo-12-kiwi-gtm",
       "price": 155000,
@@ -517,7 +526,7 @@
     {
       "name": "Kit Lettering #1",
       "id": "kit-lettering-1-kiwi-gtm",
-      "price": 3500,
+      "price": 35000,
       "category": "kits-lettering",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_1.JPG",
@@ -526,7 +535,7 @@
     {
       "name": "Kit Lettering #2",
       "id": "kit-lettering-2-kiwi-gtm",
-      "price": 4500,
+      "price": 45000,
       "category": "kits-lettering",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_2.JPG",
@@ -535,16 +544,16 @@
     {
       "name": "Kit Lettering #3",
       "id": "kit-lettering-3-kiwi-gtm",
-      "price": 0,
+      "price": 68000,
       "category": "kits-lettering",
       "template": "kit",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Lettering #3*, muchas gracias. 😊"
     },
     {
       "name": "Kit Lettering #4",
       "id": "kit-lettering-4-kiwi-gtm",
-      "price": 7000,
+      "price": 70000,
       "category": "kits-lettering",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_4.JPG",
@@ -553,7 +562,7 @@
     {
       "name": "Kit Lettering #5",
       "id": "kit-lettering-5-kiwi-gtm",
-      "price": 7500,
+      "price": 75000,
       "category": "kits-lettering",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_5.JPG",
@@ -562,7 +571,7 @@
     {
       "name": "Kit Lettering #6",
       "id": "kit-lettering-6-kiwi-gtm",
-      "price": 9500,
+      "price": 95000,
       "category": "kits-lettering",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_6.JPG",
