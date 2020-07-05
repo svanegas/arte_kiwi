@@ -469,6 +469,7 @@ html {
 
 .color-black  {color: map-get($color, ak-black);}
 .color-white  {color: map-get($color, ak-white);}
+.color-separator  {color: map-get($color, ak-separator);}
 
 
 /* Font Size scale
@@ -877,6 +878,7 @@ html {
 .kiwi-bg-dark-red   {background-color: map-get($color, ak-red-dark);}
 
 .kiwi-bg-light-gray  {background-color: map-get($color, ak-gray-light);}
+.kiwi-bg-separator  {background-color: map-get($color, ak-separator);}
 
 .kiwi-bg-black {
   background-color: map-get($color, ak-black);

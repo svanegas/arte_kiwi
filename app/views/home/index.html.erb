@@ -16,12 +16,24 @@
 <%= render partial: "home/sections/product_banner" %>
 <!-- End Banners section -->
 
+<%= render partial: "common/separator" %>
+
+<!-- CTA Search section -->
+<section class="d-flex flex-column align-items-center justify-content-center my-3">
+  <div class="">
+    <%= link_to search_path, class: "d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--green color-dark-green" do %>
+    <i class='fas fa-search font-size-xl mr-3'></i>
+    <span class="font-weight-6">Buscar productos</span>
+    <% end %>
+  </div>
+</section>
+<!-- End CTA Search  section -->
+
+<%= render partial: "common/separator" %>
+
 <!-- Video section -->
 <section class="video d-flex flex-column align-items-center justify-content-center my-3">
-  <div class="title my-4 font-size-xxl font-size-lt-md-xxl color-dark-green font-weight-600">
-    <span>~ Video ~</span>
-  </div>
-  <iframe class="youtube-frame" src="https://www.youtube.com/embed/gNfEinZ9y9Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="youtube-frame" src="https://www.youtube.com/embed/9X3ds_HG3R8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </section>
 <!-- End Video section -->
 

@@ -2,7 +2,7 @@ $color: (
   ak-green: #DEECB1,
   ak-green-light: #E7F1C8,
   ak-green-dark: #5F741C,
-  ak-red: #FDB4B6,
+  ak-red: #FAC0BF,
   ak-red-light: #F5E6DE,
   ak-red-dark: #C45862,
   ak-yellow: #FFF7BE,
@@ -13,7 +13,8 @@ $color: (
   ak-gray-light: #F9FAFA,
   ak-white: #FFF,
   ak-black: #000,
-  ak-whatsapp: #25D366
+  ak-whatsapp: #25D366,
+  ak-separator: #FDF1EF
 );
 
 $body-background: map-get($color, white);

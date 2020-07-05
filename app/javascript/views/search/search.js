@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
   initCards(category);
   selectListener();
   sortListener();
+  initCategorySelector(category);
 });
 
 function init() {
@@ -26,8 +27,16 @@ function init() {
 
 const categoryMapper = {
   marcadores: 'markers',
-  binnacle: 'binnacles',
-  cartilla: 'books'
+  cartillas: 'books',
+  kits: 'kits',
+}
+
+function initCategorySelector(category) {
+  if (category == "" || category == undefined) {
+    selectCategory.value = "all";
+    return;
+  }
+  selectCategory.value = categoryMapper[category];
 }
 
 function selectTemplate(category) {
@@ -42,6 +51,8 @@ function selectTemplate(category) {
       return templates.binnacleCardTemplate;
     case 'organizer':
       return templates.organizersCardTemplate;
+    case 'kit':
+      return templates.kitCardTemplate;
     default:
       return templates.markersCardTemplate;
   }
