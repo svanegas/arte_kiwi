@@ -12,7 +12,7 @@
   user-select: none;
   vertical-align: middle;
   white-space: nowrap;
-  @extend .border-radius-md;
+  // @extend .border-radius-md;
 
   &--xxs {
     font-size: 12px;
@@ -59,12 +59,34 @@
     width: 100%;
   }
 
-  &--primary {
+  &--green {
     background-color: map-get($color, ak-green);
     color: map-get($color, white);
 
     &:hover {
       background-color: map-get($color, ak-green-dark);
+      color: map-get($color, ak-green);
+      text-decoration: none;
+
+      i { color: map-get($color, ak-green); }
+
+      span { color: map-get($color, ak-green); }
+    }
+
+    &:focus {
+      background-color: map-get($color, ak-green);
+      color: map-get($color, white);
+      outline: none;
+      text-decoration: none;
+    }
+  }
+
+  &--green-dark {
+    background-color: map-get($color, ak-green-dark);
+    color: map-get($color, white);
+
+    &:hover {
+      background-color: map-get($color, ak-green-light);
       color: map-get($color, white);
       text-decoration: none;
     }
@@ -89,6 +111,42 @@
 
     &:focus {
       background-color: map-get($color, ak-whatsapp);
+      color: map-get($color, white);
+      outline: none;
+      text-decoration: none;
+    }
+  }
+
+  &--red-light {
+    background-color: map-get($color, ak-red-light);
+    color: map-get($color, white);
+
+    &:hover {
+      background-color: map-get($color, ak-red-dark);
+      color: map-get($color, white);
+      text-decoration: none;
+    }
+
+    &:focus {
+      background-color: map-get($color, ak-red-light);
+      color: map-get($color, white);
+      outline: none;
+      text-decoration: none;
+    }
+  }
+
+  &--red {
+    background-color: map-get($color, ak-red);
+    color: map-get($color, white);
+
+    &:hover {
+      background-color: map-get($color, ak-red-dark);
+      color: map-get($color, white);
+      text-decoration: none;
+    }
+
+    &:focus {
+      background-color: map-get($color, ak-red);
       color: map-get($color, white);
       outline: none;
       text-decoration: none;

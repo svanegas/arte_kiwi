@@ -1,0 +1,22 @@
+.video {
+  .youtube-frame {
+    width: 312px;
+    height: 175px;
+  }
+
+  @media (min-width: 576px) {
+    .youtube-frame {
+      width: 560px;
+      height: 315px;
+    }
+  }
+
+  @media (min-width: 768px) {
+  }
+
+  @media (min-width: 992px) {
+  }
+
+  @media (min-width: 1200px) {
+  }
+}

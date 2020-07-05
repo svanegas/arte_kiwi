@@ -4,9 +4,11 @@
       <a href="#<%= banner.dig(:id) %>">
         <div class="row m-2 m-md-3 no-gutters">
           <div class="col-12">
-            <div class="d-flex justify-content-center">
-              <%= image_tag banner.dig(:image), class: "banner-img" %>
-            </div>
+            <%= link_to banner.dig(:link), class: "" do %>
+              <div class="d-flex justify-content-center">
+                <%= image_tag banner.dig(:image), class: "banner-img" %>
+              </div>
+            <% end %>
           </div>
         </div>
       </a>

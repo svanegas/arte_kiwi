@@ -1,8 +1,8 @@
 @import "./../../styles/kiwi_styles";
-@import "./sections/cards";
-@import "./sections/navbar";
 @import "./sections/banners";
+@import "./sections/video";
 
 $fa-font-path: "~@fortawesome/fontawesome-free/webfonts/";
 @import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
 @import '~@fortawesome/fontawesome-free/scss/brands.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';

@@ -19,10 +19,13 @@
 
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
-    <%= stylesheet_pack_tag 'home_pack' %>
+    <%= stylesheet_pack_tag 'search_pack' %>
 
     <!-- Handlee font -->
     <link href="https://fonts.googleapis.com/css2?family=Handlee&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Chewy&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" rel="stylesheet">
   </head>
 
   <body class="font-family-handlee">
@@ -34,6 +37,6 @@
     <%= yield %>
 
     <%#= Include packs with webpacker %>
-    <%= javascript_pack_tag('home_pack', defer: true) %>
+    <%= javascript_pack_tag('search_pack', defer: true) %>
   </body>
 </html>

@@ -1,1 +1,44 @@
-<home />
+<nav class="kiwi-navbar">
+  <div class="row align-items-center no-gutters box-shadow-raised pt-1 px-3">
+    <div class="col-1 text-center">
+      <a id="instagram-navbar" href="https://www.instagram.com/arte_kiwi/" target="_blank" class="color-gray"><i class="fab fa-instagram font-size-xxl"></i></a>
+    </div>
+    <div class="col-10 text-center font-weight-6 font-size-xxl font-size-lt-md-xxl">
+      <%= link_to root_path do %>
+        <%= image_tag "/img/logo.png", class: "kiwi-navbar-logo" %>
+      <% end %>
+    </div>
+    <div class="col-1 text-center">
+      <a id="whatsapp-navbar" href="https://wa.link/btnclx" target="_blank" class="color-gray"><i class="fab fa-whatsapp font-size-xxl"></i></a>
+    </div>
+  </div>
+</nav>
+
+<!-- Banners section -->
+<%= render partial: "home/sections/product_banner" %>
+<!-- End Banners section -->
+
+<%= render partial: "common/separator" %>
+
+<!-- CTA Search section -->
+<section class="d-flex flex-column align-items-center justify-content-center my-3">
+  <div>
+    <%= link_to search_path, id: "search-cta-home", class: "d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--green" do %>
+    <i class='fas fa-search font-size-xl mr-3 color-dark-green'></i>
+    <span class="font-weight-6 color-dark-green">Buscar productos</span>
+    <% end %>
+  </div>
+</section>
+<!-- End CTA Search  section -->
+
+<%= render partial: "common/separator" %>
+
+<!-- Video section -->
+<section class="video d-flex flex-column align-items-center justify-content-center my-3">
+  <iframe class="youtube-frame" src="https://www.youtube.com/embed/9X3ds_HG3R8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+<!-- End Video section -->
+
+<!-- Footer section -->
+<%= render partial: "common/footer" %>
+<!-- End Footer section -->
