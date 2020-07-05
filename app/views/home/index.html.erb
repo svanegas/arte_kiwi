@@ -1,13 +1,13 @@
 <nav class="kiwi-navbar">
   <div class="row align-items-center no-gutters box-shadow-raised pt-1 px-3">
     <div class="col-1 text-center">
-      <a href="https://www.instagram.com/arte_kiwi/" target="_blank" class="color-black"><i class="fab fa-instagram font-size-xxl"></i></a>
+      <a id="instagram-navbar" href="https://www.instagram.com/arte_kiwi/" target="_blank" class="color-black"><i class="fab fa-instagram font-size-xxl"></i></a>
     </div>
     <div class="col-10 text-center font-weight-6 font-size-xxl font-size-lt-md-xxl">
       <%= image_tag "/img/logo.png", class: "kiwi-navbar-logo" %>
     </div>
     <div class="col-1 text-center">
-      <a href="https://wa.link/btnclx" target="_blank" class="color-black"><i class="fab fa-whatsapp font-size-xxl"></i></a>
+      <a id="whatsapp-navbar" href="https://wa.link/btnclx" target="_blank" class="color-black"><i class="fab fa-whatsapp font-size-xxl"></i></a>
     </div>
   </div>
 </nav>
@@ -21,7 +21,7 @@
 <!-- CTA Search section -->
 <section class="d-flex flex-column align-items-center justify-content-center my-3">
   <div>
-    <%= link_to search_path, class: "d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--green" do %>
+    <%= link_to search_path, id: "search-cta-home", class: "d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--green" do %>
     <i class='fas fa-search font-size-xl mr-3 color-dark-green'></i>
     <span class="font-weight-6 color-dark-green">Buscar productos</span>
     <% end %>
