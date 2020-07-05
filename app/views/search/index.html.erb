@@ -2,7 +2,7 @@
 <nav class="kiwi-navbar sticky z-index-header kiwi-bg-white box-shadow-close">
   <div class="row align-items-center no-gutters box-shadow-raised pt-1 px-3">
     <div class="col-1 text-center">
-      <a href="https://www.instagram.com/arte_kiwi/" target="_blank" class="color-black"><i class="fab fa-instagram font-size-xxl"></i></a>
+      <a href="https://www.instagram.com/arte_kiwi/" target="_blank" class="color-gray"><i class="fab fa-instagram font-size-xxl"></i></a>
     </div>
     <div class="col-10 text-center font-weight-6 font-size-xxl font-size-lt-md-xxl">
       <%= link_to root_path do %>
@@ -10,7 +10,7 @@
       <% end %>
     </div>
     <div class="col-1 text-center">
-      <a href="https://wa.link/btnclx" target="_blank" class="color-black"><i class="fab fa-whatsapp font-size-xxl"></i></a>
+      <a href="https://wa.link/btnclx" target="_blank" class="color-gray"><i class="fab fa-whatsapp font-size-xxl"></i></a>
     </div>
   </div>
   <!-- Category section -->
@@ -18,20 +18,20 @@
     <span class="pr-5">Categorías:</span>
     <select id="selectCategory">
        <!-- <option value="default">Categorías</option> -->
+       <option value="all">Todos los productos</option>
        <option value="vinyl-markers">Marcadores de Vinilo</option>
        <option value="permanent-markers">Marcadores Permanentes</option>
        <option value="pelikan-markers">Marcadores Pelikan</option>
        <option value="washable-markers">Marcadores Lavables</option>
        <option value="lettering-markers">Marcadores Lettering</option>
-       <option value="books">Cartillas</option>
-       <option value="binnacles">Bitácoras</option>
-       <option value="organizers">Organizadores</option>
+       <option value="markers">Todos los marcadores</option>
        <option value="kits-timoteo">Kits Timoteo</option>
        <option value="kits-lettering">Kits Lettering</option>
        <option value="kits-dibujo">Kits Dibujo</option>
-       <option value="markers">Todos los marcadores</option>
        <option value="kits">Todos los kits</option>
-       <option value="all">Todos los productos</option>
+       <option value="organizers">Organizadores</option>
+       <option value="books">Cartillas</option>
+       <option value="binnacles">Bitácoras</option>
     </select>
   </section>
   <!-- End Category section -->
@@ -61,24 +61,5 @@
 <!-- End Cards section -->
 
 <!-- Footer section -->
-<footer class="w-100 d-flex flex-column text-center justify-content-center border-top-1">
-  <!-- Texture -->
-  <div class="w-10 position-relative z-index-default">
-    <%= image_tag "/img/macha_verde.png", class: "position-absolute left-0" %>
-  </div>
-  <!-- Social -->
-  <div class="w-100 d-flex justify-content-center mt-4 mb-2 z-index-footer">
-    <a href="https://www.instagram.com/arte_kiwi/" target="_blank" class="color-black"><i class="fab fa-instagram font-size-xxl mx-2"></i></a>
-    <a href="https://wa.link/btnclx" target="_blank" class="color-black"><i class="fab fa-whatsapp font-size-xxl mx-2"></i></a>
-    <a href="https://www.facebook.com/artekiwioficial" target="_blank" class="color-black"><i class="fab fa-facebook font-size-xxl mx-2"></i></a>
-  </div>
-  <!-- Write us -->
-  <div class="w-100 my-2 z-index-footer">
-    Escríbenos: <a class="color-red font-weight-6" href="mailto:contacto@artekiwi.com">contacto@artekiwi.com</a>
-  </div>
-  <!-- Text -->
-  <div class="w-100 my-2 mb-4 z-index-footer">
-    &copy; Copyright 2020, Arte Kiwi – Hecho con ❤️
-  </div>
-</footer>
+<%= render partial: "common/footer" %>
 <!-- End Footer section -->

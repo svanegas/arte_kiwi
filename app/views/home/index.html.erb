@@ -1,13 +1,15 @@
 <nav class="kiwi-navbar">
   <div class="row align-items-center no-gutters box-shadow-raised pt-1 px-3">
     <div class="col-1 text-center">
-      <a id="instagram-navbar" href="https://www.instagram.com/arte_kiwi/" target="_blank" class="color-black"><i class="fab fa-instagram font-size-xxl"></i></a>
+      <a id="instagram-navbar" href="https://www.instagram.com/arte_kiwi/" target="_blank" class="color-gray"><i class="fab fa-instagram font-size-xxl"></i></a>
     </div>
     <div class="col-10 text-center font-weight-6 font-size-xxl font-size-lt-md-xxl">
-      <%= image_tag "/img/logo.png", class: "kiwi-navbar-logo" %>
+      <%= link_to root_path do %>
+        <%= image_tag "/img/logo.png", class: "kiwi-navbar-logo" %>
+      <% end %>
     </div>
     <div class="col-1 text-center">
-      <a id="whatsapp-navbar" href="https://wa.link/btnclx" target="_blank" class="color-black"><i class="fab fa-whatsapp font-size-xxl"></i></a>
+      <a id="whatsapp-navbar" href="https://wa.link/btnclx" target="_blank" class="color-gray"><i class="fab fa-whatsapp font-size-xxl"></i></a>
     </div>
   </div>
 </nav>
@@ -38,24 +40,5 @@
 <!-- End Video section -->
 
 <!-- Footer section -->
-<footer class="w-100 d-flex flex-column text-center justify-content-center border-top-1">
-  <!-- Texture -->
-  <div class="w-10 position-relative z-index-default">
-    <%= image_tag "/img/macha_verde.png", class: "position-absolute left-0" %>
-  </div>
-  <!-- Social -->
-  <div class="w-100 d-flex justify-content-center mt-4 mb-2 z-index-footer">
-    <a href="https://www.instagram.com/arte_kiwi/" target="_blank" class="color-black"><i class="fab fa-instagram font-size-xxl mx-2"></i></a>
-    <a href="https://wa.link/btnclx" target="_blank" class="color-black"><i class="fab fa-whatsapp font-size-xxl mx-2"></i></a>
-    <a href="https://www.facebook.com/artekiwioficial" target="_blank" class="color-black"><i class="fab fa-facebook font-size-xxl mx-2"></i></a>
-  </div>
-  <!-- Write us -->
-  <div class="w-100 my-2 z-index-footer">
-    Escríbenos: <a class="color-red font-weight-6" href="mailto:contacto@artekiwi.com">contacto@artekiwi.com</a>
-  </div>
-  <!-- Text -->
-  <div class="w-100 my-2 mb-4 z-index-footer">
-    &copy; Copyright 2020, Arte Kiwi – Hecho con ❤️
-  </div>
-</footer>
+<%= render partial: "common/footer" %>
 <!-- End Footer section -->
