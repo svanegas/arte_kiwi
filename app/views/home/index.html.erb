@@ -1,13 +1,15 @@
 <nav class="kiwi-navbar">
   <div class="row align-items-center no-gutters box-shadow-raised pt-1 px-3">
     <div class="col-1 text-center">
-      <a href="https://www.instagram.com/arte_kiwi/" target="_blank" class="color-black"><i class="fab fa-instagram font-size-xxl"></i></a>
+      <a href="https://www.instagram.com/arte_kiwi/" target="_blank" class="color-gray"><i class="fab fa-instagram font-size-xxl"></i></a>
     </div>
     <div class="col-10 text-center font-weight-6 font-size-xxl font-size-lt-md-xxl">
-      <%= image_tag "/img/logo.png", class: "kiwi-navbar-logo" %>
+      <%= link_to root_path do %>
+        <%= image_tag "/img/logo.png", class: "kiwi-navbar-logo" %>
+      <% end %>
     </div>
     <div class="col-1 text-center">
-      <a href="https://wa.link/btnclx" target="_blank" class="color-black"><i class="fab fa-whatsapp font-size-xxl"></i></a>
+      <a href="https://wa.link/btnclx" target="_blank" class="color-gray"><i class="fab fa-whatsapp font-size-xxl"></i></a>
     </div>
   </div>
 </nav>
