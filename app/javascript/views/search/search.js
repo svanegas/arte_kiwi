@@ -8,7 +8,6 @@ let cardsContainer;
 let selectCategory;
 let sortPrice;
 
-//Usar en un solo lugar, centralizar
 document.addEventListener('DOMContentLoaded', function() {
   init();
   const category = getParams(window.location.href).categoria;

@@ -65,8 +65,12 @@
 
     &:hover {
       background-color: map-get($color, ak-green-dark);
-      color: map-get($color, white);
+      color: map-get($color, ak-green);
       text-decoration: none;
+
+      i { color: map-get($color, ak-green); }
+
+      span { color: map-get($color, ak-green); }
     }
 
     &:focus {

@@ -2,7 +2,7 @@
   "raw_products": [
     {
       "name": "Window-ink 15mm vinilo",
-      "id": "window-ink-15mm-vinilo",
+      "id": "window-ink-15mm-vinilo-kiwi-gtm",
       "quantity": "Unidad",
       "price": 14000,
       "category": "vinyl-markers",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Window-ink 5.5mm vinilo",
-      "id": "window-ink-5-5mm-vinilo",
+      "id": "window-ink-5-5mm-vinilo-kiwi-gtm",
       "quantity": "Unidad",
       "price": 8000,
       "category": "vinyl-markers",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Eterna neón",
-      "id": "eterna-neon",
+      "id": "eterna-neon-kiwi-gtm",
       "quantity": "8",
       "price": 16000,
       "category": "vinyl-markers",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Chalk marker de vinilo",
-      "id": "chalk-marker-de-vinilo",
+      "id": "chalk-marker-de-vinilo-kiwi-gtm",
       "quantity": "8",
       "price": 38000,
       "category": "vinyl-markers",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Marker",
-      "id": "marker-x7",
+      "id": "marker-x7-kiwi-gtm",
       "quantity": "7",
       "price": 16000,
       "category": "vinyl-markers",
@@ -52,7 +52,7 @@
     },
     {
       "name": "Marker",
-      "id": "marker-x12",
+      "id": "marker-x12-kiwi-gtm",
       "quantity": "12",
       "price": 22000,
       "category": "vinyl-markers",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Marcador gráfico Doricolor",
-      "id": "marcador-grafico-doricolor",
+      "id": "marcador-grafico-doricolor-kiwi-gtm",
       "quantity": "10",
       "price": 25000,
       "category": "vinyl-markers",
@@ -73,7 +73,7 @@
     },
     {
       "name": "Marcador pegante 15mm",
-      "id": "marcador-pegante-15mm",
+      "id": "marcador-pegante-15mm-kiwi-gtm",
       "quantity": "Unidad",
       "price": 26000,
       "category": "vinyl-markers",
@@ -83,7 +83,7 @@
     },
     {
       "name": "Marcador pegante 5 mm",
-      "id": "marcador-pegante-5-mm",
+      "id": "marcador-pegante-5-mm-kiwi-gtm",
       "quantity": "Unidad",
       "price": 18000,
       "category": "vinyl-markers",
@@ -93,7 +93,7 @@
     },
     {
       "name": "Acrylic marker",
-      "id": "acrylic-marker",
+      "id": "acrylic-marker-kiwi-gtm",
       "quantity": "Unidad",
       "price": 4000,
       "category": "vinyl-markers",
@@ -103,7 +103,7 @@
     },
     {
       "name": "Eterna metal doble trazo",
-      "id": "eterna-metal-doble-trazo",
+      "id": "eterna-metal-doble-trazo-kiwi-gtm",
       "quantity": "8",
       "price": 18000,
       "category": "vinyl-markers",
@@ -113,7 +113,7 @@
     },
     {
       "name": "Offi-Esco permanentes doble punta",
-      "id": "offi-esco-permanentes-doble-punta",
+      "id": "offi-esco-permanentes-doble-punta-kiwi-gtm",
       "quantity": "12",
       "price": 26000,
       "category": "permanent-markers",
@@ -123,7 +123,7 @@
     },
     {
       "name": "Twins permanentes doble punta",
-      "id": "twins-permanentes-doble-punta",
+      "id": "twins-permanentes-doble-punta-kiwi-gtm",
       "quantity": "12",
       "price": 26000,
       "category": "permanent-markers",
@@ -133,7 +133,7 @@
     },
     {
       "name": "Marcadores gráficos Pelikan metálicos",
-      "id": "marcadores-graficos-pelikan-metalicos",
+      "id": "marcadores-graficos-pelikan-metalicos-kiwi-gtm",
       "quantity": "10",
       "price": 22000,
       "category": "pelikan-markers",
@@ -143,7 +143,7 @@
     },
     {
       "name": "Marcadores Pelikan Colorella pastel",
-      "id": "marcadores-pelikan-colorella-pastel",
+      "id": "marcadores-pelikan-colorella-pastel-kiwi-gtm",
       "quantity": "8",
       "price": 18000,
       "category": "pelikan-markers",
@@ -153,7 +153,7 @@
     },
     {
       "name": "Marcadores Pelikan Colorella triangular (próximamente)",
-      "id": "marcadores-pelikan-colorella-triangular-proximamente",
+      "id": "marcadores-pelikan-colorella-triangular-proximamente-kiwi-gtm",
       "quantity": "12",
       "price": 28000,
       "category": "pelikan-markers",
@@ -163,7 +163,7 @@
     },
     {
       "name": "Resaltadores Pelikan pastel",
-      "id": "resaltadores-pelikan-pastel",
+      "id": "resaltadores-pelikan-pastel-kiwi-gtm",
       "quantity": "10",
       "price": 20000,
       "category": "pelikan-markers",
@@ -173,9 +173,9 @@
     },
     {
       "name": "Micropuntas Pelikan",
-      "id": "micropuntas-pelikan",
+      "id": "micropuntas-pelikan-kiwi-gtm",
       "quantity": "12",
-      "price": 8500,
+      "price": 18000,
       "category": "pelikan-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.micropuntas2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Micropuntas Pelikan*, muchas gracias. 😊",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Témpera pastel Pelikan",
-      "id": "tempera-pastel-pelikan",
+      "id": "tempera-pastel-pelikan-kiwi-gtm",
       "quantity": "6",
       "price": 8500,
       "category": "pelikan-markers",
@@ -193,7 +193,7 @@
     },
     {
       "name": "Colores pastel Pelikan",
-      "id": "colores-pastel-pelikan",
+      "id": "colores-pastel-pelikan-kiwi-gtm",
       "quantity": "12",
       "price": 18000,
       "category": "pelikan-markers",
@@ -203,7 +203,7 @@
     },
     {
       "name": "Norma doble punta",
-      "id": "norma-doble-punta",
+      "id": "norma-doble-punta-kiwi-gtm",
       "quantity": "10",
       "price": 14000,
       "category": "washable-markers",
@@ -213,7 +213,7 @@
     },
     {
       "name": "Norma gigante",
-      "id": "norma-gigante",
+      "id": "norma-gigante-kiwi-gtm",
       "quantity": "10",
       "price": 16000,
       "category": "washable-markers",
@@ -222,7 +222,7 @@
     },
     {
       "name": "Plumon kiut",
-      "id": "plumon-kiut",
+      "id": "plumon-kiut-kiwi-gtm",
       "quantity": "12",
       "price": 18000,
       "category": "washable-markers",
@@ -232,7 +232,7 @@
     },
     {
       "name": "Kiut Grafigel",
-      "id": "kiut-grafigel",
+      "id": "kiut-grafigel-kiwi-gtm",
       "quantity": "8",
       "price": 18000,
       "category": "washable-markers",
@@ -242,7 +242,7 @@
     },
     {
       "name": "Kiut glitter ",
-      "id": "kiut-glitter",
+      "id": "kiut-glitter-kiwi-gtm",
       "quantity": "10",
       "price": 22000,
       "category": "washable-markers",
@@ -252,7 +252,7 @@
     },
     {
       "name": "Plumones Artisan punta pincel",
-      "id": "plumones-artisan-punta-pincel-x12",
+      "id": "plumones-artisan-punta-pincel-x12-kiwi-gtm",
       "quantity": "12",
       "price": 20000,
       "category": "lettering-markers",
@@ -262,7 +262,7 @@
     },
     {
       "name": "Plumones Artisan punta pincel",
-      "id": "plumones-artisan-punta-pincel-x24",
+      "id": "plumones-artisan-punta-pincel-x24-kiwi-gtm",
       "quantity": "24",
       "price": 40000,
       "category": "lettering-markers",
@@ -272,7 +272,7 @@
     },
     {
       "name": "Plumones Artisan punta pincel",
-      "id": "plumones-artisan-punta-pincel-x48",
+      "id": "plumones-artisan-punta-pincel-x48-kiwi-gtm",
       "quantity": "48",
       "price": 68000,
       "category": "lettering-markers",
@@ -282,7 +282,7 @@
     },
     {
       "name": "Plumones Edding",
-      "id": "plumones-edding",
+      "id": "plumones-edding-kiwi-gtm",
       "quantity": "10",
       "price": 46000,
       "category": "lettering-markers",
@@ -292,7 +292,7 @@
     },
     {
       "name": "Cartilla de letra Timoteo 39 páginas",
-      "id": "cartilla-de-letra-timoteo-39-paginas",
+      "id": "cartilla-de-letra-timoteo-39-paginas-kiwi-gtm",
       "digital_price": 23000,
       "physical_price": 38000,
       "category": "books",
@@ -302,7 +302,7 @@
     },
     {
       "name": "Cartilla de dibujos Timoteo 25 páginas",
-      "id": "cartilla-de-dibujos-timoteo-25-paginas",
+      "id": "cartilla-de-dibujos-timoteo-25-paginas-kiwi-gtm",
       "digital_price": 18000,
       "physical_price": 26000,
       "category": "books",
@@ -312,7 +312,7 @@
     },
     {
       "name": "Cartilla de lettering 38 páginas",
-      "id": "cartilla-de-lettering-38-paginas",
+      "id": "cartilla-de-lettering-38-paginas-kiwi-gtm",
       "digital_price": 22000,
       "physical_price": 36000,
       "category": "books",
@@ -322,7 +322,7 @@
     },
     {
       "name": "Combo mandalas",
-      "id": "combo-mandalas",
+      "id": "combo-mandalas-kiwi-gtm",
       "price": 32000,
       "category": "books",
       "template": "book",
@@ -331,7 +331,7 @@
     },
     {
       "name": "Opalina (cartulina) x 50 hojas",
-      "id": "opalina-cartulina-x-50-hojas",
+      "id": "opalina-cartulina-x-50-hojas-kiwi-gtm",
       "price": 11000,
       "category": "books",
       "template": "book",
@@ -340,7 +340,7 @@
     },
     {
       "name": "Bitácora de lettering \"My lettering book\" 50 hojas",
-      "id": "bitacora-de-lettering-my-lettering-book-50-hojas",
+      "id": "bitacora-de-lettering-my-lettering-book-50-hojas-kiwi-gtm",
       "price": 40000,
       "category": "books",
       "template": "book",
@@ -349,7 +349,7 @@
     },
     {
       "name": "Bitácora de práctica media carta 50 hojas blancas BOND",
-      "id": "bitacora-de-practica-media-carta-50-hojas-blancas-bond",
+      "id": "bitacora-de-practica-media-carta-50-hojas-blancas-bond-kiwi-gtm",
       "price": 15000,
       "category": "binnacles",
       "template": "binnacle",
@@ -358,7 +358,7 @@
     },
     {
       "name": "Bitácora de práctica tamaño carta 50 hojas blancas BOND",
-      "id": "bitacora-de-practica-tamano-carta-50-hojas-blancas-bond",
+      "id": "bitacora-de-practica-tamano-carta-50-hojas-blancas-bond-kiwi-gtm",
       "price": 22000,
       "category": "binnacles",
       "template": "binnacle",
@@ -367,7 +367,7 @@
     },
     {
       "name": "Letra \"K\" o \"A\"",
-      "id": "letra-k-o-a",
+      "id": "letra-k-o-a-kiwi-gtm",
       "price": 120000,
       "category": "organizers",
       "template": "organizer",
@@ -377,7 +377,7 @@
     },
     {
       "name": "Cuadrado grande",
-      "id": "cuadrado-grande",
+      "id": "cuadrado-grande-kiwi-gtm",
       "price": 85000,
       "category": "organizers",
       "template": "organizer",
@@ -387,7 +387,7 @@
     },
     {
       "name": "Rectángulo",
-      "id": "rectangulo",
+      "id": "rectangulo-kiwi-gtm",
       "price": 65000,
       "category": "organizers",
       "template": "organizer",
@@ -397,7 +397,7 @@
     },
     {
       "name": "Cuadrado pequeño",
-      "id": "cuadrado-pequeno",
+      "id": "cuadrado-pequeno-kiwi-gtm",
       "price": 50000,
       "category": "organizers",
       "template": "organizer",
@@ -407,7 +407,7 @@
     },
     {
       "name": "Corrector",
-      "id": "corrector",
+      "id": "corrector-kiwi-gtm",
       "quantity": "Unidad",
       "price": 2500,
       "category": "permanent-markers",
@@ -417,7 +417,7 @@
     },
     {
       "name": "Kit Timoteo #1",
-      "id": "kit-timoteo-1",
+      "id": "kit-timoteo-1-kiwi-gtm",
       "price": 44000,
       "category": "kits-timoteo",
       "template": "kit",
@@ -426,7 +426,7 @@
     },
     {
       "name": "Kit Timoteo #2",
-      "id": "kit-timoteo-2",
+      "id": "kit-timoteo-2-kiwi-gtm",
       "price": 46000,
       "category": "kits-timoteo",
       "template": "kit",
@@ -435,7 +435,7 @@
     },
     {
       "name": "Kit Timoteo #3",
-      "id": "kit-timoteo-3",
+      "id": "kit-timoteo-3-kiwi-gtm",
       "price": 50000,
       "category": "kits-timoteo",
       "template": "kit",
@@ -444,7 +444,7 @@
     },
     {
       "name": "Kit Timoteo #4",
-      "id": "kit-timoteo-4",
+      "id": "kit-timoteo-4-kiwi-gtm",
       "price": 56000,
       "category": "kits-timoteo",
       "template": "kit",
@@ -453,7 +453,7 @@
     },
     {
       "name": "Kit Timoteo #5",
-      "id": "kit-timoteo-5",
+      "id": "kit-timoteo-5-kiwi-gtm",
       "price": 65000,
       "category": "kits-timoteo",
       "template": "kit",
@@ -462,7 +462,7 @@
     },
     {
       "name": "Kit Timoteo #6",
-      "id": "kit-timoteo-6",
+      "id": "kit-timoteo-6-kiwi-gtm",
       "price": 75000,
       "category": "kits-timoteo",
       "template": "kit",
@@ -471,7 +471,7 @@
     },
     {
       "name": "Kit Timoteo #7",
-      "id": "kit-timoteo-7",
+      "id": "kit-timoteo-7-kiwi-gtm",
       "price": 95000,
       "category": "kits-timoteo",
       "template": "kit",
@@ -480,7 +480,7 @@
     },
     {
       "name": "Kit Timoteo #8",
-      "id": "kit-timoteo-8",
+      "id": "kit-timoteo-8-kiwi-gtm",
       "price": 96000,
       "category": "kits-timoteo",
       "template": "kit",
@@ -489,7 +489,7 @@
     },
     {
       "name": "Kit Timoteo #9",
-      "id": "kit-timoteo-9",
+      "id": "kit-timoteo-9-kiwi-gtm",
       "price": 96000,
       "category": "kits-timoteo",
       "template": "kit",
@@ -498,7 +498,7 @@
     },
     {
       "name": "Kit Timoteo #10",
-      "id": "kit-timoteo-10",
+      "id": "kit-timoteo-10-kiwi-gtm",
       "price": 96000,
       "category": "kits-timoteo",
       "template": "kit",
@@ -506,8 +506,17 @@
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo #10*, muchas gracias. 😊"
     },
     {
+      "name": "Kit Timoteo #11",
+      "id": "kit-timoteo-11-kiwi-gtm",
+      "price": 125000,
+      "category": "kits-timoteo",
+      "template": "kit",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_11.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo #11*, muchas gracias. 😊"
+    },
+    {
       "name": "Kit Timoteo #12",
-      "id": "kit-timoteo-12",
+      "id": "kit-timoteo-12-kiwi-gtm",
       "price": 155000,
       "category": "kits-timoteo",
       "template": "kit",
@@ -516,8 +525,8 @@
     },
     {
       "name": "Kit Lettering #1",
-      "id": "kit-lettering-1",
-      "price": 3500,
+      "id": "kit-lettering-1-kiwi-gtm",
+      "price": 35000,
       "category": "kits-lettering",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_1.JPG",
@@ -525,8 +534,8 @@
     },
     {
       "name": "Kit Lettering #2",
-      "id": "kit-lettering-2",
-      "price": 4500,
+      "id": "kit-lettering-2-kiwi-gtm",
+      "price": 45000,
       "category": "kits-lettering",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_2.JPG",
@@ -534,17 +543,17 @@
     },
     {
       "name": "Kit Lettering #3",
-      "id": "kit-lettering-3",
-      "price": 0,
+      "id": "kit-lettering-3-kiwi-gtm",
+      "price": 68000,
       "category": "kits-lettering",
       "template": "kit",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Lettering #3*, muchas gracias. 😊"
     },
     {
       "name": "Kit Lettering #4",
-      "id": "kit-lettering-4",
-      "price": 7000,
+      "id": "kit-lettering-4-kiwi-gtm",
+      "price": 70000,
       "category": "kits-lettering",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_4.JPG",
@@ -552,8 +561,8 @@
     },
     {
       "name": "Kit Lettering #5",
-      "id": "kit-lettering-5",
-      "price": 7500,
+      "id": "kit-lettering-5-kiwi-gtm",
+      "price": 75000,
       "category": "kits-lettering",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_5.JPG",
@@ -561,8 +570,8 @@
     },
     {
       "name": "Kit Lettering #6",
-      "id": "kit-lettering-6",
-      "price": 9500,
+      "id": "kit-lettering-6-kiwi-gtm",
+      "price": 95000,
       "category": "kits-lettering",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_6.JPG",
@@ -570,7 +579,7 @@
     },
     {
       "name": "Kit Dibujo #1",
-      "id": "kit-dibujo-1",
+      "id": "kit-dibujo-1-kiwi-gtm",
       "price": 40000,
       "category": "kits-dibujo",
       "template": "kit",
@@ -579,7 +588,7 @@
     },
     {
       "name": "Kit Dibujo #2",
-      "id": "kit-dibujo-2",
+      "id": "kit-dibujo-2-kiwi-gtm",
       "price": 55000,
       "category": "kits-dibujo",
       "template": "kit",
@@ -588,7 +597,7 @@
     },
     {
       "name": "Kit Dibujo #3",
-      "id": "kit-dibujo-3",
+      "id": "kit-dibujo-3-kiwi-gtm",
       "price": 76000,
       "category": "kits-dibujo",
       "template": "kit",
