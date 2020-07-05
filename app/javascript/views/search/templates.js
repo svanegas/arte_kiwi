@@ -21,7 +21,7 @@ const markersCardTemplate = function markersCardTemplate(product) {
           </div>
         </div>
         <div class='col-12 pt-2'>
-          <a id="${product.id}" target='_blank' href='https://api.whatsapp.com/send?phone=+573175987665&text=${encodeURI(encodeURI(product.whatsappMessage))}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
+          <a id="${product.id}" target='_blank' href='https://api.whatsapp.com/send?phone=+573175987665&text=${product.whatsappMessage}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
             <i class='fab fa-whatsapp font-size-xl mr-3'></i>
             <span>COMPRAR</span>
           </a>
@@ -58,7 +58,7 @@ const virtualBookCardTemplate = function virtualBookCardTemplate(product) {
           </div>
         </div>
         <div class='col-12 pt-2'>
-          <a id="${product.id}" target='_blank' href='https://api.whatsapp.com/send?phone=+573175987665&text=${encodeURI(product.whatsappMessage)}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
+          <a id="${product.id}" target='_blank' href='https://api.whatsapp.com/send?phone=+573175987665&text=${product.whatsappMessage}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
             <i class='fab fa-whatsapp font-size-xl mr-3'></i>
             <span>COMPRAR</span>
           </a>
@@ -86,7 +86,7 @@ const binnacleCardTemplate = function binnacleCardTemplate(product) {
           </div>
         </div>
         <div class='col-12 pt-2'>
-          <a id="${product.id}" target='_blank' href='https://api.whatsapp.com/send?phone=+573175987665&text=${encodeURI(product.whatsappMessage)}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
+          <a id="${product.id}" target='_blank' href='https://api.whatsapp.com/send?phone=+573175987665&text=${product.whatsappMessage}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
             <i class='fab fa-whatsapp font-size-xl mr-3'></i>
             <span>COMPRAR</span>
           </a>
@@ -114,7 +114,7 @@ const bookCardTemplate = function bookCardTemplate(product) {
           </div>
         </div>
         <div class='col-12 pt-2'>
-          <a id="${product.id}" target='_blank' href='https://api.whatsapp.com/send?phone=+573175987665&text=${encodeURI(product.whatsappMessage)}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
+          <a id="${product.id}" target='_blank' href='https://api.whatsapp.com/send?phone=+573175987665&text=${product.whatsappMessage}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
             <i class='fab fa-whatsapp font-size-xl mr-3'></i>
             <span>COMPRAR</span>
           </a>
@@ -125,7 +125,6 @@ const bookCardTemplate = function bookCardTemplate(product) {
 }
 
 const kitCardTemplate = function kitCardTemplate(product) {
-  console.log(encodeURI(product.whatsappMessage));
   return `
     <div class='col-12 col-md-6 col-lg-4 card my-1 kiwi-bg-white border-0'>
       <div class='row m-2 m-md-3 no-gutters'>
@@ -143,7 +142,7 @@ const kitCardTemplate = function kitCardTemplate(product) {
           </div>
         </div>
         <div class='col-12 pt-2'>
-          <a id="${product.id}" target='_blank' href='https://api.whatsapp.com/send?phone=+573175987665&text=${encodeURI(product.whatsappMessage)}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
+          <a id="${product.id}" target='_blank' href='https://api.whatsapp.com/send?phone=+573175987665&text=${product.whatsappMessage}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
             <i class='fab fa-whatsapp font-size-xl mr-3'></i>
             <span>COMPRAR</span>
           </a>
@@ -174,7 +173,7 @@ const organizersCardTemplate = function organizersCardTemplate(product) {
           </div>
         </div>
         <div class='col-12 pt-2'>
-          <a id="${product.id}" target='_blank' href='https://api.whatsapp.com/send?phone=+573175987665&text=${encodeURI(product.whatsappMessage)}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
+          <a id="${product.id}" target='_blank' href='https://api.whatsapp.com/send?phone=+573175987665&text=${product.whatsappMessage}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
             <i class='fab fa-whatsapp font-size-xl mr-3'></i>
             <span>COMPRAR</span>
           </a>
