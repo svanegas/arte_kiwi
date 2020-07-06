@@ -19,7 +19,7 @@ class HomeController < ApplicationController
         title: "Cajas de Regalo",
         image: "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/cajas_regalos_banner.jpeg",
         id: "cajas-regalo-banner",
-        link: "https://api.whatsapp.com/send?phone=+573175987665&text=¡Hola! deseo información sobre las cajas de regalo, muchas gracias. 😊"
+        link: "https://api.whatsapp.com/send?phone=573175987665&text=¡Hola! deseo información sobre las cajas de regalo, muchas gracias. 😊"
       },
       {
         title: "Cartillas",
