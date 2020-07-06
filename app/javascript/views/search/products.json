@@ -215,7 +215,7 @@
       "name": "Norma gigante",
       "id": "norma-gigante-kiwi-gtm",
       "quantity": "10",
-      "price": 16000,
+      "price": 18000,
       "category": "washable-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.normagigante1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Norma gigante*, muchas gracias. 😊"
@@ -323,7 +323,7 @@
     {
       "name": "Combo mandalas",
       "id": "combo-mandalas-kiwi-gtm",
-      "price": 32000,
+      "price": 35000,
       "category": "books",
       "template": "book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.Mandala1.JPG",
