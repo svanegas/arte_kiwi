@@ -311,14 +311,14 @@
       "whatsappMessage": "¡Hola! deseo información de *Cartilla de dibujos Timoteo 25 páginas*, muchas gracias. 😊"
     },
     {
-      "name": "Cartilla de lettering 38 páginas",
+      "name": "Cartilla de Lettering 38 páginas",
       "id": "cartilla-de-lettering-38-paginas-kiwi-gtm",
       "digital_price": 22000,
       "physical_price": 36000,
       "category": "books",
       "template": "virtual-book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartillalettering1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Cartilla de lettering 38 páginas*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Cartilla de Lettering 38 páginas*, muchas gracias. 😊"
     },
     {
       "name": "Combo mandalas",
@@ -339,13 +339,13 @@
       "whatsappMessage": "¡Hola! deseo información de *Opalina (cartulina) x 50 hojas*, muchas gracias. 😊"
     },
     {
-      "name": "Bitácora de lettering \"My lettering book\" 50 hojas",
+      "name": "Bitácora de Lettering \"My Lettering book\" 50 hojas",
       "id": "bitacora-de-lettering-my-lettering-book-50-hojas-kiwi-gtm",
       "price": 40000,
       "category": "books",
       "template": "book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.Bitalettering4.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Bitácora de lettering \"My lettering book\" 50 hojas*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Bitácora de Lettering \"My Lettering book\" 50 hojas*, muchas gracias. 😊"
     },
     {
       "name": "Bitácora de práctica media carta 50 hojas blancas BOND",
