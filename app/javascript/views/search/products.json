@@ -54,7 +54,7 @@
       "name": "Marker",
       "id": "marker-x12-kiwi-gtm",
       "quantity": "12",
-      "price": 22000,
+      "price": 23000,
       "category": "vinyl-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.marker1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marker (x12)*, muchas gracias. 😊",
@@ -82,13 +82,13 @@
       "template": "marker"
     },
     {
-      "name": "Marcador pegante 5 mm",
+      "name": "Marcador pegante 5mm",
       "id": "marcador-pegante-5-mm-kiwi-gtm",
       "quantity": "Unidad",
       "price": 18000,
       "category": "vinyl-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.pegantepequen%CC%83o1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Marcador pegante 5 mm*, muchas gracias. 😊",
+      "whatsappMessage": "¡Hola! deseo información de *Marcador pegante 5mm*, muchas gracias. 😊",
       "template": "marker"
     },
     {
@@ -264,7 +264,7 @@
       "name": "Plumones Artisan punta pincel",
       "id": "plumones-artisan-punta-pincel-x24-kiwi-gtm",
       "quantity": "24",
-      "price": 40000,
+      "price": 38000,
       "category": "lettering-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.artisan24.1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Artisan punta pincel (x24)*, muchas gracias. 😊",
