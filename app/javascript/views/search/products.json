@@ -1,6 +1,116 @@
 {
   "raw_products": [
     {
+      "name": "Artline Decorite",
+      "id": "artline-decorite-kiwi-gtm",
+      "quantity": "Unidad",
+      "price": 5000,
+      "category": "vinyl-markers",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_decorite.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Artline Decorite*, muchas gracias. 😊",
+      "template": "marker"
+    },
+    {
+      "name": "Artline Massimo",
+      "id": "artline-massimo-kiwi-gtm",
+      "quantity": "Unidad",
+      "price": 11000,
+      "category": "vinyl-markers",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-massimo_artline_multipen.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Artline Massimo*, muchas gracias. 😊",
+      "template": "marker"
+    },
+    {
+      "name": "Poster Marker 4mm",
+      "id": "poster-marker-4mm-kiwi-gtm",
+      "quantity": "Unidad",
+      "price": 11000,
+      "category": "vinyl-markers",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-poster_marker_4mm.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Poster Marker 4mm*, muchas gracias. 😊",
+      "template": "marker"
+    },
+    {
+      "name": "Poster Marker 12mm",
+      "id": "poster-marker-12mm-kiwi-gtm",
+      "quantity": "Unidad",
+      "price": 22000,
+      "category": "vinyl-markers",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-poster_marker_12mm.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Poster Marker 12mm*, muchas gracias. 😊",
+      "template": "marker"
+    },
+    {
+      "name": "Offi-Esco resaltador neón",
+      "id": "offi-esco-resaltador-neon-kiwi-gtm",
+      "quantity": "x6",
+      "price": 10000,
+      "category": "permanent-markers",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-resaltador_offiesco.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Offi-Esco resaltador neón*, muchas gracias. 😊",
+      "template": "marker"
+    },
+    {
+      "name": "Kiut Mágicos",
+      "id": "kiut-magicos-kiwi-gtm",
+      "quantity": "x12",
+      "price": 27000,
+      "category": "washable-markers",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-kiut_marcadores_magicos.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Kiut Mágicos*, muchas gracias. 😊",
+      "template": "marker"
+    },
+    {
+      "name": "Artline MultiPen",
+      "id": "artline-multipen-kiwi-gtm",
+      "quantity": "x6",
+      "price": 27000,
+      "category": "lettering-markers",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_multipen.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Artline MultiPen*, muchas gracias. 😊",
+      "template": "marker"
+    },
+    {
+      "name": "Artline Stix Brush Marker Neón",
+      "id": "artline-stix-brush-marker-neon-kiwi-gtm",
+      "quantity": "x6",
+      "price": 28000,
+      "category": "lettering-markers",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_stix_brush_marker.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Artline Stix Brush Marker Neón*, muchas gracias. 😊",
+      "template": "marker"
+    },
+    {
+      "name": "Pincel Recargable",
+      "id": "pincel-recargable-kiwi-gtm",
+      "quantity": "Unidad",
+      "price": 6000,
+      "category": "lettering-markers",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-pincel_recargable.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Pincel Recargable*, muchas gracias. 😊",
+      "template": "marker"
+    },
+    {
+      "name": "Plumones Faber-Castell Metálico",
+      "id": "plumones-faber-castell-metal-kiwi-gtm",
+      "quantity": "x6",
+      "price": 21000,
+      "category": "lettering-markers",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-plumones_faber_castell_meta%CC%81lico.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Plumones Faber-Castell Metálico*, muchas gracias. 😊",
+      "template": "marker"
+    },
+    {
+      "name": "Plumones Te Neng",
+      "id": "plumones-te-neng-kiwi-gtm",
+      "quantity": "x12",
+      "price": 21000,
+      "category": "lettering-markers",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-plumones_te_neng.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Plumones Te Neng*, muchas gracias. 😊",
+      "template": "marker"
+    },
+    {
       "name": "Window-ink 15mm vinilo",
       "id": "window-ink-15mm-vinilo-kiwi-gtm",
       "quantity": "Unidad",
@@ -56,7 +166,7 @@
       "quantity": "12",
       "price": 23000,
       "category": "vinyl-markers",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.marker1.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-marker_x12.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marker (x12)*, muchas gracias. 😊",
       "template": "marker"
     },
@@ -155,7 +265,7 @@
       "name": "Marcadores Pelikan Colorella triangular (próximamente)",
       "id": "marcadores-pelikan-colorella-triangular-proximamente-kiwi-gtm",
       "quantity": "12",
-      "price": 28000,
+      "price": 30000,
       "category": "pelikan-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcadores Pelikan Colorella triangular (próximamente)*, muchas gracias. 😊",
@@ -236,17 +346,17 @@
       "quantity": "8",
       "price": 18000,
       "category": "washable-markers",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-kiut_grafigel_x8.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kiut Grafigel*, muchas gracias. 😊",
       "template": "marker"
     },
     {
-      "name": "Kiut glitter ",
+      "name": "Kiut Glitter",
       "id": "kiut-glitter-kiwi-gtm",
       "quantity": "10",
       "price": 22000,
       "category": "washable-markers",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-kiut_glitter_x10.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kiut glitter *, muchas gracias. 😊",
       "template": "marker"
     },
@@ -286,7 +396,7 @@
       "quantity": "10",
       "price": 46000,
       "category": "lettering-markers",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-plumones_edding.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Edding*, muchas gracias. 😊",
       "template": "marker"
     },
@@ -319,6 +429,16 @@
       "template": "virtual-book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartillalettering1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Cartilla de Lettering 38 páginas*, muchas gracias. 😊"
+    },
+    {
+      "name": "Combo tres cartillas (Lettering + Timoteo + Dibujo)",
+      "id": "catillas-las-tres-kiwi-gtm",
+      "digital_price": 53000,
+      "physical_price": 90000,
+      "category": "books",
+      "template": "virtual-book",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartillaslastres.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Combo tres cartillas (Lettering + Timoteo + Dibujo)*, muchas gracias. 😊"
     },
     {
       "name": "Combo mandalas",
@@ -366,13 +486,33 @@
       "whatsappMessage": "¡Hola! deseo información de *Bitácora de práctica tamaño carta 50 hojas blancas BOND*, muchas gracias. 😊"
     },
     {
-      "name": "Letra \"K\" o \"A\"",
-      "id": "letra-k-o-a-kiwi-gtm",
+      "name": "Letra \"A\"",
+      "id": "letra-a-kiwi-gtm",
+      "price": 120000,
+      "category": "organizers",
+      "template": "organizer",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_letra_a.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Letra \"A\"*, muchas gracias. 😊",
+      "size": "35x35cm"
+    },
+    {
+      "name": "Letra \"K\"",
+      "id": "letra-k-kiwi-gtm",
+      "price": 120000,
+      "category": "organizers",
+      "template": "organizer",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_letra_k.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Letra \"K\"*, muchas gracias. 😊",
+      "size": "35x35cm"
+    },
+    {
+      "name": "Letra Personalizada",
+      "id": "letra-k-kiwi-gtm",
       "price": 120000,
       "category": "organizers",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Letra \"K\" o \"A\"*, muchas gracias. 😊",
+      "whatsappMessage": "¡Hola! deseo información de *Letra Personalizada*, muchas gracias. 😊",
       "size": "30x35cm"
     },
     {
@@ -381,7 +521,7 @@
       "price": 85000,
       "category": "organizers",
       "template": "organizer",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_cuadrado_grande.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Cuadrado grande*, muchas gracias. 😊",
       "size": "30x30cm"
     },
@@ -391,7 +531,7 @@
       "price": 65000,
       "category": "organizers",
       "template": "organizer",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_recta%CC%81ngulo.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Rectángulo*, muchas gracias. 😊",
       "size": "30x20cm"
     },
@@ -401,7 +541,7 @@
       "price": 50000,
       "category": "organizers",
       "template": "organizer",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_cuadrado_pequen%CC%83o.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Cuadrado pequeño*, muchas gracias. 😊",
       "size": "20x20cm"
     },
