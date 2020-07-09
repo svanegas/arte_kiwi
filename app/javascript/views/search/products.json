@@ -43,7 +43,7 @@
     {
       "name": "Offi-Esco resaltador neón",
       "id": "offi-esco-resaltador-neon-kiwi-gtm",
-      "quantity": "x6",
+      "quantity": "6",
       "price": 10000,
       "category": "permanent-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-resaltador_offiesco.JPG",
@@ -53,7 +53,7 @@
     {
       "name": "Kiut Mágicos",
       "id": "kiut-magicos-kiwi-gtm",
-      "quantity": "x12",
+      "quantity": "12",
       "price": 27000,
       "category": "washable-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-kiut_marcadores_magicos.JPG",
@@ -63,7 +63,7 @@
     {
       "name": "Artline MultiPen",
       "id": "artline-multipen-kiwi-gtm",
-      "quantity": "x6",
+      "quantity": "6",
       "price": 27000,
       "category": "lettering-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_multipen.JPG",
@@ -73,7 +73,7 @@
     {
       "name": "Artline Stix Brush Marker Neón",
       "id": "artline-stix-brush-marker-neon-kiwi-gtm",
-      "quantity": "x6",
+      "quantity": "6",
       "price": 28000,
       "category": "lettering-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_stix_brush_marker.JPG",
@@ -93,7 +93,7 @@
     {
       "name": "Plumones Faber-Castell Metálico",
       "id": "plumones-faber-castell-metal-kiwi-gtm",
-      "quantity": "x6",
+      "quantity": "6",
       "price": 21000,
       "category": "lettering-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-plumones_faber_castell_meta%CC%81lico.JPG",
@@ -103,7 +103,7 @@
     {
       "name": "Plumones Te Neng",
       "id": "plumones-te-neng-kiwi-gtm",
-      "quantity": "x12",
+      "quantity": "12",
       "price": 21000,
       "category": "lettering-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-plumones_te_neng.JPG",
