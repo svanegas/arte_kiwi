@@ -327,17 +327,17 @@
       "quantity": "10",
       "price": 18000,
       "category": "washable-markers",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.normagigante1.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.normagigante2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Norma gigante*, muchas gracias. 😊"
     },
     {
-      "name": "Plumon kiut",
+      "name": "Plumón kiut",
       "id": "plumon-kiut-kiwi-gtm",
       "quantity": "12",
       "price": 18000,
       "category": "washable-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.kiutplumon1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Plumon kiut*, muchas gracias. 😊",
+      "whatsappMessage": "¡Hola! deseo información de *Plumón kiut*, muchas gracias. 😊",
       "template": "marker"
     },
     {
@@ -491,7 +491,7 @@
       "price": 120000,
       "category": "organizers",
       "template": "organizer",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_letra_a.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_a_3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Letra \"A\"*, muchas gracias. 😊",
       "size": "35x35cm"
     },
@@ -501,7 +501,7 @@
       "price": 120000,
       "category": "organizers",
       "template": "organizer",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_letra_k.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_k_4.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Letra \"K\"*, muchas gracias. 😊",
       "size": "35x35cm"
     },
@@ -531,7 +531,7 @@
       "price": 65000,
       "category": "organizers",
       "template": "organizer",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_recta%CC%81ngulo.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_recta%CC%81ngulo_4.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Rectángulo*, muchas gracias. 😊",
       "size": "30x20cm"
     },
