@@ -331,13 +331,13 @@
       "whatsappMessage": "¡Hola! deseo información de *Norma gigante*, muchas gracias. 😊"
     },
     {
-      "name": "Plumon kiut",
+      "name": "Plumón kiut",
       "id": "plumon-kiut-kiwi-gtm",
       "quantity": "12",
       "price": 18000,
       "category": "washable-markers",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.kiutplumon1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Plumon kiut*, muchas gracias. 😊",
+      "whatsappMessage": "¡Hola! deseo información de *Plumón kiut*, muchas gracias. 😊",
       "template": "marker"
     },
     {
