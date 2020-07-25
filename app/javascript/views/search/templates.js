@@ -5,7 +5,7 @@ const markersCardTemplate = function markersCardTemplate(product) {
     <div class='col-12 col-md-6 col-lg-4 card my-1 kiwi-bg-white border-0'>
       <div class='row m-2 m-md-3 no-gutters'>
         <div class='col-6 card-height'>
-          <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}', class='lazyload card-img' />
+          <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}' class='lazyload card-img' />
         </div>
         <div class='col-6 card-height'>
           <div class='pl-3 pr-2 d-flex flex-column height-100'>
@@ -36,7 +36,7 @@ const virtualBookCardTemplate = function virtualBookCardTemplate(product) {
     <div class='col-12 col-md-6 col-lg-4 card my-1 kiwi-bg-white border-0'>
       <div class='row m-2 m-md-3 no-gutters'>
         <div class='col-6 card-height'>
-          <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}', class='lazyload card-img' />
+          <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}' class='lazyload card-img' />
         </div>
         <div class='col-6 card-height'>
           <div class='pl-3 pr-2 d-flex flex-column height-100'>
@@ -73,7 +73,7 @@ const binnacleCardTemplate = function binnacleCardTemplate(product) {
     <div class='col-12 col-md-6 col-lg-4 card my-1 kiwi-bg-white border-0'>
       <div class='row m-2 m-md-3 no-gutters'>
         <div class='col-6 card-height'>
-          <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}', class='lazyload card-img' />
+          <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}' class='lazyload card-img' />
         </div>
         <div class='col-6 card-height'>
           <div class='pl-3 pr-2 d-flex flex-column height-100'>
@@ -101,7 +101,7 @@ const bookCardTemplate = function bookCardTemplate(product) {
     <div class='col-12 col-md-6 col-lg-4 card my-1 kiwi-bg-white border-0'>
       <div class='row m-2 m-md-3 no-gutters'>
         <div class='col-6 card-height'>
-          <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}', class='lazyload card-img' />
+          <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}' class='lazyload card-img' />
         </div>
         <div class='col-6 card-height'>
           <div class='pl-3 pr-2 d-flex flex-column height-100'>
@@ -129,7 +129,7 @@ const kitCardTemplate = function kitCardTemplate(product) {
     <div class='col-12 col-md-6 col-lg-4 card my-1 kiwi-bg-white border-0'>
       <div class='row m-2 m-md-3 no-gutters'>
         <div class='col-6 card-height'>
-          <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}', class='lazyload card-img' />
+          <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}' class='lazyload card-img' />
         </div>
         <div class='col-6 card-height'>
           <div class='pl-3 pr-2 d-flex flex-column height-100'>
@@ -157,7 +157,7 @@ const organizersCardTemplate = function organizersCardTemplate(product) {
     <div class='col-12 col-md-6 col-lg-4 card my-1 kiwi-bg-white border-0'>
       <div class='row m-2 m-md-3 no-gutters'>
         <div class='col-6 card-height'>
-          <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}', class='lazyload card-img' />
+          <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}' class='lazyload card-img' />
         </div>
         <div class='col-6 card-height'>
           <div class='pl-3 pr-2 d-flex flex-column height-100'>
