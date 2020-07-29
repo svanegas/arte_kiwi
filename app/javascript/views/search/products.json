@@ -1,6 +1,26 @@
 {
   "raw_products": [
     {
+      "name": "Window Marker 600",
+      "id": "window-marker-600-kiwi-gtm",
+      "quantity": "8",
+      "price": 28000,
+      "category": "vinyl-markers",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.windowmarker600_1.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Window Marker 600*, muchas gracias. 😊",
+      "template": "marker"
+    },
+    {
+      "name": "Pelikan Pasel 420",
+      "id": "pelikan-pastel-420-kiwi-gtm",
+      "quantity": "4+1",
+      "price": 10000,
+      "category": "permanent-markers",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.pastel420_1.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Pelikan Pastel 420*, muchas gracias. 😊",
+      "template": "marker"
+    },
+    {
       "name": "Artline Decorite",
       "id": "artline-decorite-kiwi-gtm",
       "quantity": "Unidad",
@@ -277,7 +297,7 @@
       "quantity": "10",
       "price": 20000,
       "category": "pelikan-markers",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.resaltador3.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.resaltador.2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Resaltadores Pelikan pastel*, muchas gracias. 😊",
       "template": "marker"
     },
