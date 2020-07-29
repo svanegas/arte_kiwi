@@ -526,6 +526,16 @@
       "size": "35x35cm"
     },
     {
+      "name": "Letra \"N\"",
+      "id": "letra-n-kiwi-gtm",
+      "price": 120000,
+      "category": "organizers",
+      "template": "organizer",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_n_3.JPG",
+      "whatsappMessage": "¡Hola! deseo información de *Letra \"N\"*, muchas gracias. 😊",
+      "size": "35x35cm"
+    },
+    {
       "name": "Letra Personalizada",
       "id": "letra-k-kiwi-gtm",
       "price": 120000,
