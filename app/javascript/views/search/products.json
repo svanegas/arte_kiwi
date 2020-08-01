@@ -560,7 +560,8 @@
       "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.colores3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Colores pastel Pelikan*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": []
     },
     {
       "name": "Norma doble punta",
@@ -730,7 +731,12 @@
       "label": "cartillas",
       "template": "virtual-book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartillaletratimoteo1dibujo2.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Cartilla de letra Timoteo 39 páginas*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Cartilla de letra Timoteo 39 páginas*, muchas gracias. 😊",
+      "description": [
+        "Cartilla de aprendizaje",
+        "39 paginas",
+        "Compuesta de ejercicios básicos, abecedario Timoteo, frases, diseños, espacio para practicar"
+      ]
     },
     {
       "name": "Cartilla de dibujos Timoteo 25 páginas",
@@ -742,7 +748,11 @@
       "label": "cartillas",
       "template": "virtual-book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartilladibujo1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Cartilla de dibujos Timoteo 25 páginas*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Cartilla de dibujos Timoteo 25 páginas*, muchas gracias. 😊",
+      "description": [
+        "25 páginas de dibujos Timoteo a blanco y negro",
+        "Separados por temáticas para que los pintes o hagas tus propios diseños"
+      ]
     },
     {
       "name": "Cartilla de Lettering 38 páginas",
@@ -754,7 +764,12 @@
       "label": "cartillas",
       "template": "virtual-book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartillalettering1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Cartilla de Lettering 38 páginas*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Cartilla de Lettering 38 páginas*, muchas gracias. 😊",
+      "description": [
+        "Cartilla de aprendizaje",
+        "39 páginas",
+        "Compuesta de ejercicios básicos, abecedario Lettering, frases, diseños, espacio para practicar"
+      ]
     },
     {
       "name": "Combo tres cartillas (Lettering + Timoteo + Dibujo)",
@@ -766,7 +781,8 @@
       "label": "cartillas",
       "template": "virtual-book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartillaslastres.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Combo tres cartillas (Lettering + Timoteo + Dibujo)*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Combo tres cartillas (Lettering + Timoteo + Dibujo)*, muchas gracias. 😊",
+      "description": []
     },
     {
       "name": "Combo mandalas",
@@ -777,7 +793,10 @@
       "label": "cartillas",
       "template": "book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.Mandala1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Combo mandalas*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Combo mandalas*, muchas gracias. 😊",
+      "description": [
+        "Combo mandalas, libro de 55 paginas y caja de 24 colores ecológicos, suaves y de mina duradera"
+      ]
     },
     {
       "name": "Opalina (cartulina) x 50 hojas",
@@ -788,7 +807,12 @@
       "label": "cartillas",
       "template": "book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.Opalina+x+50.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Opalina (cartulina) x 50 hojas*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Opalina (cartulina) x 50 hojas*, muchas gracias. 😊",
+      "description": [
+        "Paquete de 50 hojas",
+        "180 gramos",
+        "Ideal para practicar Lettering y lo diseños Timoteo"
+      ]
     },
     {
       "name": "Bitácora de Lettering \"My Lettering book\" 50 hojas",
@@ -799,7 +823,16 @@
       "label": "cartillas",
       "template": "book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.Bitalettering4.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Bitácora de Lettering \"My Lettering book\" 50 hojas*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Bitácora de Lettering \"My Lettering book\" 50 hojas*, muchas gracias. 😊",
+      "description": [
+        "Pasta dura",
+        "Ejercicios básicos",
+        "Abecedario Lettering",
+        "Frases",
+        "Espacio para diseñar",
+        "Hojas en blanco",
+        "Puntos y rayas"
+      ]
     },
     {
       "name": "Bitácora de práctica media carta 50 hojas blancas BOND",
@@ -810,7 +843,13 @@
       "label": "bitacoras",
       "template": "binnacle",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.bita%CC%81coramedia2.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Bitácora de práctica media carta 50 hojas blancas BOND*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Bitácora de práctica media carta 50 hojas blancas BOND*, muchas gracias. 😊",
+      "description": [
+        "Pasta dura",
+        "Tamaño media carta",
+        "50 hojas en blanco papel BOND",
+        "115 gramos"
+      ]
     },
     {
       "name": "Bitácora de práctica tamaño carta 50 hojas blancas BOND",
@@ -821,7 +860,13 @@
       "label": "bitacoras",
       "template": "binnacle",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.bita%CC%81coracarta4.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Bitácora de práctica tamaño carta 50 hojas blancas BOND*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Bitácora de práctica tamaño carta 50 hojas blancas BOND*, muchas gracias. 😊",
+      "description": [
+        "Pasta dura",
+        "Tamaño carta",
+        "50 hojas en blanco papel BOND",
+        "115 gramos"
+      ]
     },
     {
       "name": "Letra \"A\"",
@@ -833,7 +878,8 @@
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_a_3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Letra \"A\"*, muchas gracias. 😊",
-      "size": "35x35cm"
+      "size": "35x35cm",
+      "description": []
     },
     {
       "name": "Letra \"K\"",
@@ -845,7 +891,8 @@
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_k_4.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Letra \"K\"*, muchas gracias. 😊",
-      "size": "35x35cm"
+      "size": "35x35cm",
+      "description": []
     },
     {
       "name": "Letra \"N\"",
@@ -857,7 +904,8 @@
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_n_3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Letra \"N\"*, muchas gracias. 😊",
-      "size": "35x35cm"
+      "size": "35x35cm",
+      "description": []
     },
     {
       "name": "Letra Personalizada",
@@ -869,7 +917,8 @@
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Letra Personalizada*, muchas gracias. 😊",
-      "size": "30x35cm"
+      "size": "30x35cm",
+      "description": []
     },
     {
       "name": "Cuadrado grande",
@@ -881,7 +930,8 @@
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_cuadrado_grande.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Cuadrado grande*, muchas gracias. 😊",
-      "size": "30x30cm"
+      "size": "30x30cm",
+      "description": []
     },
     {
       "name": "Rectángulo",
@@ -893,7 +943,8 @@
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_recta%CC%81ngulo_4.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Rectángulo*, muchas gracias. 😊",
-      "size": "30x20cm"
+      "size": "30x20cm",
+      "description": []
     },
     {
       "name": "Cuadrado pequeño",
@@ -905,7 +956,8 @@
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_cuadrado_pequen%CC%83o.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Cuadrado pequeño*, muchas gracias. 😊",
-      "size": "20x20cm"
+      "size": "20x20cm",
+      "description": []
     },
     {
       "name": "Corrector",
@@ -935,7 +987,13 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 1*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 1*, muchas gracias. 😊",
+      "description": [
+        "Marcadores eterna neón x8",
+        "2 Window-ink de 5",
+        "5mm",
+        "1 Window-ink de 15mm"
+      ]
     },
     {
       "name": "Kit Timoteo #2",
@@ -946,7 +1004,11 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_2.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 2*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 2*, muchas gracias. 😊",
+      "description": [
+        "Marcadores Twins Lines x12",
+        "Resaltadores Pelikan pastel x10"
+      ]
     },
     {
       "name": "Kit Timoteo #3",
@@ -957,7 +1019,12 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_3.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 3*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 3*, muchas gracias. 😊",
+      "description": [
+        "Bitácora de práctica tamaño media carta",
+        "Marcadores Marker x7",
+        "Resaltadores Pelikan pastel x10"
+      ]
     },
     {
       "name": "Kit Timoteo #4",
@@ -968,7 +1035,12 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_4.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 4*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 4*, muchas gracias. 😊",
+      "description": [
+        "Bitácora de práctica tamaño media carta",
+        "Marcadores gráficos Doricolor x10",
+        "Resaltadores Pelikan pastel x10"
+      ]
     },
     {
       "name": "Kit Timoteo #5",
@@ -979,7 +1051,13 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_5.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 5*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 5*, muchas gracias. 😊",
+      "description": [
+        "Marcadores Twins Lines x12",
+        "2 Window-ink de 5",
+        "5mm",
+        "2 Window-ink de 15mm"
+      ]
     },
     {
       "name": "Kit Timoteo #6",
@@ -990,7 +1068,13 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_6.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 6*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 6*, muchas gracias. 😊",
+      "description": [
+        "Bitácora de práctica tamaño carta",
+        "Marcadores Pelikan Colorella Pastel x8",
+        "Marcadores metalizados Pelikan x10",
+        "Marcadores Eterna metal doble trazo x8"
+      ]
     },
     {
       "name": "Kit Timoteo #7",
@@ -1001,7 +1085,16 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_7.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 7*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 7*, muchas gracias. 😊",
+      "description": [
+        "Caja Kraft",
+        "Bolsa Kraft",
+        "Cartilla de letra Timoteo",
+        "Globo metalizado",
+        "Tarjeta",
+        "Marcadores gráficos Doricolor x10",
+        "Marcadores Marker x7"
+      ]
     },
     {
       "name": "Kit Timoteo #8",
@@ -1012,7 +1105,16 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_8.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 8*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 8*, muchas gracias. 😊",
+      "description": [
+        "Caja Kraft",
+        "Bolsa Kraft",
+        "Cartilla de letra Timoteo",
+        "Globo metalizado",
+        "Tarjeta",
+        "Resaltadores Pelikan pastel x10",
+        "Marcadores Marker x7"
+      ]
     },
     {
       "name": "Kit Timoteo #9",
@@ -1023,7 +1125,16 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_9.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 9*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 9*, muchas gracias. 😊",
+      "description": [
+        "Caja Kraft",
+        "Bolsa Kraft",
+        "Cartilla de letra Timoteo",
+        "Globo metalizado",
+        "Tarjeta",
+        "Marcadores eterna neón x8",
+        "Marcadores Twins Lines x12"
+      ]
     },
     {
       "name": "Kit Timoteo #10",
@@ -1034,7 +1145,17 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_10.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 10*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 10*, muchas gracias. 😊",
+      "description": [
+        "Caja Kraft",
+        "Bolsa Kraft",
+        "Cartilla de letra Timoteo",
+        "Globo metalizado",
+        "Tarjeta",
+        "Marcadores gráficos Doricolor x10",
+        "2 Window-ink 5",
+        "5mm"
+      ]
     },
     {
       "name": "Kit Timoteo #11",
@@ -1045,7 +1166,17 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_11.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 11*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 11*, muchas gracias. 😊",
+      "description": [
+        "Caja Kraft",
+        "Bolsa Kraft",
+        "Cartilla de letra Timoteo",
+        "Globo metalizado",
+        "Tarjeta",
+        "Marcadores Chalk pastel x8",
+        "Marcadores Eterna metal doble trazo x8",
+        "Marcadores Offi-Esco permanentes double punta x12"
+      ]
     },
     {
       "name": "Kit Timoteo #12",
@@ -1056,7 +1187,18 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_12.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 12*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 12*, muchas gracias. 😊",
+      "description": [
+        "Caja Kraft",
+        "Bolsa Kraft",
+        "Cartilla de letra Timoteo",
+        "Globo metalizado",
+        "Tarjeta",
+        "Marcadores Twins Lines x12, Marcadores Kiut Glitter x10",
+        "2 Window-ink 15mm",
+        "2 Window-ink 5",
+        "5mm"
+      ]
     },
     {
       "name": "Kit Lettering #1",
@@ -1067,7 +1209,11 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 1*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 1*, muchas gracias. 😊",
+      "description": [
+        "Plumones Artisan x12",
+        "Marcadores Norma doble punta x10"
+      ]
     },
     {
       "name": "Kit Lettering #2",
@@ -1078,7 +1224,12 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_2.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 2*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 2*, muchas gracias. 😊",
+      "description": [
+        "Bitácora de práctica media carta",
+        "Plumones artisan x12",
+        "Marcadores Norma doble punta x10"
+      ]
     },
     {
       "name": "Kit Lettering #3",
@@ -1089,7 +1240,13 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_3.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 3*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 3*, muchas gracias. 😊",
+      "description": [
+        "Bitácora de práctica media carta",
+        "Marcadores Kiut Glitter x10",
+        "Marcadores Norma doble punta x10",
+        "Marcadores Eterna metal doble trazo x8"
+      ]
     },
     {
       "name": "Kit Lettering #4",
@@ -1100,7 +1257,12 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_4.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 4*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 4*, muchas gracias. 😊",
+      "description": [
+        "Cartilla de Lettering",
+        "Plumones Kiut x12",
+        "Plumones Artisan x12"
+      ]
     },
     {
       "name": "Kit Lettering #5",
@@ -1111,7 +1273,12 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_5.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 5*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 5*, muchas gracias. 😊",
+      "description": [
+        "Bitácora de práctica tamaño carta",
+        "Plumones Kiut x12",
+        "Plumones Artisan x24"
+      ]
     },
     {
       "name": "Kit Lettering #6",
@@ -1122,7 +1289,11 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_6.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 6*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 6*, muchas gracias. 😊",
+      "description": [
+        "Bitácora 'My Lettering Book' tamaño carta",
+        "Plumones Artisan x48"
+      ]
     },
     {
       "name": "Kit Dibujo #1",
@@ -1133,7 +1304,11 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitdibujo_1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 1*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 1*, muchas gracias. 😊",
+      "description": [
+        "Cartilla de dibujos Timoteo",
+        "Colores Pelikan pastel x12"
+      ]
     },
     {
       "name": "Kit Dibujo #2",
@@ -1144,7 +1319,12 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitdibujo_2.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 2*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 2*, muchas gracias. 😊",
+      "description": [
+        "Cartilla de dibujos Timoteo",
+        "Colores Pelikan pastel x12",
+        "Marcadores Norma gigante x10"
+      ]
     },
     {
       "name": "Kit Dibujo #3",
@@ -1155,7 +1335,13 @@
       "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitdibujo_3.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 3*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 3*, muchas gracias. 😊",
+      "description": [
+        "Cartilla de dibujos Timoteo",
+        "Bitácora de práctica tamaño carta",
+        "Colores Pelikan pastel x12",
+        "Plumones Kiut x12"
+      ]
     }
   ]
 }
