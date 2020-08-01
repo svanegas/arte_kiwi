@@ -2,7 +2,7 @@ class ProductsController < ApplicationController
   layout "product"
 
   def show
-    @category = params[:category]
+    @label = params[:label]
     @slug = params[:slug]
   end
 end

@@ -6,7 +6,7 @@ import { formatPrice } from '../../utils/utils.js';
 const raw_products = productsJson.raw_products;
 
 // Variables
-let urlSections, category, slug;
+let urlSections, label, slug;
 
 document.addEventListener('DOMContentLoaded', function() {
   init();
@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function init() {
   urlSections = document.getElementById('urlSections');
-  category = urlSections.dataset.category;
+  label = urlSections.dataset.label;
   slug = urlSections.dataset.slug;
 }
 
@@ -47,10 +47,12 @@ function setPrice(price) {
 }
 
 function setDescription(description) {
+  console.log(description);
   if (description == undefined) description = "";
   let descriptionContainer = document.getElementById('descriptionContainer');
-  const spanLabel = `<span>${description}</span>`;
-  descriptionContainer.insertAdjacentHTML('beforeend', spanLabel);
+  description.forEach((item, i) => {
+    descriptionContainer.insertAdjacentHTML('beforeend', `<li>${item}</li>`);
+  });
 }
 
 function setPurchaseShopping(id, whatsappMessage) {

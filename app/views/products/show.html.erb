@@ -14,7 +14,7 @@
   </div>
 </nav>
 
-<div id="urlSections" data-category="<%= @category %>" data-slug="<%= @slug %>"></div>
+<div id="urlSections" data-label="<%= @label %>" data-slug="<%= @slug %>"></div>
 
 <!-- Product section -->
 <section class="d-flex justify-content-center align-items-center">
@@ -34,7 +34,9 @@
         </div>
         <div class="row no-gutters">
           <div class="col-12">
-            <div id="descriptionContainer"></div>
+            <div>
+              <ul id="descriptionContainer"></ul>
+            </div>
           </div>
           <div class="col-12">
             <div id="purchaseContainer" class="mt-3 d-inline-block"></div>
