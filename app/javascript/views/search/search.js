@@ -2,7 +2,10 @@ import 'lazysizes';
 import productsJson from './products.json';
 import templates from './templates.js';
 
+// Constants
 const raw_products = productsJson.raw_products;
+
+// Variables
 let cacheProducts;
 let cardsContainer;
 let selectCategory;

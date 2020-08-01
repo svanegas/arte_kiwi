@@ -3,776 +3,1345 @@
     {
       "name": "Window Marker 600",
       "id": "window-marker-600-kiwi-gtm",
+      "slug": "window-marker-600",
       "quantity": "8",
       "price": 28000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.windowmarker600_1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Window Marker 600*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "De vinilo",
+        "Punta biselada 2-5mm",
+        "Ideales para escribir sobre vidrio, cartón, acetato, madera, papel, aluminio"
+      ]
     },
     {
       "name": "Pelikan Pasel 420",
       "id": "pelikan-pastel-420-kiwi-gtm",
+      "slug": "pelikan-pastel-420",
       "quantity": "4+1",
       "price": 10000,
       "category": "permanent-markers",
+      "label": "marcadores-permanentes",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.pastel420_1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Pelikan Pastel 420*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Permanentes",
+        "Punta biselada (3 anchos de línea)",
+        "Colores intensos",
+        "Gran adherencia sobre la mayoría de superficies"
+      ]
     },
     {
       "name": "Artline Decorite",
       "id": "artline-decorite-kiwi-gtm",
+      "slug": "artline-decorite",
       "quantity": "Unidad",
       "price": 5000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_decorite.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Artline Decorite*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta pincel",
+        "Ideales para vidrio, papel, cartón, metal, plástico"
+      ]
     },
     {
       "name": "Artline Massimo",
       "id": "artline-massimo-kiwi-gtm",
+      "slug": "artline-massimo",
       "quantity": "Unidad",
       "price": 11000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-massimo_artline_multipen.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Artline Massimo*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "De vinilo",
+        "Doble punta (biselada y bala 2mm)",
+        "Ideales para escribir sobre vidrio, cartón, acetato, madera, papel, aluminio"
+      ]
     },
     {
       "name": "Poster Marker 4mm",
       "id": "poster-marker-4mm-kiwi-gtm",
+      "slug": "poster-marker-4mm",
       "quantity": "Unidad",
       "price": 11000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-poster_marker_4mm.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Poster Marker 4mm*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "De vinilo",
+        "Punta redonda 4mm",
+        "Ideales para escribir sobre vidrio, cartón, acetato, madera, papel, aluminio"
+      ]
     },
     {
       "name": "Poster Marker 12mm",
       "id": "poster-marker-12mm-kiwi-gtm",
+      "slug": "poster-marker-12mm",
       "quantity": "Unidad",
       "price": 22000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-poster_marker_12mm.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Poster Marker 12mm*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "De vinilo",
+        "Punta cuadrada 12mm",
+        "Ideales para escribir sobre vidrio, cartón, acetato, madera, papel, aluminio"
+      ]
     },
     {
       "name": "Offi-Esco resaltador neón",
       "id": "offi-esco-resaltador-neon-kiwi-gtm",
+      "slug": "offi-esco-resaltador-neon",
       "quantity": "6",
       "price": 10000,
       "category": "permanent-markers",
+      "label": "marcadores-permanentes",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-resaltador_offiesco.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Offi-Esco resaltador neón*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta biselada",
+        "Secado rápido",
+        "Para todo tipo de papel"
+      ]
     },
     {
       "name": "Kiut Mágicos",
       "id": "kiut-magicos-kiwi-gtm",
+      "slug": "kiut-magicos",
       "quantity": "12",
       "price": 27000,
       "category": "washable-markers",
+      "label": "marcadores-lavables",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-kiut_marcadores_magicos.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kiut Mágicos*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta bala",
+        "Usa el marcador blanco para pintar sobre el resto de marcadores y crea nuevos colores"
+      ]
     },
     {
       "name": "Artline MultiPen",
       "id": "artline-multipen-kiwi-gtm",
+      "slug": "artline-multipen",
       "quantity": "6",
       "price": 27000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_multipen.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Artline MultiPen*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta pincel",
+        "Ideales para Lettering en papel claro"
+      ]
     },
     {
       "name": "Artline Stix Brush Marker Neón",
       "id": "artline-stix-brush-marker-neon-kiwi-gtm",
+      "slug": "artline-stix-brush-marker-neon",
       "quantity": "6",
       "price": 28000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_stix_brush_marker.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Artline Stix Brush Marker Neón*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Stix brush pen"
+      ]
     },
     {
       "name": "Pincel Recargable",
       "id": "pincel-recargable-kiwi-gtm",
+      "slug": "pincel-recargable",
       "quantity": "Unidad",
       "price": 6000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-pincel_recargable.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Pincel Recargable*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Ideal para recargar con vinilo, témperas, acrílico, agua",
+        "Para hacer difuminados y Lettering"
+      ]
     },
     {
       "name": "Plumones Faber-Castell Metálico",
       "id": "plumones-faber-castell-metal-kiwi-gtm",
+      "slug": "plumones-faber-castell-metal",
       "quantity": "6",
       "price": 21000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-plumones_faber_castell_meta%CC%81lico.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Faber-Castell Metálico*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta fina",
+        "Ideales para superficies oscuras como papel y cartón"
+      ]
     },
     {
       "name": "Plumones Te Neng",
       "id": "plumones-te-neng-kiwi-gtm",
+      "slug": "plumones-te-neng",
       "quantity": "12",
       "price": 21000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-plumones_te_neng.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Te Neng*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta pincel",
+        "Ideales para Lettering en papel claro"
+      ]
     },
     {
       "name": "Window-ink 15mm vinilo",
       "id": "window-ink-15mm-vinilo-kiwi-gtm",
+      "slug": "window-ink-15mm-vinilo",
       "quantity": "Unidad",
       "price": 14000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.window15.4.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Window-ink 15mm vinilo*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "De vinilo",
+        "Punta cuadrada 15mm",
+        "Ideales para escribir sobre vidrio, cartón, acetato, madera, papel, aluminio"
+      ]
     },
     {
       "name": "Window-ink 5.5mm vinilo",
       "id": "window-ink-5-5mm-vinilo-kiwi-gtm",
+      "slug": "window-ink-5-5mm-vinilo",
       "quantity": "Unidad",
       "price": 8000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.window5.2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Window-ink 5.5mm vinilo*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "De vinilo",
+        "Punta cuadrada 5.5mm",
+        "Ideales para escribir sobre vidrio, cartón, acetato, madera, papel, aluminio"
+      ]
     },
     {
       "name": "Eterna neón",
       "id": "eterna-neon-kiwi-gtm",
+      "slug": "eterna-neon",
       "quantity": "8",
       "price": 16000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.eterna3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Eterna neón*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "De vinilo",
+        "Punta bala",
+        "Ideales para escribir sobre vidrio, cartón, acetato, madera, papel, aluminio"
+      ]
     },
     {
       "name": "Chalk marker de vinilo",
       "id": "chalk-marker-de-vinilo-kiwi-gtm",
+      "slug": "chalk-marker-de-vinilo",
       "quantity": "8",
       "price": 38000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.chalk2-2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Chalk marker de vinilo*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "De vinilo",
+        "Doble punta (biselada y bala)",
+        "Ideales para escribir sobre vidrio, cartón, acetato, madera, papel, aluminio"
+      ]
     },
     {
       "name": "Marker",
       "id": "marker-x7-kiwi-gtm",
+      "slug": "marker-x7",
       "quantity": "7",
       "price": 16000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.marker2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marker (x7)*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "De vinilo",
+        "Punta bala",
+        "Ideales para escribir sobre vidrio, cartón, acetato, madera, papel, aluminio"
+      ]
     },
     {
       "name": "Marker",
       "id": "marker-x12-kiwi-gtm",
+      "slug": "marker-x12",
       "quantity": "12",
       "price": 23000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-marker_x12.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marker (x12)*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "De vinilo",
+        "Punta bala",
+        "Colores pastel",
+        "Ideales para escribir sobre vidrio, cartón, acetato, madera, papel, aluminio"
+      ]
     },
     {
       "name": "Marcador gráfico Doricolor",
       "id": "marcador-grafico-doricolor-kiwi-gtm",
+      "slug": "marcador-grafico-doricolor",
       "quantity": "10",
       "price": 25000,
       "category": "vinyl-markers",
-
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.doricolor3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcador gráfico Doricolor*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta redonda",
+        "De vinilo",
+        "Trazo continuo",
+        "Ideal para globos, cajas, papel, madera, vidrio, acetato"
+      ]
     },
     {
       "name": "Marcador pegante 15mm",
       "id": "marcador-pegante-15mm-kiwi-gtm",
+      "slug": "marcador-pegante-15mm",
       "quantity": "Unidad",
       "price": 26000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.pegantegrande1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcador pegante 15mm*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta cuadrada 15mm",
+        "Ideales para aplicar escarcha y arenita decorativa en los diseños Timoteo"
+      ]
     },
     {
       "name": "Marcador pegante 5mm",
       "id": "marcador-pegante-5-mm-kiwi-gtm",
+      "slug": "marcador-pegante-5-mm",
       "quantity": "Unidad",
       "price": 18000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.pegantepequen%CC%83o1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcador pegante 5mm*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta biselada 4mm",
+        "Ideales para aplicar escarcha y arenita decorativa en los diseños Timoteo"
+      ]
     },
     {
       "name": "Acrylic marker",
       "id": "acrylic-marker-kiwi-gtm",
+      "slug": "acrylic-marker",
       "quantity": "Unidad",
       "price": 4000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.acrylic.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Acrylic marker*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta 1mm",
+        "Acrílico",
+        "Ideales para madera, acetato, metal, cartón, papel"
+      ]
     },
     {
       "name": "Eterna metal doble trazo",
       "id": "eterna-metal-doble-trazo-kiwi-gtm",
+      "slug": "eterna-metal-doble-trazo",
       "quantity": "8",
       "price": 18000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.dobletrazo1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Eterna metal doble trazo*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "De vinilo",
+        "Punta bala",
+        "Colores neón",
+        "Ideales para escribir sobre vidrio, cartón, acetato, madera, papel, aluminio"
+      ]
     },
     {
       "name": "Offi-Esco permanentes doble punta",
       "id": "offi-esco-permanentes-doble-punta-kiwi-gtm",
+      "slug": "offi-esco-permanentes-doble-punta",
       "quantity": "12",
       "price": 26000,
       "category": "permanent-markers",
+      "label": "marcadores-permanentes",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.offiesco2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Offi-Esco permanentes doble punta*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Permanente",
+        "Doble punta (biselada y bala)",
+        "Duradero",
+        "Ideal para superficies como cartón, bolsas, cartulina"
+      ]
     },
     {
       "name": "Twins permanentes doble punta",
       "id": "twins-permanentes-doble-punta-kiwi-gtm",
+      "slug": "twins-permanentes-doble-punta",
       "quantity": "12",
       "price": 26000,
       "category": "permanent-markers",
+      "label": "marcadores-permanentes",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.twins3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Twins permanentes doble punta*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Permanente",
+        "Doble punta (biselada y bala)",
+        "Duradero",
+        "Ideal para superficies como cartón, bolsas, cartulina"
+      ]
     },
     {
       "name": "Marcadores gráficos Pelikan metálicos",
       "id": "marcadores-graficos-pelikan-metalicos-kiwi-gtm",
+      "slug": "marcadores-graficos-pelikan-metalicos",
       "quantity": "10",
       "price": 22000,
       "category": "pelikan-markers",
+      "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.metal1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcadores gráficos Pelikan metálicos*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta bala",
+        "Tinta acuosa",
+        "Secado rápido",
+        "Ideal para superficies oscuras, cartón, vidrio"
+      ]
     },
     {
       "name": "Marcadores Pelikan Colorella pastel",
       "id": "marcadores-pelikan-colorella-pastel-kiwi-gtm",
+      "slug": "marcadores-pelikan-colorella-pastel",
       "quantity": "8",
       "price": 18000,
       "category": "pelikan-markers",
+      "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.colorelapastel2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcadores Pelikan Colorella pastel*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta suave",
+        "Cuerpo redondo",
+        "Mina de 3.3mm",
+        "Trazos suaves y gran cobertura",
+        "Tonos pastel"
+      ]
     },
     {
       "name": "Marcadores Pelikan Colorella triangular (próximamente)",
       "id": "marcadores-pelikan-colorella-triangular-proximamente-kiwi-gtm",
+      "slug": "marcadores-pelikan-colorella-triangular-proximamente",
       "quantity": "12",
       "price": 30000,
       "category": "pelikan-markers",
+      "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcadores Pelikan Colorella triangular (próximamente)*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta biselada",
+        "3 anchos de línea",
+        "Cuerpo ergonómico",
+        "No tóxico"
+      ]
     },
     {
       "name": "Resaltadores Pelikan pastel",
       "id": "resaltadores-pelikan-pastel-kiwi-gtm",
+      "slug": "resaltadores-pelikan-pastel",
       "quantity": "10",
       "price": 20000,
       "category": "pelikan-markers",
+      "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.resaltador.2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Resaltadores Pelikan pastel*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta biselada",
+        "Ideal para Timoteo",
+        "3 anchos de línea",
+        "Gran adherencia en diferentes tipos de papel",
+        "No tóxico",
+        "Colores pastel"
+      ]
     },
     {
       "name": "Micropuntas Pelikan",
       "id": "micropuntas-pelikan-kiwi-gtm",
+      "slug": "micropuntas-pelikan",
       "quantity": "12",
       "price": 18000,
       "category": "pelikan-markers",
+      "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.micropuntas2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Micropuntas Pelikan*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta de 0.5mm",
+        "Tinta intensa",
+        "Colores vivos",
+        "Trazo fino",
+        "Ideal para Lettering y decoraciones Timoteo"
+      ]
     },
     {
       "name": "Témpera pastel Pelikan",
       "id": "tempera-pastel-pelikan-kiwi-gtm",
+      "slug": "tempera-pastel-pelikan",
       "quantity": "6",
       "price": 8500,
       "category": "pelikan-markers",
+      "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.Te%CC%81mperas2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Témpera pastel Pelikan*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "6 colores brillantes pastel",
+        "A base de agua",
+        "Lavables",
+        "Incluye pincel y paleta para mezclar"
+      ]
     },
     {
       "name": "Colores pastel Pelikan",
       "id": "colores-pastel-pelikan-kiwi-gtm",
+      "slug": "colores-pastel-pelikan",
       "quantity": "12",
       "price": 18000,
       "category": "pelikan-markers",
+      "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.colores3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Colores pastel Pelikan*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": []
     },
     {
       "name": "Norma doble punta",
       "id": "norma-doble-punta-kiwi-gtm",
+      "slug": "norma-doble-punta",
       "quantity": "10",
       "price": 14000,
       "category": "washable-markers",
+      "label": "marcadores-lavables",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.normadoblepunta1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Norma doble punta*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta cónica",
+        "Tinta lavable a base de agua",
+        "Colores brillantes",
+        "Ideales para Lettering, decoraciones, dibujos Timoteo y mandalas"
+      ]
     },
     {
       "name": "Norma gigante",
       "id": "norma-gigante-kiwi-gtm",
+      "slug": "norma-gigante",
       "quantity": "10",
       "price": 18000,
       "category": "washable-markers",
+      "label": "marcadores-lavables",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.normagigante2.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Norma gigante*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Norma gigante*, muchas gracias. 😊",
+      "description": [
+        "Punta cónica",
+        "Tinta lavable a base de agua",
+        "Colores brillantes",
+        "Ideales para Lettering, decoraciones, dibujos Timoteo y mandalas"
+      ]
     },
     {
       "name": "Plumón kiut",
       "id": "plumon-kiut-kiwi-gtm",
+      "slug": "plumon-kiut",
       "quantity": "12",
       "price": 18000,
       "category": "washable-markers",
+      "label": "marcadores-lavables",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.kiutplumon1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumón kiut*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta cónica",
+        "Tinta lavable a base de agua",
+        "Colores pastel",
+        "Ideales para Lettering, decoraciones, dibujos Timoteo y mandalas"
+      ]
     },
     {
       "name": "Kiut Grafigel",
       "id": "kiut-grafigel-kiwi-gtm",
+      "slug": "kiut-grafigel",
       "quantity": "8",
       "price": 18000,
       "category": "washable-markers",
+      "label": "marcadores-lavables",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-kiut_grafigel_x8.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kiut Grafigel*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta bala",
+        "Tinta de alto cubrimiento",
+        "Ideal para pintar sobre papel negro, vidrio, acrílico, aluminio y otros materiales"
+      ]
     },
     {
       "name": "Kiut Glitter",
       "id": "kiut-glitter-kiwi-gtm",
+      "slug": "kiut-glitter",
       "quantity": "10",
       "price": 22000,
       "category": "washable-markers",
+      "label": "marcadores-lavables",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-kiut_glitter_x10.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kiut glitter *, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta bala",
+        "Escarchado",
+        "No tóxico",
+        "Ideales para papeles claros"
+      ]
     },
     {
       "name": "Plumones Artisan punta pincel",
       "id": "plumones-artisan-punta-pincel-x12-kiwi-gtm",
+      "slug": "plumones-artisan-punta-pincel-x12",
       "quantity": "12",
       "price": 20000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.artisan12.1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Artisan punta pincel (x12)*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta pincel",
+        "Acuarelables",
+        "Viene en organizador plástico",
+        "Ideales para Lettering"
+      ]
     },
     {
       "name": "Plumones Artisan punta pincel",
       "id": "plumones-artisan-punta-pincel-x24-kiwi-gtm",
+      "slug": "plumones-artisan-punta-pincel-x24",
       "quantity": "24",
       "price": 38000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.artisan24.1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Artisan punta pincel (x24)*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta pincel",
+        "Acuarelables",
+        "Viene en organizador plástico",
+        "Ideales para Lettering"
+      ]
     },
     {
       "name": "Plumones Artisan punta pincel",
       "id": "plumones-artisan-punta-pincel-x48-kiwi-gtm",
+      "slug": "plumones-artisan-punta-pincel-x48",
       "quantity": "48",
       "price": 68000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.artisan48.1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Artisan punta pincel (x48)*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Punta pincel",
+        "Acuarelables",
+        "Viene en organizador plástico",
+        "Ideales para Lettering"
+      ]
     },
     {
       "name": "Plumones Edding",
       "id": "plumones-edding-kiwi-gtm",
+      "slug": "plumones-edding",
       "quantity": "10",
       "price": 46000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-plumones_edding.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Edding*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Conjunto inicial para Brush Lettering",
+        "Punta fina"
+      ]
     },
     {
       "name": "Cartilla de letra Timoteo 39 páginas",
       "id": "cartilla-de-letra-timoteo-39-paginas-kiwi-gtm",
+      "slug": "cartilla-de-letra-timoteo-39-paginas",
       "digital_price": 23000,
       "physical_price": 38000,
       "category": "books",
+      "label": "cartillas",
       "template": "virtual-book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartillaletratimoteo1dibujo2.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Cartilla de letra Timoteo 39 páginas*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Cartilla de letra Timoteo 39 páginas*, muchas gracias. 😊",
+      "description": [
+        "Cartilla de aprendizaje",
+        "39 paginas",
+        "Compuesta de ejercicios básicos, abecedario Timoteo, frases, diseños, espacio para practicar"
+      ]
     },
     {
       "name": "Cartilla de dibujos Timoteo 25 páginas",
       "id": "cartilla-de-dibujos-timoteo-25-paginas-kiwi-gtm",
+      "slug": "cartilla-de-dibujos-timoteo-25-paginas",
       "digital_price": 18000,
       "physical_price": 26000,
       "category": "books",
+      "label": "cartillas",
       "template": "virtual-book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartilladibujo1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Cartilla de dibujos Timoteo 25 páginas*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Cartilla de dibujos Timoteo 25 páginas*, muchas gracias. 😊",
+      "description": [
+        "25 páginas de dibujos Timoteo a blanco y negro",
+        "Separados por temáticas para que los pintes o hagas tus propios diseños"
+      ]
     },
     {
       "name": "Cartilla de Lettering 38 páginas",
       "id": "cartilla-de-lettering-38-paginas-kiwi-gtm",
+      "slug": "cartilla-de-lettering-38-paginas",
       "digital_price": 22000,
       "physical_price": 36000,
       "category": "books",
+      "label": "cartillas",
       "template": "virtual-book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartillalettering1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Cartilla de Lettering 38 páginas*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Cartilla de Lettering 38 páginas*, muchas gracias. 😊",
+      "description": [
+        "Cartilla de aprendizaje",
+        "39 páginas",
+        "Compuesta de ejercicios básicos, abecedario Lettering, frases, diseños, espacio para practicar"
+      ]
     },
     {
       "name": "Combo tres cartillas (Lettering + Timoteo + Dibujo)",
       "id": "catillas-las-tres-kiwi-gtm",
+      "slug": "catillas-las-tres",
       "digital_price": 53000,
       "physical_price": 90000,
       "category": "books",
+      "label": "cartillas",
       "template": "virtual-book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartillaslastres.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Combo tres cartillas (Lettering + Timoteo + Dibujo)*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Combo tres cartillas (Lettering + Timoteo + Dibujo)*, muchas gracias. 😊",
+      "description": []
     },
     {
       "name": "Combo mandalas",
       "id": "combo-mandalas-kiwi-gtm",
+      "slug": "combo-mandalas",
       "price": 35000,
       "category": "books",
+      "label": "cartillas",
       "template": "book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.Mandala1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Combo mandalas*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Combo mandalas*, muchas gracias. 😊",
+      "description": [
+        "Combo mandalas, libro de 55 paginas y caja de 24 colores ecológicos, suaves y de mina duradera"
+      ]
     },
     {
       "name": "Opalina (cartulina) x 50 hojas",
       "id": "opalina-cartulina-x-50-hojas-kiwi-gtm",
+      "slug": "opalina-cartulina-x-50-hojas",
       "price": 11000,
       "category": "books",
+      "label": "cartillas",
       "template": "book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.Opalina+x+50.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Opalina (cartulina) x 50 hojas*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Opalina (cartulina) x 50 hojas*, muchas gracias. 😊",
+      "description": [
+        "Paquete de 50 hojas",
+        "180 gramos",
+        "Ideal para practicar Lettering y lo diseños Timoteo"
+      ]
     },
     {
       "name": "Bitácora de Lettering \"My Lettering book\" 50 hojas",
       "id": "bitacora-de-lettering-my-lettering-book-50-hojas-kiwi-gtm",
+      "slug": "bitacora-de-lettering-my-lettering-book-50-hojas",
       "price": 40000,
       "category": "books",
+      "label": "cartillas",
       "template": "book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.Bitalettering4.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Bitácora de Lettering \"My Lettering book\" 50 hojas*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Bitácora de Lettering \"My Lettering book\" 50 hojas*, muchas gracias. 😊",
+      "description": [
+        "Pasta dura",
+        "Ejercicios básicos",
+        "Abecedario Lettering",
+        "Frases",
+        "Espacio para diseñar",
+        "Hojas en blanco",
+        "Puntos y rayas"
+      ]
     },
     {
       "name": "Bitácora de práctica media carta 50 hojas blancas BOND",
       "id": "bitacora-de-practica-media-carta-50-hojas-blancas-bond-kiwi-gtm",
+      "slug": "bitacora-de-practica-media-carta-50-hojas-blancas-bond",
       "price": 15000,
       "category": "binnacles",
+      "label": "bitacoras",
       "template": "binnacle",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.bita%CC%81coramedia2.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Bitácora de práctica media carta 50 hojas blancas BOND*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Bitácora de práctica media carta 50 hojas blancas BOND*, muchas gracias. 😊",
+      "description": [
+        "Pasta dura",
+        "Tamaño media carta",
+        "50 hojas en blanco papel BOND",
+        "115 gramos"
+      ]
     },
     {
       "name": "Bitácora de práctica tamaño carta 50 hojas blancas BOND",
       "id": "bitacora-de-practica-tamano-carta-50-hojas-blancas-bond-kiwi-gtm",
+      "slug": "bitacora-de-practica-tamano-carta-50-hojas-blancas-bond",
       "price": 22000,
       "category": "binnacles",
+      "label": "bitacoras",
       "template": "binnacle",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.bita%CC%81coracarta4.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Bitácora de práctica tamaño carta 50 hojas blancas BOND*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Bitácora de práctica tamaño carta 50 hojas blancas BOND*, muchas gracias. 😊",
+      "description": [
+        "Pasta dura",
+        "Tamaño carta",
+        "50 hojas en blanco papel BOND",
+        "115 gramos"
+      ]
     },
     {
       "name": "Letra \"A\"",
       "id": "letra-a-kiwi-gtm",
+      "slug": "letra-a",
       "price": 120000,
       "category": "organizers",
+      "label": "organizadores",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_a_3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Letra \"A\"*, muchas gracias. 😊",
-      "size": "35x35cm"
+      "size": "35x35cm",
+      "description": []
     },
     {
       "name": "Letra \"K\"",
       "id": "letra-k-kiwi-gtm",
+      "slug": "letra-k",
       "price": 120000,
       "category": "organizers",
+      "label": "organizadores",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_k_4.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Letra \"K\"*, muchas gracias. 😊",
-      "size": "35x35cm"
+      "size": "35x35cm",
+      "description": []
     },
     {
       "name": "Letra \"N\"",
       "id": "letra-n-kiwi-gtm",
+      "slug": "letra-n",
       "price": 120000,
       "category": "organizers",
+      "label": "organizadores",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_n_3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Letra \"N\"*, muchas gracias. 😊",
-      "size": "35x35cm"
+      "size": "35x35cm",
+      "description": []
     },
     {
       "name": "Letra Personalizada",
       "id": "letra-k-kiwi-gtm",
+      "slug": "letra-k",
       "price": 120000,
       "category": "organizers",
+      "label": "organizadores",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Letra Personalizada*, muchas gracias. 😊",
-      "size": "30x35cm"
+      "size": "30x35cm",
+      "description": []
     },
     {
       "name": "Cuadrado grande",
       "id": "cuadrado-grande-kiwi-gtm",
+      "slug": "cuadrado-grande",
       "price": 85000,
       "category": "organizers",
+      "label": "organizadores",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_cuadrado_grande.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Cuadrado grande*, muchas gracias. 😊",
-      "size": "30x30cm"
+      "size": "30x30cm",
+      "description": []
     },
     {
       "name": "Rectángulo",
       "id": "rectangulo-kiwi-gtm",
+      "slug": "rectangulo",
       "price": 65000,
       "category": "organizers",
+      "label": "organizadores",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_recta%CC%81ngulo_4.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Rectángulo*, muchas gracias. 😊",
-      "size": "30x20cm"
+      "size": "30x20cm",
+      "description": []
     },
     {
       "name": "Cuadrado pequeño",
       "id": "cuadrado-pequeno-kiwi-gtm",
+      "slug": "cuadrado-pequeno",
       "price": 50000,
       "category": "organizers",
+      "label": "organizadores",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_cuadrado_pequen%CC%83o.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Cuadrado pequeño*, muchas gracias. 😊",
-      "size": "20x20cm"
+      "size": "20x20cm",
+      "description": []
     },
     {
       "name": "Corrector",
       "id": "corrector-kiwi-gtm",
+      "slug": "corrector",
       "quantity": "Unidad",
       "price": 2500,
       "category": "permanent-markers",
+      "label": "marcadores-permanentes",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.corrector2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Corrector*, muchas gracias. 😊",
-      "template": "marker"
+      "template": "marker",
+      "description": [
+        "Liquido corrector",
+        "Suave olor",
+        "Rápido secado",
+        "Cuerpo blanco fácil presión",
+        "Ideal para hacer luces y decoraciones a los diseños"
+      ]
     },
     {
       "name": "Kit Timoteo #1",
       "id": "kit-timoteo-1-kiwi-gtm",
+      "slug": "kit-timoteo-1",
       "price": 44000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 1*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 1*, muchas gracias. 😊",
+      "description": [
+        "Marcadores eterna neón x8",
+        "2 Window-ink de 5",
+        "5mm",
+        "1 Window-ink de 15mm"
+      ]
     },
     {
       "name": "Kit Timoteo #2",
       "id": "kit-timoteo-2-kiwi-gtm",
+      "slug": "kit-timoteo-2",
       "price": 46000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_2.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 2*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 2*, muchas gracias. 😊",
+      "description": [
+        "Marcadores Twins Lines x12",
+        "Resaltadores Pelikan pastel x10"
+      ]
     },
     {
       "name": "Kit Timoteo #3",
       "id": "kit-timoteo-3-kiwi-gtm",
+      "slug": "kit-timoteo-3",
       "price": 50000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_3.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 3*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 3*, muchas gracias. 😊",
+      "description": [
+        "Bitácora de práctica tamaño media carta",
+        "Marcadores Marker x7",
+        "Resaltadores Pelikan pastel x10"
+      ]
     },
     {
       "name": "Kit Timoteo #4",
       "id": "kit-timoteo-4-kiwi-gtm",
+      "slug": "kit-timoteo-4",
       "price": 56000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_4.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 4*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 4*, muchas gracias. 😊",
+      "description": [
+        "Bitácora de práctica tamaño media carta",
+        "Marcadores gráficos Doricolor x10",
+        "Resaltadores Pelikan pastel x10"
+      ]
     },
     {
       "name": "Kit Timoteo #5",
       "id": "kit-timoteo-5-kiwi-gtm",
+      "slug": "kit-timoteo-5",
       "price": 65000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_5.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 5*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 5*, muchas gracias. 😊",
+      "description": [
+        "Marcadores Twins Lines x12",
+        "2 Window-ink de 5",
+        "5mm",
+        "2 Window-ink de 15mm"
+      ]
     },
     {
       "name": "Kit Timoteo #6",
       "id": "kit-timoteo-6-kiwi-gtm",
+      "slug": "kit-timoteo-6",
       "price": 75000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_6.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 6*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 6*, muchas gracias. 😊",
+      "description": [
+        "Bitácora de práctica tamaño carta",
+        "Marcadores Pelikan Colorella Pastel x8",
+        "Marcadores metalizados Pelikan x10",
+        "Marcadores Eterna metal doble trazo x8"
+      ]
     },
     {
       "name": "Kit Timoteo #7",
       "id": "kit-timoteo-7-kiwi-gtm",
+      "slug": "kit-timoteo-7",
       "price": 95000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_7.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 7*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 7*, muchas gracias. 😊",
+      "description": [
+        "Caja Kraft",
+        "Bolsa Kraft",
+        "Cartilla de letra Timoteo",
+        "Globo metalizado",
+        "Tarjeta",
+        "Marcadores gráficos Doricolor x10",
+        "Marcadores Marker x7"
+      ]
     },
     {
       "name": "Kit Timoteo #8",
       "id": "kit-timoteo-8-kiwi-gtm",
+      "slug": "kit-timoteo-8",
       "price": 96000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_8.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 8*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 8*, muchas gracias. 😊",
+      "description": [
+        "Caja Kraft",
+        "Bolsa Kraft",
+        "Cartilla de letra Timoteo",
+        "Globo metalizado",
+        "Tarjeta",
+        "Resaltadores Pelikan pastel x10",
+        "Marcadores Marker x7"
+      ]
     },
     {
       "name": "Kit Timoteo #9",
       "id": "kit-timoteo-9-kiwi-gtm",
+      "slug": "kit-timoteo-9",
       "price": 96000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_9.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 9*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 9*, muchas gracias. 😊",
+      "description": [
+        "Caja Kraft",
+        "Bolsa Kraft",
+        "Cartilla de letra Timoteo",
+        "Globo metalizado",
+        "Tarjeta",
+        "Marcadores eterna neón x8",
+        "Marcadores Twins Lines x12"
+      ]
     },
     {
       "name": "Kit Timoteo #10",
       "id": "kit-timoteo-10-kiwi-gtm",
+      "slug": "kit-timoteo-10",
       "price": 96000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_10.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 10*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 10*, muchas gracias. 😊",
+      "description": [
+        "Caja Kraft",
+        "Bolsa Kraft",
+        "Cartilla de letra Timoteo",
+        "Globo metalizado",
+        "Tarjeta",
+        "Marcadores gráficos Doricolor x10",
+        "2 Window-ink 5",
+        "5mm"
+      ]
     },
     {
       "name": "Kit Timoteo #11",
       "id": "kit-timoteo-11-kiwi-gtm",
+      "slug": "kit-timoteo-11",
       "price": 125000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_11.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 11*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 11*, muchas gracias. 😊",
+      "description": [
+        "Caja Kraft",
+        "Bolsa Kraft",
+        "Cartilla de letra Timoteo",
+        "Globo metalizado",
+        "Tarjeta",
+        "Marcadores Chalk pastel x8",
+        "Marcadores Eterna metal doble trazo x8",
+        "Marcadores Offi-Esco permanentes double punta x12"
+      ]
     },
     {
       "name": "Kit Timoteo #12",
       "id": "kit-timoteo-12-kiwi-gtm",
+      "slug": "kit-timoteo-12",
       "price": 155000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_12.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 12*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 12*, muchas gracias. 😊",
+      "description": [
+        "Caja Kraft",
+        "Bolsa Kraft",
+        "Cartilla de letra Timoteo",
+        "Globo metalizado",
+        "Tarjeta",
+        "Marcadores Twins Lines x12, Marcadores Kiut Glitter x10",
+        "2 Window-ink 15mm",
+        "2 Window-ink 5",
+        "5mm"
+      ]
     },
     {
       "name": "Kit Lettering #1",
       "id": "kit-lettering-1-kiwi-gtm",
+      "slug": "kit-lettering-1",
       "price": 35000,
       "category": "kits-lettering",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 1*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 1*, muchas gracias. 😊",
+      "description": [
+        "Plumones Artisan x12",
+        "Marcadores Norma doble punta x10"
+      ]
     },
     {
       "name": "Kit Lettering #2",
       "id": "kit-lettering-2-kiwi-gtm",
+      "slug": "kit-lettering-2",
       "price": 45000,
       "category": "kits-lettering",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_2.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 2*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 2*, muchas gracias. 😊",
+      "description": [
+        "Bitácora de práctica media carta",
+        "Plumones artisan x12",
+        "Marcadores Norma doble punta x10"
+      ]
     },
     {
       "name": "Kit Lettering #3",
       "id": "kit-lettering-3-kiwi-gtm",
+      "slug": "kit-lettering-3",
       "price": 68000,
       "category": "kits-lettering",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_3.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 3*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 3*, muchas gracias. 😊",
+      "description": [
+        "Bitácora de práctica media carta",
+        "Marcadores Kiut Glitter x10",
+        "Marcadores Norma doble punta x10",
+        "Marcadores Eterna metal doble trazo x8"
+      ]
     },
     {
       "name": "Kit Lettering #4",
       "id": "kit-lettering-4-kiwi-gtm",
+      "slug": "kit-lettering-4",
       "price": 70000,
       "category": "kits-lettering",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_4.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 4*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 4*, muchas gracias. 😊",
+      "description": [
+        "Cartilla de Lettering",
+        "Plumones Kiut x12",
+        "Plumones Artisan x12"
+      ]
     },
     {
       "name": "Kit Lettering #5",
       "id": "kit-lettering-5-kiwi-gtm",
+      "slug": "kit-lettering-5",
       "price": 75000,
       "category": "kits-lettering",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_5.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 5*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 5*, muchas gracias. 😊",
+      "description": [
+        "Bitácora de práctica tamaño carta",
+        "Plumones Kiut x12",
+        "Plumones Artisan x24"
+      ]
     },
     {
       "name": "Kit Lettering #6",
       "id": "kit-lettering-6-kiwi-gtm",
+      "slug": "kit-lettering-6",
       "price": 95000,
       "category": "kits-lettering",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_6.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 6*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 6*, muchas gracias. 😊",
+      "description": [
+        "Bitácora 'My Lettering Book' tamaño carta",
+        "Plumones Artisan x48"
+      ]
     },
     {
       "name": "Kit Dibujo #1",
       "id": "kit-dibujo-1-kiwi-gtm",
+      "slug": "kit-dibujo-1",
       "price": 40000,
       "category": "kits-dibujo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitdibujo_1.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 1*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 1*, muchas gracias. 😊",
+      "description": [
+        "Cartilla de dibujos Timoteo",
+        "Colores Pelikan pastel x12"
+      ]
     },
     {
       "name": "Kit Dibujo #2",
       "id": "kit-dibujo-2-kiwi-gtm",
+      "slug": "kit-dibujo-2",
       "price": 55000,
       "category": "kits-dibujo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitdibujo_2.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 2*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 2*, muchas gracias. 😊",
+      "description": [
+        "Cartilla de dibujos Timoteo",
+        "Colores Pelikan pastel x12",
+        "Marcadores Norma gigante x10"
+      ]
     },
     {
       "name": "Kit Dibujo #3",
       "id": "kit-dibujo-3-kiwi-gtm",
+      "slug": "kit-dibujo-3",
       "price": 76000,
       "category": "kits-dibujo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitdibujo_3.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 3*, muchas gracias. 😊"
+      "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 3*, muchas gracias. 😊",
+      "description": [
+        "Cartilla de dibujos Timoteo",
+        "Bitácora de práctica tamaño carta",
+        "Colores Pelikan pastel x12",
+        "Plumones Kiut x12"
+      ]
     }
   ]
 }
