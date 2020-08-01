@@ -3,9 +3,11 @@
     {
       "name": "Window Marker 600",
       "id": "window-marker-600-kiwi-gtm",
+      "slug": "window-marker-600",
       "quantity": "8",
       "price": 28000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.windowmarker600_1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Window Marker 600*, muchas gracias. 😊",
       "template": "marker"
@@ -13,9 +15,11 @@
     {
       "name": "Pelikan Pasel 420",
       "id": "pelikan-pastel-420-kiwi-gtm",
+      "slug": "pelikan-pastel-420",
       "quantity": "4+1",
       "price": 10000,
       "category": "permanent-markers",
+      "label": "marcadores-permanentes",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.pastel420_1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Pelikan Pastel 420*, muchas gracias. 😊",
       "template": "marker"
@@ -27,6 +31,7 @@
       "quantity": "Unidad",
       "price": 5000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_decorite.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Artline Decorite*, muchas gracias. 😊",
       "template": "marker"
@@ -38,6 +43,7 @@
       "quantity": "Unidad",
       "price": 11000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-massimo_artline_multipen.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Artline Massimo*, muchas gracias. 😊",
       "template": "marker"
@@ -49,6 +55,7 @@
       "quantity": "Unidad",
       "price": 11000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-poster_marker_4mm.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Poster Marker 4mm*, muchas gracias. 😊",
       "template": "marker"
@@ -60,6 +67,7 @@
       "quantity": "Unidad",
       "price": 22000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-poster_marker_12mm.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Poster Marker 12mm*, muchas gracias. 😊",
       "template": "marker"
@@ -71,6 +79,7 @@
       "quantity": "6",
       "price": 10000,
       "category": "permanent-markers",
+      "label": "marcadores-permanentes",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-resaltador_offiesco.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Offi-Esco resaltador neón*, muchas gracias. 😊",
       "template": "marker"
@@ -82,6 +91,7 @@
       "quantity": "12",
       "price": 27000,
       "category": "washable-markers",
+      "label": "marcadores-lavables",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-kiut_marcadores_magicos.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kiut Mágicos*, muchas gracias. 😊",
       "template": "marker"
@@ -93,6 +103,7 @@
       "quantity": "6",
       "price": 27000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_multipen.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Artline MultiPen*, muchas gracias. 😊",
       "template": "marker"
@@ -104,6 +115,7 @@
       "quantity": "6",
       "price": 28000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_stix_brush_marker.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Artline Stix Brush Marker Neón*, muchas gracias. 😊",
       "template": "marker"
@@ -115,6 +127,7 @@
       "quantity": "Unidad",
       "price": 6000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-pincel_recargable.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Pincel Recargable*, muchas gracias. 😊",
       "template": "marker"
@@ -126,6 +139,7 @@
       "quantity": "6",
       "price": 21000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-plumones_faber_castell_meta%CC%81lico.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Faber-Castell Metálico*, muchas gracias. 😊",
       "template": "marker"
@@ -137,6 +151,7 @@
       "quantity": "12",
       "price": 21000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-plumones_te_neng.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Te Neng*, muchas gracias. 😊",
       "template": "marker"
@@ -148,6 +163,7 @@
       "quantity": "Unidad",
       "price": 14000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.window15.4.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Window-ink 15mm vinilo*, muchas gracias. 😊",
       "template": "marker"
@@ -159,6 +175,7 @@
       "quantity": "Unidad",
       "price": 8000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.window5.2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Window-ink 5.5mm vinilo*, muchas gracias. 😊",
       "template": "marker"
@@ -170,6 +187,7 @@
       "quantity": "8",
       "price": 16000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.eterna3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Eterna neón*, muchas gracias. 😊",
       "template": "marker"
@@ -181,6 +199,7 @@
       "quantity": "8",
       "price": 38000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.chalk2-2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Chalk marker de vinilo*, muchas gracias. 😊",
       "template": "marker"
@@ -192,6 +211,7 @@
       "quantity": "7",
       "price": 16000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.marker2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marker (x7)*, muchas gracias. 😊",
       "template": "marker"
@@ -203,6 +223,7 @@
       "quantity": "12",
       "price": 23000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-marker_x12.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marker (x12)*, muchas gracias. 😊",
       "template": "marker"
@@ -214,7 +235,7 @@
       "quantity": "10",
       "price": 25000,
       "category": "vinyl-markers",
-
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.doricolor3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcador gráfico Doricolor*, muchas gracias. 😊",
       "template": "marker"
@@ -226,6 +247,7 @@
       "quantity": "Unidad",
       "price": 26000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.pegantegrande1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcador pegante 15mm*, muchas gracias. 😊",
       "template": "marker"
@@ -237,6 +259,7 @@
       "quantity": "Unidad",
       "price": 18000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.pegantepequen%CC%83o1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcador pegante 5mm*, muchas gracias. 😊",
       "template": "marker"
@@ -248,6 +271,7 @@
       "quantity": "Unidad",
       "price": 4000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.acrylic.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Acrylic marker*, muchas gracias. 😊",
       "template": "marker"
@@ -259,6 +283,7 @@
       "quantity": "8",
       "price": 18000,
       "category": "vinyl-markers",
+      "label": "marcadores-vinilo",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.dobletrazo1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Eterna metal doble trazo*, muchas gracias. 😊",
       "template": "marker"
@@ -270,6 +295,7 @@
       "quantity": "12",
       "price": 26000,
       "category": "permanent-markers",
+      "label": "marcadores-permanentes",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.offiesco2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Offi-Esco permanentes doble punta*, muchas gracias. 😊",
       "template": "marker"
@@ -281,6 +307,7 @@
       "quantity": "12",
       "price": 26000,
       "category": "permanent-markers",
+      "label": "marcadores-permanentes",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.twins3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Twins permanentes doble punta*, muchas gracias. 😊",
       "template": "marker"
@@ -292,6 +319,7 @@
       "quantity": "10",
       "price": 22000,
       "category": "pelikan-markers",
+      "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.metal1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcadores gráficos Pelikan metálicos*, muchas gracias. 😊",
       "template": "marker"
@@ -303,6 +331,7 @@
       "quantity": "8",
       "price": 18000,
       "category": "pelikan-markers",
+      "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.colorelapastel2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcadores Pelikan Colorella pastel*, muchas gracias. 😊",
       "template": "marker"
@@ -314,6 +343,7 @@
       "quantity": "12",
       "price": 30000,
       "category": "pelikan-markers",
+      "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcadores Pelikan Colorella triangular (próximamente)*, muchas gracias. 😊",
       "template": "marker"
@@ -325,6 +355,7 @@
       "quantity": "10",
       "price": 20000,
       "category": "pelikan-markers",
+      "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.resaltador.2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Resaltadores Pelikan pastel*, muchas gracias. 😊",
       "template": "marker"
@@ -336,6 +367,7 @@
       "quantity": "12",
       "price": 18000,
       "category": "pelikan-markers",
+      "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.micropuntas2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Micropuntas Pelikan*, muchas gracias. 😊",
       "template": "marker"
@@ -347,6 +379,7 @@
       "quantity": "6",
       "price": 8500,
       "category": "pelikan-markers",
+      "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.Te%CC%81mperas2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Témpera pastel Pelikan*, muchas gracias. 😊",
       "template": "marker"
@@ -358,6 +391,7 @@
       "quantity": "12",
       "price": 18000,
       "category": "pelikan-markers",
+      "label": "marcadores-pelikan",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.colores3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Colores pastel Pelikan*, muchas gracias. 😊",
       "template": "marker"
@@ -369,6 +403,7 @@
       "quantity": "10",
       "price": 14000,
       "category": "washable-markers",
+      "label": "marcadores-lavables",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.normadoblepunta1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Norma doble punta*, muchas gracias. 😊",
       "template": "marker"
@@ -380,6 +415,7 @@
       "quantity": "10",
       "price": 18000,
       "category": "washable-markers",
+      "label": "marcadores-lavables",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.normagigante2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Norma gigante*, muchas gracias. 😊"
     },
@@ -390,6 +426,7 @@
       "quantity": "12",
       "price": 18000,
       "category": "washable-markers",
+      "label": "marcadores-lavables",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.kiutplumon1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumón kiut*, muchas gracias. 😊",
       "template": "marker"
@@ -401,6 +438,7 @@
       "quantity": "8",
       "price": 18000,
       "category": "washable-markers",
+      "label": "marcadores-lavables",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-kiut_grafigel_x8.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kiut Grafigel*, muchas gracias. 😊",
       "template": "marker"
@@ -412,6 +450,7 @@
       "quantity": "10",
       "price": 22000,
       "category": "washable-markers",
+      "label": "marcadores-lavables",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-kiut_glitter_x10.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kiut glitter *, muchas gracias. 😊",
       "template": "marker"
@@ -423,6 +462,7 @@
       "quantity": "12",
       "price": 20000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.artisan12.1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Artisan punta pincel (x12)*, muchas gracias. 😊",
       "template": "marker"
@@ -434,6 +474,7 @@
       "quantity": "24",
       "price": 38000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.artisan24.1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Artisan punta pincel (x24)*, muchas gracias. 😊",
       "template": "marker"
@@ -445,6 +486,7 @@
       "quantity": "48",
       "price": 68000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.artisan48.1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Artisan punta pincel (x48)*, muchas gracias. 😊",
       "template": "marker"
@@ -456,6 +498,7 @@
       "quantity": "10",
       "price": 46000,
       "category": "lettering-markers",
+      "label": "marcadores-lettering",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-plumones_edding.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Edding*, muchas gracias. 😊",
       "template": "marker"
@@ -467,6 +510,7 @@
       "digital_price": 23000,
       "physical_price": 38000,
       "category": "books",
+      "label": "cartillas",
       "template": "virtual-book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartillaletratimoteo1dibujo2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Cartilla de letra Timoteo 39 páginas*, muchas gracias. 😊"
@@ -478,6 +522,7 @@
       "digital_price": 18000,
       "physical_price": 26000,
       "category": "books",
+      "label": "cartillas",
       "template": "virtual-book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartilladibujo1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Cartilla de dibujos Timoteo 25 páginas*, muchas gracias. 😊"
@@ -489,6 +534,7 @@
       "digital_price": 22000,
       "physical_price": 36000,
       "category": "books",
+      "label": "cartillas",
       "template": "virtual-book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartillalettering1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Cartilla de Lettering 38 páginas*, muchas gracias. 😊"
@@ -500,6 +546,7 @@
       "digital_price": 53000,
       "physical_price": 90000,
       "category": "books",
+      "label": "cartillas",
       "template": "virtual-book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.cartillaslastres.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Combo tres cartillas (Lettering + Timoteo + Dibujo)*, muchas gracias. 😊"
@@ -510,6 +557,7 @@
       "slug": "combo-mandalas",
       "price": 35000,
       "category": "books",
+      "label": "cartillas",
       "template": "book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.Mandala1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Combo mandalas*, muchas gracias. 😊"
@@ -520,6 +568,7 @@
       "slug": "opalina-cartulina-x-50-hojas",
       "price": 11000,
       "category": "books",
+      "label": "cartillas",
       "template": "book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.Opalina+x+50.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Opalina (cartulina) x 50 hojas*, muchas gracias. 😊"
@@ -530,6 +579,7 @@
       "slug": "bitacora-de-lettering-my-lettering-book-50-hojas",
       "price": 40000,
       "category": "books",
+      "label": "cartillas",
       "template": "book",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.Bitalettering4.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Bitácora de Lettering \"My Lettering book\" 50 hojas*, muchas gracias. 😊"
@@ -540,6 +590,7 @@
       "slug": "bitacora-de-practica-media-carta-50-hojas-blancas-bond",
       "price": 15000,
       "category": "binnacles",
+      "label": "bitacoras",
       "template": "binnacle",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.bita%CC%81coramedia2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Bitácora de práctica media carta 50 hojas blancas BOND*, muchas gracias. 😊"
@@ -550,6 +601,7 @@
       "slug": "bitacora-de-practica-tamano-carta-50-hojas-blancas-bond",
       "price": 22000,
       "category": "binnacles",
+      "label": "bitacoras",
       "template": "binnacle",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.bita%CC%81coracarta4.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Bitácora de práctica tamaño carta 50 hojas blancas BOND*, muchas gracias. 😊"
@@ -560,6 +612,7 @@
       "slug": "letra-a",
       "price": 120000,
       "category": "organizers",
+      "label": "organizadores",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_a_3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Letra \"A\"*, muchas gracias. 😊",
@@ -571,6 +624,7 @@
       "slug": "letra-k",
       "price": 120000,
       "category": "organizers",
+      "label": "organizadores",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_k_4.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Letra \"K\"*, muchas gracias. 😊",
@@ -579,8 +633,10 @@
     {
       "name": "Letra \"N\"",
       "id": "letra-n-kiwi-gtm",
+      "slug": "letra-n",
       "price": 120000,
       "category": "organizers",
+      "label": "organizadores",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_n_3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Letra \"N\"*, muchas gracias. 😊",
@@ -592,6 +648,7 @@
       "slug": "letra-k",
       "price": 120000,
       "category": "organizers",
+      "label": "organizadores",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-thumbnail.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Letra Personalizada*, muchas gracias. 😊",
@@ -603,6 +660,7 @@
       "slug": "cuadrado-grande",
       "price": 85000,
       "category": "organizers",
+      "label": "organizadores",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_cuadrado_grande.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Cuadrado grande*, muchas gracias. 😊",
@@ -614,6 +672,7 @@
       "slug": "rectangulo",
       "price": 65000,
       "category": "organizers",
+      "label": "organizadores",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_recta%CC%81ngulo_4.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Rectángulo*, muchas gracias. 😊",
@@ -625,6 +684,7 @@
       "slug": "cuadrado-pequeno",
       "price": 50000,
       "category": "organizers",
+      "label": "organizadores",
       "template": "organizer",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_cuadrado_pequen%CC%83o.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Cuadrado pequeño*, muchas gracias. 😊",
@@ -637,6 +697,7 @@
       "quantity": "Unidad",
       "price": 2500,
       "category": "permanent-markers",
+      "label": "marcadores-permanentes",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.corrector2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Corrector*, muchas gracias. 😊",
       "template": "marker"
@@ -647,6 +708,7 @@
       "slug": "kit-timoteo-1",
       "price": 44000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 1*, muchas gracias. 😊"
@@ -657,6 +719,7 @@
       "slug": "kit-timoteo-2",
       "price": 46000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 2*, muchas gracias. 😊"
@@ -667,6 +730,7 @@
       "slug": "kit-timoteo-3",
       "price": 50000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 3*, muchas gracias. 😊"
@@ -677,6 +741,7 @@
       "slug": "kit-timoteo-4",
       "price": 56000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_4.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 4*, muchas gracias. 😊"
@@ -687,6 +752,7 @@
       "slug": "kit-timoteo-5",
       "price": 65000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_5.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 5*, muchas gracias. 😊"
@@ -697,6 +763,7 @@
       "slug": "kit-timoteo-6",
       "price": 75000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_6.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 6*, muchas gracias. 😊"
@@ -707,6 +774,7 @@
       "slug": "kit-timoteo-7",
       "price": 95000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_7.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 7*, muchas gracias. 😊"
@@ -717,6 +785,7 @@
       "slug": "kit-timoteo-8",
       "price": 96000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_8.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 8*, muchas gracias. 😊"
@@ -727,6 +796,7 @@
       "slug": "kit-timoteo-9",
       "price": 96000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_9.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 9*, muchas gracias. 😊"
@@ -737,6 +807,7 @@
       "slug": "kit-timoteo-10",
       "price": 96000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_10.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 10*, muchas gracias. 😊"
@@ -747,6 +818,7 @@
       "slug": "kit-timoteo-11",
       "price": 125000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_11.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 11*, muchas gracias. 😊"
@@ -757,6 +829,7 @@
       "slug": "kit-timoteo-12",
       "price": 155000,
       "category": "kits-timoteo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kittimoteo_12.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 12*, muchas gracias. 😊"
@@ -767,6 +840,7 @@
       "slug": "kit-lettering-1",
       "price": 35000,
       "category": "kits-lettering",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 1*, muchas gracias. 😊"
@@ -777,6 +851,7 @@
       "slug": "kit-lettering-2",
       "price": 45000,
       "category": "kits-lettering",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 2*, muchas gracias. 😊"
@@ -787,6 +862,7 @@
       "slug": "kit-lettering-3",
       "price": 68000,
       "category": "kits-lettering",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 3*, muchas gracias. 😊"
@@ -797,6 +873,7 @@
       "slug": "kit-lettering-4",
       "price": 70000,
       "category": "kits-lettering",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_4.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 4*, muchas gracias. 😊"
@@ -807,6 +884,7 @@
       "slug": "kit-lettering-5",
       "price": 75000,
       "category": "kits-lettering",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_5.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 5*, muchas gracias. 😊"
@@ -817,6 +895,7 @@
       "slug": "kit-lettering-6",
       "price": 95000,
       "category": "kits-lettering",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitlettering_6.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Lettering 6*, muchas gracias. 😊"
@@ -827,6 +906,7 @@
       "slug": "kit-dibujo-1",
       "price": 40000,
       "category": "kits-dibujo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitdibujo_1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 1*, muchas gracias. 😊"
@@ -837,6 +917,7 @@
       "slug": "kit-dibujo-2",
       "price": 55000,
       "category": "kits-dibujo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitdibujo_2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 2*, muchas gracias. 😊"
@@ -847,6 +928,7 @@
       "slug": "kit-dibujo-3",
       "price": 76000,
       "category": "kits-dibujo",
+      "label": "kits",
       "template": "kit",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.kitdibujo_3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Kit Dibujo 3*, muchas gracias. 😊"
