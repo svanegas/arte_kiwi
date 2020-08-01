@@ -13,9 +13,10 @@ document.addEventListener('DOMContentLoaded', function() {
   const product = findProduct(slug);
   setImage(product.imageUrl, product.name);
   setName(product.name);
-  setPrice(product.price);
+  setPrice(product);
   setDescription(product.description);
-  setPurchaseShopping(product.id, product.whatsappMessage);
+  setQuantity(product.quantity);
+  setBuyButton(product.id, product.whatsappMessage);
 });
 
 function init() {
@@ -40,14 +41,37 @@ function setName(name) {
   nameContainer.insertAdjacentHTML('beforeend', spanLabel);
 }
 
-function setPrice(price) {
-  let priceContainer = document.getElementById('priceContainer');
-  const spanLabel = `<span class='font-family-work-sans font-size-md pt-3'>${formatPrice(price)}</span>`;
-  priceContainer.insertAdjacentHTML('beforeend', spanLabel);
+function setQuantity(quantity) {
+  if (quantity === undefined) {
+    return;
+  }
+
+  let quantityContainer = document.getElementById('quantityContainer');
+  const spanLabel = `<span class='font-size-md pt-3'>Cantidad: ${quantity}</span>`;
+  quantityContainer.insertAdjacentHTML('beforeend', spanLabel);
+}
+
+function setPrice(product) {
+  if (product.digital_price) {
+    let priceContainer = document.getElementById('priceContainer');
+    let spanLabelTitle = `<span class='font-family-work-sans font-size-md pt-3'>Precio físico</span><br>`;
+    priceContainer.insertAdjacentHTML('beforeend', spanLabelTitle);
+    let spanLabelPrice = `<span class='font-family-work-sans font-size-md pt-3'>${formatPrice(product.physical_price)}</span>`;
+    priceContainer.insertAdjacentHTML('beforeend', spanLabelPrice);
+
+    let priceDigitalContainer = document.getElementById('priceDigitalContainer');
+    spanLabelTitle = `<span class='font-family-work-sans font-size-md pt-3'>Precio virtual</span><br>`;
+    priceDigitalContainer.insertAdjacentHTML('beforeend', spanLabelTitle);
+    spanLabelPrice = `<span class='font-family-work-sans font-size-md pt-3'>${formatPrice(product.digital_price)}</span>`;
+    priceDigitalContainer.insertAdjacentHTML('beforeend', spanLabelPrice);
+  } else {
+    let priceContainer = document.getElementById('priceContainer');
+    const spanLabel = `<span class='font-family-work-sans font-size-md pt-3'>${formatPrice(product.price)}</span>`;
+    priceContainer.insertAdjacentHTML('beforeend', spanLabel);
+  }
 }
 
 function setDescription(description) {
-  console.log(description);
   if (description == undefined) description = "";
   let descriptionContainer = document.getElementById('descriptionContainer');
   description.forEach((item, i) => {
@@ -55,7 +79,7 @@ function setDescription(description) {
   });
 }
 
-function setPurchaseShopping(id, whatsappMessage) {
+function setBuyButton(id, whatsappMessage) {
   let purchaseContainer = document.getElementById('purchaseContainer');
   const anchorLabel = `
     <a id="${id}" target='_blank' href='https://api.whatsapp.com/send?phone=573175987665&text=${whatsappMessage}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>

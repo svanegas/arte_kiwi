@@ -5,7 +5,7 @@ const markersCardTemplate = function markersCardTemplate(product) {
     <div class='col-12 col-md-6 col-lg-4 card my-1 kiwi-bg-white border-0'>
       <div class='row m-2 m-md-3 no-gutters'>
         <div class='col-6 card-height'>
-          <a id="${product.id}" target='_blank' href='/productos/${product.label}/${product.slug}'>
+          <a id="${product.id}" href='/productos/${product.label}/${product.slug}'>
             <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}' class='lazyload card-img' />
           </a>
         </div>
@@ -23,7 +23,7 @@ const markersCardTemplate = function markersCardTemplate(product) {
           </div>
         </div>
         <div class='col-12 pt-2'>
-          <a id="${product.id}" target='_blank' href='/productos/${product.label}/${product.slug}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
+          <a id="${product.id}" href='/productos/${product.label}/${product.slug}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
             <span>VER DETALLE</span>
           </a>
         </div>
@@ -37,7 +37,7 @@ const virtualBookCardTemplate = function virtualBookCardTemplate(product) {
     <div class='col-12 col-md-6 col-lg-4 card my-1 kiwi-bg-white border-0'>
       <div class='row m-2 m-md-3 no-gutters'>
         <div class='col-6 card-height'>
-          <a id="${product.id}" target='_blank' href='/productos/${product.label}/${product.slug}'>
+          <a id="${product.id}" href='/productos/${product.label}/${product.slug}'>
             <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}' class='lazyload card-img' />
           </a>
         </div>
@@ -61,7 +61,7 @@ const virtualBookCardTemplate = function virtualBookCardTemplate(product) {
           </div>
         </div>
         <div class='col-12 pt-2'>
-          <a id="${product.id}" target='_blank' href='/productos/${product.label}/${product.slug}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
+          <a id="${product.id}" href='/productos/${product.label}/${product.slug}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
             <span>VER DETALLE</span>
           </a>
         </div>
@@ -75,7 +75,7 @@ const binnacleCardTemplate = function binnacleCardTemplate(product) {
     <div class='col-12 col-md-6 col-lg-4 card my-1 kiwi-bg-white border-0'>
       <div class='row m-2 m-md-3 no-gutters'>
         <div class='col-6 card-height'>
-          <a id="${product.id}" target='_blank' href='/productos/${product.label}/${product.slug}'>
+          <a id="${product.id}" href='/productos/${product.label}/${product.slug}'>
             <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}' class='lazyload card-img' />
           </a>
         </div>
@@ -90,7 +90,7 @@ const binnacleCardTemplate = function binnacleCardTemplate(product) {
           </div>
         </div>
         <div class='col-12 pt-2'>
-          <a id="${product.id}" target='_blank' href='/productos/${product.label}/${product.slug}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
+          <a id="${product.id}" href='/productos/${product.label}/${product.slug}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
             <span>VER DETALLE</span>
           </a>
         </div>
@@ -104,7 +104,7 @@ const bookCardTemplate = function bookCardTemplate(product) {
     <div class='col-12 col-md-6 col-lg-4 card my-1 kiwi-bg-white border-0'>
       <div class='row m-2 m-md-3 no-gutters'>
         <div class='col-6 card-height'>
-          <a id="${product.id}" target='_blank' href='/productos/${product.label}/${product.slug}'>
+          <a id="${product.id}" href='/productos/${product.label}/${product.slug}'>
             <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}' class='lazyload card-img' />
           </a>
         </div>
@@ -119,7 +119,7 @@ const bookCardTemplate = function bookCardTemplate(product) {
           </div>
         </div>
         <div class='col-12 pt-2'>
-          <a id="${product.id}" target='_blank' href='/productos/${product.label}/${product.slug}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
+          <a id="${product.id}" href='/productos/${product.label}/${product.slug}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
             <span>VER DETALLE</span>
           </a>
         </div>
@@ -133,7 +133,7 @@ const kitCardTemplate = function kitCardTemplate(product) {
     <div class='col-12 col-md-6 col-lg-4 card my-1 kiwi-bg-white border-0'>
       <div class='row m-2 m-md-3 no-gutters'>
         <div class='col-6 card-height'>
-          <a id="${product.id}" target='_blank' href='/productos/${product.label}/${product.slug}'>
+          <a id="${product.id}" href='/productos/${product.label}/${product.slug}'>
             <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}' class='lazyload card-img' />
           </a>
         </div>
@@ -148,7 +148,7 @@ const kitCardTemplate = function kitCardTemplate(product) {
           </div>
         </div>
         <div class='col-12 pt-2'>
-          <a id="${product.id}" target='_blank' href='/productos/${product.label}/${product.slug}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
+          <a id="${product.id}" href='/productos/${product.label}/${product.slug}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
             <span>VER DETALLE</span>
           </a>
         </div>
@@ -162,7 +162,7 @@ const organizersCardTemplate = function organizersCardTemplate(product) {
     <div class='col-12 col-md-6 col-lg-4 card my-1 kiwi-bg-white border-0'>
       <div class='row m-2 m-md-3 no-gutters'>
         <div class='col-6 card-height'>
-          <a id="${product.id}" target='_blank' href='/productos/${product.label}/${product.slug}'>
+          <a id="${product.id}" href='/productos/${product.label}/${product.slug}'>
             <img data-src='${product.imageUrl}' src='/img/web-thumbnail.jpg' align='left' alt='${product.name}' class='lazyload card-img' />
           </a>
         </div>
@@ -180,7 +180,7 @@ const organizersCardTemplate = function organizersCardTemplate(product) {
           </div>
         </div>
         <div class='col-12 pt-2'>
-          <a id="${product.id}" target='_blank' href='/productos/${product.label}/${product.slug}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
+          <a id="${product.id}" href='/productos/${product.label}/${product.slug}' class='d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn'>
             <span>VER DETALLE</span>
           </a>
         </div>

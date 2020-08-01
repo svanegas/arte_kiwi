@@ -162,9 +162,7 @@
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_stix_brush_marker.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Artline Stix Brush Marker Neón*, muchas gracias. 😊",
       "template": "marker",
-      "description": [
-        "Stix brush pen"
-      ]
+      "description": []
     },
     {
       "name": "Pincel Recargable",
