@@ -162,9 +162,7 @@
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_stix_brush_marker.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Artline Stix Brush Marker Neón*, muchas gracias. 😊",
       "template": "marker",
-      "description": [
-        "Stix brush pen"
-      ]
+      "description": []
     },
     {
       "name": "Pincel Recargable",
@@ -725,7 +723,7 @@
       "name": "Cartilla de letra Timoteo 39 páginas",
       "id": "cartilla-de-letra-timoteo-39-paginas-kiwi-gtm",
       "slug": "cartilla-de-letra-timoteo-39-paginas",
-      "digital_price": 23000,
+      "price": 23000,
       "physical_price": 38000,
       "category": "books",
       "label": "cartillas",
@@ -742,7 +740,7 @@
       "name": "Cartilla de dibujos Timoteo 25 páginas",
       "id": "cartilla-de-dibujos-timoteo-25-paginas-kiwi-gtm",
       "slug": "cartilla-de-dibujos-timoteo-25-paginas",
-      "digital_price": 18000,
+      "price": 18000,
       "physical_price": 26000,
       "category": "books",
       "label": "cartillas",
@@ -758,7 +756,7 @@
       "name": "Cartilla de Lettering 38 páginas",
       "id": "cartilla-de-lettering-38-paginas-kiwi-gtm",
       "slug": "cartilla-de-lettering-38-paginas",
-      "digital_price": 22000,
+      "price": 22000,
       "physical_price": 36000,
       "category": "books",
       "label": "cartillas",
@@ -775,7 +773,7 @@
       "name": "Combo tres cartillas (Lettering + Timoteo + Dibujo)",
       "id": "catillas-las-tres-kiwi-gtm",
       "slug": "catillas-las-tres",
-      "digital_price": 53000,
+      "price": 53000,
       "physical_price": 90000,
       "category": "books",
       "label": "cartillas",
