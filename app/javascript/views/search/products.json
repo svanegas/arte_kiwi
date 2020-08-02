@@ -146,10 +146,7 @@
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_multipen.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Artline MultiPen*, muchas gracias. 😊",
       "template": "marker",
-      "description": [
-        "Punta pincel",
-        "Ideales para Lettering en papel claro"
-      ]
+      "description": []
     },
     {
       "name": "Artline Stix Brush Marker Neón",
@@ -162,7 +159,10 @@
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-artline_stix_brush_marker.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Artline Stix Brush Marker Neón*, muchas gracias. 😊",
       "template": "marker",
-      "description": []
+      "description": [
+        "Punta pincel",
+        "Ideales para Lettering en papel claro"
+      ]
     },
     {
       "name": "Pincel Recargable",
@@ -260,6 +260,7 @@
       "description": [
         "De vinilo",
         "Punta bala",
+        "Colores neón",
         "Ideales para escribir sobre vidrio, cartón, acetato, madera, papel, aluminio"
       ]
     },
@@ -394,10 +395,11 @@
       "whatsappMessage": "¡Hola! deseo información de *Eterna metal doble trazo*, muchas gracias. 😊",
       "template": "marker",
       "description": [
-        "De vinilo",
         "Punta bala",
-        "Colores neón",
-        "Ideales para escribir sobre vidrio, cartón, acetato, madera, papel, aluminio"
+        "Tinta líquida",
+        "Metalizados",
+        "Doble trazo",
+        "Ideales para superficies oscuras"
       ]
     },
     {
@@ -466,11 +468,9 @@
       "whatsappMessage": "¡Hola! deseo información de *Marcadores Pelikan Colorella pastel*, muchas gracias. 😊",
       "template": "marker",
       "description": [
-        "Punta suave",
-        "Cuerpo redondo",
-        "Mina de 3.3mm",
-        "Trazos suaves y gran cobertura",
-        "Tonos pastel"
+        "Tono pastel",
+        "Punta redonda",
+        "Ideales para papel claro"
       ]
     },
     {
@@ -559,7 +559,13 @@
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.colores3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Colores pastel Pelikan*, muchas gracias. 😊",
       "template": "marker",
-      "description": []
+      "description": [
+        "Punta suave",
+        "Cuerpo redondo",
+        "Mina de 3.3mm",
+        "Trazos suaves y gran cobertura.",
+        "Tonos pastel"
+      ]
     },
     {
       "name": "Norma doble punta",
