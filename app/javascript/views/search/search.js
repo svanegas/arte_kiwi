@@ -17,7 +17,8 @@ document.addEventListener('DOMContentLoaded', function() {
   initCards(category);
   selectListener();
   sortListener();
-  initCategorySelector(category);
+  changeCategoryFromPromotionalCard(category);
+  setCategoryFromCookie();
 });
 
 function init() {
@@ -33,12 +34,19 @@ const categoryMapper = {
   kits: 'kits',
 }
 
-function initCategorySelector(category) {
+function changeCategoryFromPromotionalCard(category) {
   if (category == "" || category == undefined) {
     selectCategory.value = "all";
     return;
   }
+  localStorage.removeItem("category");
   selectCategory.value = categoryMapper[category];
+}
+
+function setCategoryFromCookie() {
+  if (localStorage.getItem("category") !== null) {
+    selectCategoryFilter(localStorage.getItem("category"));
+  }
 }
 
 function selectTemplate(category) {
@@ -67,6 +75,7 @@ function initCards(category) {
   }
 
   let productsFiltered = filterProducts(categoryMapper[category], raw_products);
+  cacheProducts = productsFiltered
   fillCards(productsFiltered);
 }
 
@@ -112,17 +121,23 @@ function sortProducts(expensiveSort, products) {
 
 function selectListener() {
   selectCategory.onchange = (event) => {
-      let categorySelected = event.target.value;
-      let productsFiltered = []
-      if (categorySelected == 'all') {
-        productsFiltered = raw_products;
-      } else {
-        productsFiltered = filterProducts(categorySelected, raw_products)
-      }
-      cardsContainer.innerHTML = '';
-      fillCards(productsFiltered);
-      cacheProducts = productsFiltered;
+    window.history.replaceState(null, null, window.location.pathname);
+    selectCategoryFilter(event.target.value);
   }
+}
+
+function selectCategoryFilter(categorySelected) {
+  let productsFiltered = []
+  if (categorySelected == 'all') {
+    productsFiltered = raw_products;
+    localStorage.removeItem("category");
+  } else {
+    productsFiltered = filterProducts(categorySelected, raw_products)
+    localStorage.setItem("category", categorySelected);
+  }
+  cardsContainer.innerHTML = '';
+  fillCards(productsFiltered);
+  cacheProducts = productsFiltered;
 }
 
 function sortListener() {

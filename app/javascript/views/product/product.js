@@ -52,18 +52,18 @@ function setQuantity(quantity) {
 }
 
 function setPrice(product) {
-  if (product.digital_price) {
-    let priceContainer = document.getElementById('priceContainer');
+  if (product.physical_price) {
+    let pricePhysicalContainer = document.getElementById('pricePhysicalContainer');
     let spanLabelTitle = `<span class='font-family-work-sans font-size-md pt-3'>Precio físico</span><br>`;
-    priceContainer.insertAdjacentHTML('beforeend', spanLabelTitle);
+    pricePhysicalContainer.insertAdjacentHTML('beforeend', spanLabelTitle);
     let spanLabelPrice = `<span class='font-family-work-sans font-size-md pt-3'>${formatPrice(product.physical_price)}</span>`;
-    priceContainer.insertAdjacentHTML('beforeend', spanLabelPrice);
+    pricePhysicalContainer.insertAdjacentHTML('beforeend', spanLabelPrice);
 
-    let priceDigitalContainer = document.getElementById('priceDigitalContainer');
+    let priceContainer = document.getElementById('priceContainer');
     spanLabelTitle = `<span class='font-family-work-sans font-size-md pt-3'>Precio virtual</span><br>`;
-    priceDigitalContainer.insertAdjacentHTML('beforeend', spanLabelTitle);
-    spanLabelPrice = `<span class='font-family-work-sans font-size-md pt-3'>${formatPrice(product.digital_price)}</span>`;
-    priceDigitalContainer.insertAdjacentHTML('beforeend', spanLabelPrice);
+    priceContainer.insertAdjacentHTML('beforeend', spanLabelTitle);
+    spanLabelPrice = `<span class='font-family-work-sans font-size-md pt-3'>${formatPrice(product.price)}</span>`;
+    priceContainer.insertAdjacentHTML('beforeend', spanLabelPrice);
   } else {
     let priceContainer = document.getElementById('priceContainer');
     const spanLabel = `<span class='font-family-work-sans font-size-md pt-3'>${formatPrice(product.price)}</span>`;

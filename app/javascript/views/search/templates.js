@@ -55,7 +55,7 @@ const virtualBookCardTemplate = function virtualBookCardTemplate(product) {
                 <span>Virtual:</span>
               </div>
               <div class='font-family-work-sans font-size-md font-size-lt-sm-lg'>
-                <span>${formatPrice(product.digital_price)}</span>
+                <span>${formatPrice(product.price)}</span>
               </div>
             </div>
           </div>
