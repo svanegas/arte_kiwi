@@ -642,7 +642,7 @@
       "category": "washable-markers",
       "label": "marcadores-lavables",
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-kiut_glitter_x10.JPG",
-      "whatsappMessage": "¡Hola! deseo información de *Kiut glitter *, muchas gracias. 😊",
+      "whatsappMessage": "¡Hola! deseo información de *Kiut glitter*, muchas gracias. 😊",
       "template": "marker",
       "description": [
         "Punta bala",
@@ -734,7 +734,7 @@
       "whatsappMessage": "¡Hola! deseo información de *Cartilla de letra Timoteo 39 páginas*, muchas gracias. 😊",
       "description": [
         "Cartilla de aprendizaje",
-        "39 paginas",
+        "39 páginas",
         "Compuesta de ejercicios básicos, abecedario Timoteo, frases, diseños, espacio para practicar"
       ]
     },
@@ -795,7 +795,8 @@
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.Mandala1.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Combo mandalas*, muchas gracias. 😊",
       "description": [
-        "Combo mandalas, libro de 55 paginas y caja de 24 colores ecológicos, suaves y de mina duradera"
+        "Combo mandalas",
+        "Libro de 55 páginas y caja de 24 colores ecológicos, suaves y de mina duradera"
       ]
     },
     {
@@ -990,8 +991,7 @@
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 1*, muchas gracias. 😊",
       "description": [
         "Marcadores eterna neón x8",
-        "2 Window-ink de 5",
-        "5mm",
+        "2 Window-ink de 5.5mm",
         "1 Window-ink de 15mm"
       ]
     },
@@ -1054,8 +1054,7 @@
       "whatsappMessage": "¡Hola! deseo información de *Kit Timoteo 5*, muchas gracias. 😊",
       "description": [
         "Marcadores Twins Lines x12",
-        "2 Window-ink de 5",
-        "5mm",
+        "2 Window-ink de 5.5mm",
         "2 Window-ink de 15mm"
       ]
     },
@@ -1153,8 +1152,7 @@
         "Globo metalizado",
         "Tarjeta",
         "Marcadores gráficos Doricolor x10",
-        "2 Window-ink 5",
-        "5mm"
+        "2 Window-ink 5.5mm"
       ]
     },
     {
@@ -1196,8 +1194,7 @@
         "Tarjeta",
         "Marcadores Twins Lines x12, Marcadores Kiut Glitter x10",
         "2 Window-ink 15mm",
-        "2 Window-ink 5",
-        "5mm"
+        "2 Window-ink 5.5mm"
       ]
     },
     {
