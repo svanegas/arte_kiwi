@@ -467,7 +467,11 @@
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.colorelapastel2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcadores Pelikan Colorella pastel*, muchas gracias. 😊",
       "template": "marker",
-      "description": []
+      "description": [
+        "Tono pastel",
+        "Punta redonda",
+        "Ideales para papel claro"
+      ]
     },
     {
       "name": "Marcadores Pelikan Colorella triangular (próximamente)",
