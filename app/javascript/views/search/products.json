@@ -467,13 +467,7 @@
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.colorelapastel2.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Marcadores Pelikan Colorella pastel*, muchas gracias. 😊",
       "template": "marker",
-      "description": [
-        "Punta suave",
-        "Cuerpo redondo",
-        "Mina de 3.3mm",
-        "Trazos suaves y gran cobertura",
-        "Tonos pastel"
-      ]
+      "description": []
     },
     {
       "name": "Marcadores Pelikan Colorella triangular (próximamente)",
@@ -561,7 +555,13 @@
       "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.colores3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Colores pastel Pelikan*, muchas gracias. 😊",
       "template": "marker",
-      "description": []
+      "description": [
+        "Punta suave",
+        "Cuerpo redondo",
+        "Mina de 3.3mm",
+        "Trazos suaves y gran cobertura.",
+        "Tonos pastel"
+      ]
     },
     {
       "name": "Norma doble punta",
