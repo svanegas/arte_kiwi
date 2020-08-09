@@ -46,6 +46,7 @@ ActiveRecord::Schema.define(version: 2020_08_09_215820) do
     t.string "template"
     t.jsonb "data", default: {}
     t.integer "product_state", default: 0
+    t.text "description"
     t.bigint "category_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
