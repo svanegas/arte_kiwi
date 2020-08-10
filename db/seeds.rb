@@ -14,11 +14,12 @@ products = JSON.load(products_file).dig("raw_products")
 products_file.close
 
 products.each do |pro|
+  p "++++ Processing: #{pro.dig("name")} ++++"
   category = Category.find_or_create_by(name: pro.dig("category"), label: pro.dig("label"))
   product = Product.create(
     name: pro.dig("name"),
     gtm_id: pro.dig("id"),
-    quantity: pro.dig("quantity").to_i,
+    quantity: pro.dig("quantity")&.to_i,
     price: pro.dig("price"),
     template: pro.dig("marker"),
     data: {},
@@ -26,8 +27,11 @@ products.each do |pro|
     description: pro.dig("description").join("\n"),
     category: category,
   )
+  image = ProductImage.create(product: product)
+  image.remote_image_url = pro.dig("image")
+  image.save
+
+  p "++++ Finish processing: #{pro.dig("name")} ++++"
 end
-
-
 
 p "-------------------------- End seeds --------------------------"
