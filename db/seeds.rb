@@ -21,14 +21,18 @@ products.each do |pro|
     gtm_id: pro.dig("id"),
     quantity: pro.dig("quantity")&.to_i,
     price: pro.dig("price"),
-    template: pro.dig("marker"),
+    template: pro.dig("template"),
     data: {},
     product_state: 1,
     description: pro.dig("description").join("\n"),
     category: category,
   )
-  image = ProductImage.create(product: product)
-  image.remote_image_url = pro.dig("image")
+
+  if pro.dig("physical_price").present?
+    product.update(data: { physical_price: pro.dig("physical_price") })
+  end
+  image = ProductImage.create(product: product, main: true)
+  image.remote_image_url = pro.dig("imageUrl")
   image.save
 
   p "++++ Finish processing: #{pro.dig("name")} ++++"
