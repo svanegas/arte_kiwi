@@ -33,6 +33,7 @@ ActiveRecord::Schema.define(version: 2020_08_09_215820) do
   create_table "product_images", force: :cascade do |t|
     t.bigint "product_id", null: false
     t.boolean "main", default: false
+    t.string "image"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["product_id"], name: "index_product_images_on_product_id"
