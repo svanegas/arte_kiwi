@@ -25,11 +25,11 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
+# Connection with AWS
+gem "fog"
+
 # Carrierwave
 gem 'carrierwave', '~> 2.0'
-
-# Connectio with AWS
-gem "fog-aws"
 
 gem 'pry'
 
