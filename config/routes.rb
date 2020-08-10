@@ -6,4 +6,10 @@ Rails.application.routes.draw do
   get '/instagram', to: 'redirect#show', social: :instagram
   get '/facebook', to: 'redirect#show', social: :facebook
   get '/youtube', to: 'redirect#show', social: :youtube
+
+  namespace :api do
+    namespace :v1 do
+      resources :products, only: [:index]
+    end
+  end
 end
