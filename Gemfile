@@ -28,6 +28,9 @@ gem 'jbuilder', '~> 2.7'
 # Carrierwave
 gem 'carrierwave', '~> 2.0'
 
+# Connectio with AWS
+gem "fog-aws"
+
 gem 'pry'
 
 # Reduces boot times through caching; required in config/boot.rb
