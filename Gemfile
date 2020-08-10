@@ -31,6 +31,9 @@ gem "fog"
 # Carrierwave
 gem 'carrierwave', '~> 2.0'
 
+# For slugs
+gem "friendly_id", "~> 5.3.0"
+
 gem 'pry'
 
 # Reduces boot times through caching; required in config/boot.rb
