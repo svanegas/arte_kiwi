@@ -1,24 +1,22 @@
 import 'lazysizes';
 import productsJson from './products.json';
 import templates from './templates.js';
-
-// Constants
-const raw_products = productsJson.raw_products;
+import axios from 'axios';
 
 // Variables
+let raw_products = [];
 let cacheProducts;
 let cardsContainer;
 let selectCategory;
 let sortPrice;
 
 document.addEventListener('DOMContentLoaded', function() {
-  init();
-  const category = getParams(window.location.href).categoria;
-  initCards(category);
-  selectListener();
-  sortListener();
-  changeCategoryFromPromotionalCard(category);
-  setCategoryFromCookie();
+  axios.get('/api/v1/products')
+    .then(response => {
+      raw_products = response.data.products
+      init();
+    })
+    .catch(() => { console.log(error) });
 });
 
 function init() {
@@ -26,6 +24,12 @@ function init() {
   cardsContainer = document.getElementById('cards-container');
   selectCategory = document.getElementById('selectCategory');
   sortPrice = document.getElementById('sortPrice');
+  const category = getParams(window.location.href).categoria;
+  initCards(category);
+  selectListener();
+  sortListener();
+  changeCategoryFromPromotionalCard(category);
+  setCategoryFromCookie();
 }
 
 const categoryMapper = {
