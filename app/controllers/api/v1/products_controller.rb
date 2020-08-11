@@ -5,7 +5,6 @@ module Api
 
       def index
         @products = Product.includes(:category, :product_images).all
-        # render json: { workea: "holi" }, status: :ok
       end
     end
   end
