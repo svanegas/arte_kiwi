@@ -5,7 +5,6 @@ json.products @products do |product|
   json.label product.category.label
   json.description product.description.split("\n")
   json.imageUrl product.product_images.first.image_url
-  json.whatsappMessage "¡Hola! deseo información de *#{product.name}*, muchas gracias. 😊"
   if product.data.dig("physical_price")
     json.physical_price product.data.dig("physical_price")
   end
