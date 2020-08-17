@@ -1,3 +1,3 @@
 import 'normalize.css';
+import 'lazysizes';
 import './../views/product/product.scss';
-import './../views/product/product.js';

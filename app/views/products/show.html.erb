@@ -21,7 +21,7 @@
   <div class="row no-gutters mx-3 py-4" style="max-width: 1220px;">
     <div class="col-12 col-md-6">
       <div id="imageContainer" class="carousel">
-        <img data-src='<%= @image %>' src='/img/web-thumbnail.jpg' align='left' alt='<%= @product.name %>' class='lazyload img-fit' />
+        <img data-src='<%= @presenter.dig(:image) %>' src='/img/web-thumbnail.jpg' align='left' alt='<%= @presenter.dig(:name) %>' class='lazyload img-fit' />
       </div>
     </div>
     <div class="col-12 col-md-6 mt-5 mt-md-0">
@@ -29,29 +29,28 @@
         <div class="row no-gutters">
           <div class="col-12">
             <div id="nameContainer">
-              <span class='font-family-chewy font-size-lg font-size-lt-md-xl pt-1'><%= @product.name %></span>
+              <span class='font-family-chewy font-size-lg font-size-lt-md-xl pt-1'><%= @presenter.dig(:name) %></span>
             </div>
           </div>
           <div class="col-12">
             <div id="quantityContainer" class="mt-3">
-              <% if @product.quantity %>
-                <!-- TODO make the migration to transform this field to a STRING -->
-                <span class='font-size-md pt-3'>Cantidad: <%= @product.quantity %></span>
-              <% end %>
+              <%= @presenter.dig(:quantity).html_safe %>
             </div>
           </div>
-          <div class="col-12">
-            <div id="priceContainer" class="mt-3"></div>
-          </div>
-          <div class="col-12">
-            <div id="pricePhysicalContainer" class="mt-3"></div>
-          </div>
+          <% @presenter.dig(:prices).each do |price_group| %>
+            <div class="col-12">
+              <div class="mt-3">
+                <%= price_group.dig(:label).html_safe %>
+                <%= price_group.dig(:price).html_safe %>
+              </div>
+            </div>
+          <% end %>
         </div>
         <div class="row no-gutters">
           <div class="col-12">
             <div>
               <ul id="descriptionContainer">
-                <% @description.each do |item| %>
+                <% @presenter.dig(:description).each do |item| %>
                   <li><%= item %></li>
                 <% end %>
               </ul>
@@ -59,7 +58,7 @@
           </div>
           <div class="col-12">
             <div id="purchaseContainer" class="mt-3">
-              <%= link_to @whatsapp_message, id: @product.gtm_id, target: "_blank", class: "d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn" do %>
+              <%= link_to @presenter.dig(:whatsapp_message), id: @presenter.dig(:gtm_id), target: "_blank", class: "d-flex align-items-center justify-content-center kiwi-btn kiwi-btn--sm kiwi-btn--red font-family-work-sans color-white card-btn" do %>
                 <i class='fab fa-whatsapp font-size-xl mr-3'></i>
                 <span>COMPRAR</span>
               <% end %>
