@@ -19,7 +19,7 @@ products.each do |pro|
   product = Product.create(
     name: pro.dig("name"),
     gtm_id: pro.dig("id"),
-    quantity: pro.dig("quantity")&.to_i,
+    quantity: pro.dig("quantity"),
     price: pro.dig("price"),
     template: pro.dig("template"),
     data: {},
