@@ -15,6 +15,7 @@ products_file.close
 
 products.each do |pro|
   p "++++ Processing: #{pro.dig("name")} ++++"
+  # next if pro.dig("name") != "Plumones Faber-Castell Metálico"
   category = Category.find_or_create_by(name: pro.dig("category"), label: pro.dig("label"))
   product = Product.create(
     name: pro.dig("name"),
