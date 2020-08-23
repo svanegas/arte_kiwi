@@ -188,7 +188,7 @@
       "price": 21000,
       "category": "lettering-markers",
       "label": "marcadores-lettering",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-plumones_faber_castell_meta%CC%81lico.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-plumones_faber_castell_metalico_3.JPG",
       "whatsappMessage": "¡Hola! deseo información de *Plumones Faber-Castell Metálico*, muchas gracias. 😊",
       "template": "marker",
       "description": [
@@ -358,7 +358,7 @@
       "price": 18000,
       "category": "vinyl-markers",
       "label": "marcadores-vinilo",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.pegantepequen%CC%83o1.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.pegantepequeno1_2.jpeg",
       "whatsappMessage": "¡Hola! deseo información de *Marcador pegante 5mm*, muchas gracias. 😊",
       "template": "marker",
       "description": [
@@ -538,7 +538,7 @@
       "price": 8500,
       "category": "pelikan-markers",
       "label": "marcadores-pelikan",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.Te%CC%81mperas2.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann1.Temperas2_2.jpeg",
       "whatsappMessage": "¡Hola! deseo información de *Témpera pastel Pelikan*, muchas gracias. 😊",
       "template": "marker",
       "description": [
@@ -847,7 +847,7 @@
       "category": "binnacles",
       "label": "bitacoras",
       "template": "binnacle",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.bita%CC%81coramedia2.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.bitacoramedia2_2.jpeg",
       "whatsappMessage": "¡Hola! deseo información de *Bitácora de práctica media carta 50 hojas blancas BOND*, muchas gracias. 😊",
       "description": [
         "Pasta dura",
@@ -864,7 +864,7 @@
       "category": "binnacles",
       "label": "bitacoras",
       "template": "binnacle",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.bita%CC%81coracarta4.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-bann2.bitacoracarta4_2.jpeg",
       "whatsappMessage": "¡Hola! deseo información de *Bitácora de práctica tamaño carta 50 hojas blancas BOND*, muchas gracias. 😊",
       "description": [
         "Pasta dura",
@@ -946,7 +946,7 @@
       "category": "organizers",
       "label": "organizadores",
       "template": "organizer",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_recta%CC%81ngulo_4.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_rectangulo_4_2.jpeg",
       "whatsappMessage": "¡Hola! deseo información de *Rectángulo*, muchas gracias. 😊",
       "size": "30x20cm",
       "description": []
@@ -959,7 +959,7 @@
       "category": "organizers",
       "label": "organizadores",
       "template": "organizer",
-      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_cuadrado_pequen%CC%83o.JPG",
+      "imageUrl": "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/web-organizador_cuadrado_pequeno_2.jpeg",
       "whatsappMessage": "¡Hola! deseo información de *Cuadrado pequeño*, muchas gracias. 😊",
       "size": "20x20cm",
       "description": []
