@@ -34,6 +34,9 @@ gem 'carrierwave', '~> 2.0'
 # For slugs
 gem "friendly_id", "~> 5.3.0"
 
+# Error manager
+gem 'rollbar', "~> 2.27.0"
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
