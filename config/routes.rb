@@ -12,4 +12,8 @@ Rails.application.routes.draw do
       resources :products, only: [:index]
     end
   end
+
+  namespace :admin do
+    resources :products
+  end
 end
