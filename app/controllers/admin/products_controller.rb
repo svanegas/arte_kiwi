@@ -29,7 +29,7 @@ module Admin
 
       respond_to do |format|
         if @product.save
-          format.html { redirect_to @product, notice: 'Product was successfully created.' }
+          format.html { redirect_to admin_products_url, notice: 'Product was successfully created.' }
           format.json { render :show, status: :created, location: @product }
         else
           format.html { render :new }
@@ -41,9 +41,10 @@ module Admin
     # PATCH/PUT /products/1
     # PATCH/PUT /products/1.json
     def update
+      # binding.pry
       respond_to do |format|
         if @product.update(product_params)
-          format.html { redirect_to @product, notice: 'Product was successfully updated.' }
+          format.html { redirect_to admin_products_url, notice: 'Product was successfully updated.' }
           format.json { render :show, status: :ok, location: @product }
         else
           format.html { render :edit }
@@ -71,7 +72,7 @@ module Admin
 
       # Only allow a list of trusted parameters through.
       def product_params
-        params.fetch(:product, {})
+        params.require(:product).permit(:name, :description, :price, data: [:physical_price], product_images: [:image])
       end
   end
 end
