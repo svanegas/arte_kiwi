@@ -32,25 +32,12 @@
         <%= number_field_tag 'product[data][physical_price]', product.data['physical_price'], class: "form-control" %>
       </div>
 
-      <%= form.fields_for :product_images do |f| %>
-        <% if product.product_images.first.present? && product.product_images.first.image.present? && product.product_images.first.image.url.present? %>
-          <%= image_tag product.product_images[0].image.url, width: "40%" %>
+      <%= form.fields_for :product_images do |images_fields| %>
+        <% if images_fields.object.present? && images_fields.object.image.present? && images_fields.object.image.url.present? %>
+          <%= image_tag images_fields.object.image.url, width: "40%" %>
         <% end %>
-        <%= f.file_field :image, name: "product[product_images][image]" %>
+        <%= images_fields.file_field :image %>
       <% end %>
-
-      <!-- <div class="form-group">
-        <span>Imagen del card en el home. Tamaño: 360x260</span><br>
-        <%# if product.card_image.present? && product.card_image.url.present? %>
-          <%#= image_tag product.card_image.url(:original), width: "40%", class: "mb-3" %>
-        <%# end %>
-        <%#= form.file_field :card_image, class: 'form-control', accept: ".jpg, .jpeg, .png, .gif" %>
-      </div> -->
-
-      <!-- <span>¿Mostrar servicio?</span>
-      <div class="form-group">
-        <%#= form.check_box :visible, class: "form-control" %>
-      </div> -->
     </div>
   </div>
   <div class="actions">
