@@ -43,7 +43,19 @@ module Admin
     def update
       # binding.pry
       respond_to do |format|
-        if @product.update(product_params)
+        # The product images defintely shouldn't be loaded like this,
+        # but this is just to see how they're getting into the parameters.
+        # Since we're using a relation for ProductImages, we're creating the instance of it before updating.
+        # There must be a way to update this straight away from params...
+        product_images = []
+        new_params = product_params
+        if product_params[:product_images].present?
+          product_params[:product_images].each do |value|
+            product_images << ProductImage.new(image: value.second) # why is it an array and second element contains the actual image? Diosito knows.
+          end
+          new_params[:product_images] = product_images
+        end
+        if @product.update(new_params)
           format.html { redirect_to admin_products_url, notice: 'Product was successfully updated.' }
           format.json { render :show, status: :ok, location: @product }
         else
