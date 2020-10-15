@@ -23,6 +23,16 @@
       </div>
 
       <div class="form-group">
+        <%= form.label "Template" %>
+        <%= form.select("template", Product.pluck(:template).uniq) %>
+      </div>
+
+      <div class="form-group">
+        <%= form.label "Categoría" %>
+        <%= form.collection_select(:category_id, Category.all, :id, :name, prompt: "Select") %>
+      </div>
+
+      <div class="form-group">
         <%= form.label "Precio" %>
         <%= form.number_field :price, class: "form-control" %>
       </div>
@@ -36,7 +46,9 @@
         <% if images_fields.object.present? && images_fields.object.image.present? && images_fields.object.image.url.present? %>
           <%= image_tag images_fields.object.image.url, width: "40%" %>
         <% end %>
-        <%= images_fields.file_field :image %>
+        <div class="form-group">
+          <%= images_fields.file_field :image %>
+        </div>
       <% end %>
     </div>
   </div>

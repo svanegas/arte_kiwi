@@ -16,6 +16,7 @@ module Admin
     # GET /products/new
     def new
       @product = Product.new
+      @product.product_images.build
     end
 
     # GET /products/1/edit
@@ -71,7 +72,13 @@ module Admin
 
       # Only allow a list of trusted parameters through.
       def product_params
-        params.require(:product).permit(:name, :description, :price, data: [:physical_price], product_images_attributes: [:id, :image])
+        params.require(:product).permit(:name,
+                                        :description,
+                                        :price,
+                                        :template,
+                                        :category_id,
+                                        data: [:physical_price],
+                                        product_images_attributes: [:id, :image])
       end
   end
 end
