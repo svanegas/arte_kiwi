@@ -13,4 +13,6 @@ class Product < ApplicationRecord
   }
 
   validates_presence_of :name, :price
+
+  accepts_nested_attributes_for :product_images, allow_destroy: true
 end

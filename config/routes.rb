@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  devise_for :users
   root 'home#index'
   get '/productos/:category/:slug', to: 'products#show', as: :product
   get '/buscar', to: 'search#index', as: :search
@@ -11,5 +12,9 @@ Rails.application.routes.draw do
     namespace :v1 do
       resources :products, only: [:index]
     end
+  end
+
+  namespace :admin do
+    resources :products
   end
 end

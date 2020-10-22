@@ -1,0 +1,58 @@
+<%= form_with(model: [:admin, @product], local: true) do |form| %>
+  <% if product.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(product.errors.count, "error") %> prohibited this product from being saved:</h2>
+
+      <ul>
+        <% product.errors.full_messages.each do |message| %>
+          <li><%= message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+  <div class="row no-gutters">
+    <div class="col-md-6 col-sm-12 pr-md-3">
+      <div class="form-group">
+        <%= form.label "Nombre" %>
+        <%= form.text_field :name, class: "form-control" %>
+      </div>
+
+      <div class="form-group">
+        <%= form.label "Descripción" %>
+        <%= form.text_area :description, class: "form-control" %>
+      </div>
+
+      <div class="form-group">
+        <%= form.label "Template" %>
+        <%= form.select("template", Product.pluck(:template).uniq) %>
+      </div>
+
+      <div class="form-group">
+        <%= form.label "Categoría" %>
+        <%= form.collection_select(:category_id, Category.all, :id, :name, prompt: "Select") %>
+      </div>
+
+      <div class="form-group">
+        <%= form.label "Precio" %>
+        <%= form.number_field :price, class: "form-control" %>
+      </div>
+
+      <div class="form-group">
+        <%= label_tag 'product[data][physical_price]', 'Precio físico' %>
+        <%= number_field_tag 'product[data][physical_price]', product.data['physical_price'], class: "form-control" %>
+      </div>
+
+      <%= form.fields_for :product_images do |images_fields| %>
+        <% if images_fields.object.present? && images_fields.object.image.present? && images_fields.object.image.url.present? %>
+          <%= image_tag images_fields.object.image.url, width: "40%" %>
+        <% end %>
+        <div class="form-group">
+          <%= images_fields.file_field :image %>
+        </div>
+      <% end %>
+    </div>
+  </div>
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>
