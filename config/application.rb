@@ -12,7 +12,7 @@ module ArteKiwi
     config.load_defaults 6.0
 
     config.to_prepare do
-        Devise::SessionsController.layout "admin"
+        Devise::SessionsController.layout "product"
     end
 
     # Settings in config/environments/* take precedence over those specified here.
