@@ -25,7 +25,7 @@ class HomeController < ApplicationController
         title: "Cartillas",
         image: "https://arte-kiwi.s3-us-west-2.amazonaws.com/hardcoded-images/cartilla_talleres_banner.jpeg",
         id: "talleres-banner",
-        link: "/buscar?categoria=workshops"
+        link: "/buscar?categoria=talleres"
       },
     ]
   end

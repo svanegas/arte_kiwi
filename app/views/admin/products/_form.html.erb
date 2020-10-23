@@ -24,7 +24,7 @@
 
       <div class="form-group">
         <%= form.label "Template" %>
-        <%= form.select("template", Product.pluck(:template).uniq) %>
+        <%= form.select("template", @templates) %>
       </div>
 
       <div class="form-group">

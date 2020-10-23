@@ -93,7 +93,6 @@ function fillCards(products) {
 }
 
 function filterProducts(filter, products) {
-  console.log(filter);
   if (filter == "kits") {
     return products.filter(product => (product.category.includes("kits") || product.category.includes("binnacle") || product.category.includes("books")));
   }
