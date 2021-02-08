@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 2.7'
 gem "fog", '~> 1.41.0'
 
 # Carrierwave
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 
 # For slugs
 gem "friendly_id", "~> 5.3.0"
